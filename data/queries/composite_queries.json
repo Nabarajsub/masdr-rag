@@ -1,0 +1,2252 @@
+[
+  {
+    "query_id": "compq_0001",
+    "query": "How do male platypuses defend themselves and when does their venom become more potent?",
+    "gold_source_type": "confluence",
+    "gold_doc_id": "wiki_000772",
+    "gold_chunk_id": "confluence::wiki_000772::002",
+    "reference_answer": "Male platypuses have a sharp spine on their two back ankles called spurs which contain venom. The amount of poison increases during the breeding season.",
+    "category": "confluence",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0002",
+    "query": "What does ROTFL stand for and what is another way to write it?",
+    "gold_source_type": "confluence",
+    "gold_doc_id": "wiki_000533",
+    "gold_chunk_id": "confluence::wiki_000533::001",
+    "reference_answer": "ROTFL stands for 'Rolling on the floor laughing', and another way to write it is ROFL.",
+    "category": "confluence",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0003",
+    "query": "What is the position of North on most maps and how does it relate to the location of the United States, Mexico, and Brazil?",
+    "gold_source_type": "confluence",
+    "gold_doc_id": "wiki_000925",
+    "gold_chunk_id": "confluence::wiki_000925::000",
+    "reference_answer": "North is usually at the top on most maps. The United States is north of Mexico, which is itself north of Brazil.",
+    "category": "confluence",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0004",
+    "query": "What kind of theories might believers prefer in psychology due to their belief in mechanistic ideas?",
+    "gold_source_type": "confluence",
+    "gold_doc_id": "wiki_000255",
+    "gold_chunk_id": "confluence::wiki_000255::002",
+    "reference_answer": "Theories like behaviorism that deny free will.",
+    "category": "confluence",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0005",
+    "query": "What are the four resources ISO 19011 provides to organizations to help them save time, effort, and money?",
+    "gold_source_type": "confluence",
+    "gold_doc_id": "wiki_000200",
+    "gold_chunk_id": "confluence::wiki_000200::000",
+    "reference_answer": "A clear explanation of the principles of management systems auditing, guidance on the management of audit programs, guidance on the conduct of internal or external audits, and advice on the competence and evaluation of auditors.",
+    "category": "confluence",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0006",
+    "query": "When was Toronto named as the capital of Ontario and what was its original name before that?",
+    "gold_source_type": "confluence",
+    "gold_doc_id": "wiki_000534",
+    "gold_chunk_id": "confluence::wiki_000534::000",
+    "reference_answer": "Toronto was named as the capital of Ontario in 1867 after the Canadian Confederation. Before that, it was originally called the 'Town of York' after the Duke of York and was renamed to Toronto in 1834.",
+    "category": "confluence",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0007",
+    "query": "Which mythology is specifically mentioned for the Indian subcontinent?",
+    "gold_source_type": "confluence",
+    "gold_doc_id": "wiki_000755",
+    "gold_chunk_id": "confluence::wiki_000755::001",
+    "reference_answer": "Hindu mythology",
+    "category": "confluence",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0008",
+    "query": "Which country has both a Monarch and a President as part of its governmental structure?",
+    "gold_source_type": "confluence",
+    "gold_doc_id": "wiki_000850",
+    "gold_chunk_id": "confluence::wiki_000850::001",
+    "reference_answer": "United Arab Emirates",
+    "category": "confluence",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0009",
+    "query": "When did Manchester United change its name to Manchester United F.C. and who was responsible for this change?",
+    "gold_source_type": "confluence",
+    "gold_doc_id": "wiki_000663",
+    "gold_chunk_id": "confluence::wiki_000663::001",
+    "reference_answer": "Manchester United changed its name to Manchester United F.C. in 1902 after John Henry Davies took over.",
+    "category": "confluence",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0010",
+    "query": "What are the denominations of U.S. dollar bills currently in circulation?",
+    "gold_source_type": "confluence",
+    "gold_doc_id": "wiki_000536",
+    "gold_chunk_id": "confluence::wiki_000536::000",
+    "reference_answer": "Currently, U.S. dollar bills in circulation come in denominations of 1, 2, 5, 10, 20, 50, and 100 dollars.",
+    "category": "confluence",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0011",
+    "query": "What is another name for botany besides plant biology or phytology?",
+    "gold_source_type": "confluence",
+    "gold_doc_id": "wiki_000054",
+    "gold_chunk_id": "confluence::wiki_000054::000",
+    "reference_answer": "Botany is sometimes called phytology.",
+    "category": "confluence",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0012",
+    "query": "How does the concept of frame of reference affect our understanding of an object's motion according to the given example?",
+    "gold_source_type": "confluence",
+    "gold_doc_id": "wiki_000262",
+    "gold_chunk_id": "confluence::wiki_000262::001",
+    "reference_answer": "Without a frame of reference, it can be misleading to determine an object's motion. For instance, if someone on Train A sees Train B moving backward, it appears they are moving towards Train B. However, when a frame of reference is introduced, such as observing a stationary pole, it becomes clear that Train A did not move while Train B did move backward.",
+    "category": "confluence",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0013",
+    "query": "What are some methods of cooking meat mentioned in the text?",
+    "gold_source_type": "confluence",
+    "gold_doc_id": "wiki_000076",
+    "gold_chunk_id": "confluence::wiki_000076::001",
+    "reference_answer": "The methods of cooking meat mentioned are boiling, roasting, frying, or grilling.",
+    "category": "confluence",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0014",
+    "query": "What percentage of the population in Cologne identifies as Roman Catholic and when did the religious composition of the city change significantly?",
+    "gold_source_type": "confluence",
+    "gold_doc_id": "wiki_000555",
+    "gold_chunk_id": "confluence::wiki_000555::001",
+    "reference_answer": "41.6% of the people in Cologne are Roman Catholic, and this changed significantly after the Second World War due to massive immigration of Protestants from the East of Germany.",
+    "category": "confluence",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0015",
+    "query": "What do Buddhists believe about Buddhas and how do they differ from gods?",
+    "gold_source_type": "confluence",
+    "gold_doc_id": "wiki_000836",
+    "gold_chunk_id": "confluence::wiki_000836::001",
+    "reference_answer": "Buddhas are not gods but are considered teachers who help people achieve enlightenment by showing them the true way the world works. They are human beings who have woken up and can guide others towards a better life.",
+    "category": "confluence",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0016",
+    "query": "What happens when the head of government lacks legitimacy?",
+    "gold_source_type": "confluence",
+    "gold_doc_id": "wiki_000861",
+    "gold_chunk_id": "confluence::wiki_000861::000",
+    "reference_answer": "When the head of government lacks legitimacy, people will stop following him or her, and this may result in a new election, or in worst case civil war.",
+    "category": "confluence",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0017",
+    "query": "What are the three main parts of an insect's body?",
+    "gold_source_type": "confluence",
+    "gold_doc_id": "wiki_000913",
+    "gold_chunk_id": "confluence::wiki_000913::001",
+    "reference_answer": "The three main parts of an insect's body are the head, thorax, and abdomen.",
+    "category": "confluence",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0018",
+    "query": "Which mountain range separates northern Italy from France, Switzerland, and Austria?",
+    "gold_source_type": "confluence",
+    "gold_doc_id": "wiki_000189",
+    "gold_chunk_id": "confluence::wiki_000189::001",
+    "reference_answer": "The Alps",
+    "category": "confluence",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0019",
+    "query": "What are the main volcanic features that make up the Island of Hawaii, and which one is currently the most active?",
+    "gold_source_type": "confluence",
+    "gold_doc_id": "wiki_000175",
+    "gold_chunk_id": "confluence::wiki_000175::000",
+    "reference_answer": "The Island of Hawaii is made up of seven separate shield volcanos: Kohala (extinct), Mauna Kea (dormant), Hualalai (dormant), Mauna Loa (active), Kulani (extinct, mostly buried), and Kilauea (very active). Kilauea is currently the most active.",
+    "category": "confluence",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0020",
+    "query": "Who is considered the father of entomology and is mentioned in the list of zoologists?",
+    "gold_source_type": "confluence",
+    "gold_doc_id": "wiki_000453",
+    "gold_chunk_id": "confluence::wiki_000453::001",
+    "reference_answer": "William Kirby",
+    "category": "confluence",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0021",
+    "query": "What is the mythological explanation for why spiders weave webs according to the Greek myth?",
+    "gold_source_type": "confluence",
+    "gold_doc_id": "wiki_000755",
+    "gold_chunk_id": "confluence::wiki_000755::000",
+    "reference_answer": "In the Greek myth, Arachne believed she could weave better than the goddess Athena. After losing a weaving contest to Athena, she was turned into a spider, which is why spiders weave webs.",
+    "category": "confluence",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0022",
+    "query": "What are the characteristics of the blossoms and fruits of the wild apple tree?",
+    "gold_source_type": "confluence",
+    "gold_doc_id": "wiki_000020",
+    "gold_chunk_id": "confluence::wiki_000020::002",
+    "reference_answer": "Blossoms are white with a slightly pink color, five-petaled, and 2.5 to 3.5 centimeters in diameter. Fruits mature in autumn, are usually 5 to 9 centimeters in diameter, and contain five carpels arranged in a star with one to three seeds in each carpel.",
+    "category": "confluence",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0023",
+    "query": "What does the term 'Nihon' or 'Nippon' mean in Japanese and who uses it to refer to Japan?",
+    "gold_source_type": "confluence",
+    "gold_doc_id": "wiki_000208",
+    "gold_chunk_id": "confluence::wiki_000208::000",
+    "reference_answer": "The term 'Nihon' or 'Nippon' means 'the origin of the Sun' in Japanese and it is used by the Japanese people to refer to their country.",
+    "category": "confluence",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0024",
+    "query": "What versions of Internet Explorer were available for mobile devices?",
+    "gold_source_type": "confluence",
+    "gold_doc_id": "wiki_000767",
+    "gold_chunk_id": "confluence::wiki_000767::002",
+    "reference_answer": "Internet Explorer for Pocket PC, later rebranded as Internet Explorer Mobile, was made for Windows Mobile and Windows CE and is still in development alongside more advanced desktop versions.",
+    "category": "confluence",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0025",
+    "query": "What is the population of Moscow and its metropolitan area?",
+    "gold_source_type": "confluence",
+    "gold_doc_id": "wiki_000597",
+    "gold_chunk_id": "confluence::wiki_000597::000",
+    "reference_answer": "The city has a population of around 13 million people in the city limits, over 17 million people in the urban area, and over 20 million people in the metropolitan area.",
+    "category": "confluence",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0026",
+    "query": "Who replaced Vincent Saint John as secretary-treasurer of the Industrial Workers of the World in 1913?",
+    "gold_source_type": "docs",
+    "gold_doc_id": "msmarco_000100_0",
+    "gold_chunk_id": "docs::msmarco_000100_0::000",
+    "reference_answer": "William Haywood",
+    "category": "docs",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0027",
+    "query": "How can I ensure I do not accidentally delete a legitimate file when removing malware related to Spytech SpyAgent.lnk?",
+    "gold_source_type": "docs",
+    "gold_doc_id": "msmarco_000278_0",
+    "gold_chunk_id": "docs::msmarco_000278_0::000",
+    "reference_answer": "Ensure that the Value column for the registry value displays exactly one of the paths listed in Location of Remove Spytech SpyAgent.lnk and Associated Malware.",
+    "category": "docs",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0028",
+    "query": "What materials were used in the old drainage system of the 1957 house mentioned in the document chunk?",
+    "gold_source_type": "docs",
+    "gold_doc_id": "msmarco_000856_0",
+    "gold_chunk_id": "docs::msmarco_000856_0::000",
+    "reference_answer": "The old drainage system used 3 galvanized steel sewage.",
+    "category": "docs",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0029",
+    "query": "What types of social security services are available at local offices in Bellevue, WA?",
+    "gold_source_type": "docs",
+    "gold_doc_id": "msmarco_000024_0",
+    "gold_chunk_id": "docs::msmarco_000024_0::000",
+    "reference_answer": "Local social security offices in Bellevue, WA offer services such as applying for Retirement Benefits, Disability (including SSDI), and Supplemental Security Income (SSI).",
+    "category": "docs",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0030",
+    "query": "How much could be lost in fees over 20 years on an investment of $100,000 at an annual fee rate of 1 percent, and how does this compare to the potential earnings on the amount saved from those fees?",
+    "gold_source_type": "docs",
+    "gold_doc_id": "msmarco_000032_0",
+    "gold_chunk_id": "docs::msmarco_000032_0::000",
+    "reference_answer": "Over 20 years, an annual fee rate of 1 percent on an investment of $100,000 would cost nearly $28,000 in fees. If that $28,000 could have been invested, it would have earned another $12,000.",
+    "category": "docs",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0031",
+    "query": "What ICD-10 code should be used to report an abnormal Pap smear result?",
+    "gold_source_type": "docs",
+    "gold_doc_id": "msmarco_000294_0",
+    "gold_chunk_id": "docs::msmarco_000294_0::000",
+    "reference_answer": "795.0x",
+    "category": "docs",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0032",
+    "query": "What are the names of the services offered by Uber, Lyft, and Sidecar that allow customers to share rides with strangers and split the fare?",
+    "gold_source_type": "docs",
+    "gold_doc_id": "msmarco_000599_0",
+    "gold_chunk_id": "docs::msmarco_000599_0::000",
+    "reference_answer": "UberPool, Lyft Line, and Sidecar\u2019s Shared Rides",
+    "category": "docs",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0033",
+    "query": "What were some historical reasons for the evolution of surnames?",
+    "gold_source_type": "docs",
+    "gold_doc_id": "msmarco_000271_0",
+    "gold_chunk_id": "docs::msmarco_000271_0::000",
+    "reference_answer": "Surnames evolved as a way to sort people into groups by occupation, place of origin, clan affiliation, patronage, parentage, adoption, and even physical characteristics.",
+    "category": "docs",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0034",
+    "query": "What act did Congress enact in response to accounting debacles and when was it passed?",
+    "gold_source_type": "docs",
+    "gold_doc_id": "msmarco_000349_0",
+    "gold_chunk_id": "docs::msmarco_000349_0::000",
+    "reference_answer": "The Sarbanes-Oxley Act of 2002 was enacted.",
+    "category": "docs",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0035",
+    "query": "What happens after a simple majority vote approves an Article of Impeachment?",
+    "gold_source_type": "docs",
+    "gold_doc_id": "msmarco_000340_0",
+    "gold_chunk_id": "docs::msmarco_000340_0::000",
+    "reference_answer": "The President will be impeached, but this is similar to being indicted for a crime; there still needs to be a trial conducted by the US Senate.",
+    "category": "docs",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0036",
+    "query": "What is the definition of trochanter in vertebrates?",
+    "gold_source_type": "docs",
+    "gold_doc_id": "msmarco_000443_0",
+    "gold_chunk_id": "docs::msmarco_000443_0::000",
+    "reference_answer": "A rough prominence at the upper part of the femur of many vertebrates serving usually for the attachment of muscles.",
+    "category": "docs",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0037",
+    "query": "What are the repeated phrases in the text?",
+    "gold_source_type": "docs",
+    "gold_doc_id": "msmarco_000490_0",
+    "gold_chunk_id": "docs::msmarco_000490_0::000",
+    "reference_answer": "Come live in me all my life, take over. Come breathe in me, I will rise on eagle's wings.",
+    "category": "docs",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0038",
+    "query": "What ingredients are needed to make Golden Milk according to the document?",
+    "gold_source_type": "docs",
+    "gold_doc_id": "msmarco_000300_0",
+    "gold_chunk_id": "docs::msmarco_000300_0::000",
+    "reference_answer": "1 tsp of turmeric paste, 1 cup of hot milk (cow, goat, soy, rice, almond, or any combination), maple syrup or honey to taste, and 1/2 tsp of almond or sesame oil.",
+    "category": "docs",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0039",
+    "query": "What brands of fence chargers and energizers does KEYSTONE FENCE PRODUCTS offer for farmers and ranchers?",
+    "gold_source_type": "docs",
+    "gold_doc_id": "msmarco_000945_0",
+    "gold_chunk_id": "docs::msmarco_000945_0::000",
+    "reference_answer": "Parmak and Parker McCrory",
+    "category": "docs",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0040",
+    "query": "What is the median yearly salary for the 90th percentile of general surgeons in the USA based on recent data?",
+    "gold_source_type": "docs",
+    "gold_doc_id": "msmarco_000916_0",
+    "gold_chunk_id": "docs::msmarco_000916_0::000",
+    "reference_answer": "$419,139",
+    "category": "docs",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0041",
+    "query": "When was Fort San Cristobal built and what was its purpose?",
+    "gold_source_type": "docs",
+    "gold_doc_id": "msmarco_000672_0",
+    "gold_chunk_id": "docs::msmarco_000672_0::000",
+    "reference_answer": "Fort San Cristobal was built in 1783 to protect the city against land attacks.",
+    "category": "docs",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0042",
+    "query": "What sound effects are traditionally associated with Thanksgiving according to the document?",
+    "gold_source_type": "docs",
+    "gold_doc_id": "msmarco_000567_0",
+    "gold_chunk_id": "docs::msmarco_000567_0::000",
+    "reference_answer": "turkey",
+    "category": "docs",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0043",
+    "query": "Where were Wilson's paternal grandparents from and when did they immigrate to the United States?",
+    "gold_source_type": "docs",
+    "gold_doc_id": "msmarco_000525_0",
+    "gold_chunk_id": "docs::msmarco_000525_0::000",
+    "reference_answer": "Wilson's paternal grandparents were from Strabane, County Tyrone, Ireland (now Northern Ireland), and they immigrated in 1807.",
+    "category": "docs",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0044",
+    "query": "What is the position of infra-red waves in terms of wavelength compared to microwaves and visible light?",
+    "gold_source_type": "docs",
+    "gold_doc_id": "msmarco_000504_0",
+    "gold_chunk_id": "docs::msmarco_000504_0::000",
+    "reference_answer": "Infra-red waves have a wavelength that is shorter than microwaves but longer than visible light.",
+    "category": "docs",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0045",
+    "query": "How can I set a travel notice for my Bank of America account if I don't have access to Online Banking?",
+    "gold_source_type": "docs",
+    "gold_doc_id": "msmarco_000353_0",
+    "gold_chunk_id": "docs::msmarco_000353_0::000",
+    "reference_answer": "You can set a travel notice by calling the number on the back of your card and speaking with a Bank of America associate.",
+    "category": "docs",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0046",
+    "query": "What does GIA consider regarding clarity-enhanced diamonds in their grading policy?",
+    "gold_source_type": "docs",
+    "gold_doc_id": "msmarco_000813_0",
+    "gold_chunk_id": "docs::msmarco_000813_0::000",
+    "reference_answer": "GIA does NOT grade clarity-enhanced diamonds.",
+    "category": "docs",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0047",
+    "query": "Is there an additional charge for the air brake test during a road test for a class 1, 2, 3, 4, or 5 license if the vehicle has air brakes?",
+    "gold_source_type": "docs",
+    "gold_doc_id": "msmarco_000979_0",
+    "gold_chunk_id": "docs::msmarco_000979_0::000",
+    "reference_answer": "No, there is no additional charge.",
+    "category": "docs",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0048",
+    "query": "Where can I go to change my driver license address?",
+    "gold_source_type": "docs",
+    "gold_doc_id": "msmarco_000042_0",
+    "gold_chunk_id": "docs::msmarco_000042_0::000",
+    "reference_answer": "You can see a Driver License Service Center or visit www.gorenew.com.",
+    "category": "docs",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0049",
+    "query": "When was Slavonic Benevolent Order of the State of Texas in Waco, TX founded?",
+    "gold_source_type": "docs",
+    "gold_doc_id": "msmarco_000382_0",
+    "gold_chunk_id": "docs::msmarco_000382_0::000",
+    "reference_answer": "Slavonic Benevolent Order of the State of Texas was founded in 2010.",
+    "category": "docs",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0050",
+    "query": "What are some symptoms to look out for if I think I might be experiencing constipation?",
+    "gold_source_type": "docs",
+    "gold_doc_id": "msmarco_000806_0",
+    "gold_chunk_id": "docs::msmarco_000806_0::000",
+    "reference_answer": "Symptoms of constipation include difficulty passing stools or having fewer than three bowel movements per week.",
+    "category": "docs",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0051",
+    "query": "Why was the release of fsspec 0.9.0 avoided and what issue does it cause?",
+    "gold_source_type": "github",
+    "gold_doc_id": "gh_000864",
+    "gold_chunk_id": "github::gh_000864::000",
+    "reference_answer": "The release of fsspec 0.9.0 was avoided because it implies a new release of s3fs 0.6.0 which breaks the CI.",
+    "category": "github",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0052",
+    "query": "Why was root.clear replaced with elem.clear in the code fix?",
+    "gold_source_type": "github",
+    "gold_doc_id": "gh_000997",
+    "gold_chunk_id": "github::gh_000997::000",
+    "reference_answer": "To save memory.",
+    "category": "github",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0053",
+    "query": "Why am I getting a 'TypeError: 'NoneType' object is not callable' when trying to load a metric using load_metric from local 'glue.py'?",
+    "gold_source_type": "github",
+    "gold_doc_id": "gh_000919",
+    "gold_chunk_id": "github::gh_000919::000",
+    "reference_answer": "The error occurs because the 'load_metric' function is returning None, making it impossible to call it as a function. This might be due to an issue with how 'load_metric' is defined or imported in 'glue.py', or there could be a problem with the path specified for loading the metric.",
+    "category": "github",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0054",
+    "query": "What specific change is still needed to be made to the CodeXGlue datasets according to the pull request description?",
+    "gold_source_type": "github",
+    "gold_doc_id": "gh_000686",
+    "gold_chunk_id": "github::gh_000686::000",
+    "reference_answer": "The change to the languages. The READMEs should include the different programming languages used rather than just using the tag 'code'.",
+    "category": "github",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0055",
+    "query": "What is the expected outcome when running the provided code snippet?",
+    "gold_source_type": "github",
+    "gold_doc_id": "gh_000463",
+    "gold_chunk_id": "github::gh_000463::001",
+    "reference_answer": "The code should result in 0 rows being filtered out from the dataset.",
+    "category": "github",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0056",
+    "query": "Why does the `load_from_disk` function fail to process the dataset even though it seems to have been successfully pulled into a Windows temporary directory?",
+    "gold_source_type": "github",
+    "gold_doc_id": "gh_000176",
+    "gold_chunk_id": "github::gh_000176::001",
+    "reference_answer": "The `load_from_disk` function appears to have downloaded the file to a temporary directory on the Windows system, but it failed to properly process the dataset, which could be due to issues related to file permissions, dependencies, or compatibility with the Windows environment.",
+    "category": "github",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0057",
+    "query": "How is the test set for the KS task handled differently from the training and validation sets in the original dataset?",
+    "gold_source_type": "github",
+    "gold_doc_id": "gh_000268",
+    "gold_chunk_id": "github::gh_000268::000",
+    "reference_answer": "The test set has a 'canonical' distribution in a separate archive, which is also used here (see `_split_ks_files()`).",
+    "category": "github",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0058",
+    "query": "What is the file format and delimiter used in the dataset located at /data/prueba_multiclase?",
+    "gold_source_type": "github",
+    "gold_doc_id": "gh_000883",
+    "gold_chunk_id": "github::gh_000883::001",
+    "reference_answer": "The dataset uses a tab delimiter (\t) and is in CSV format.",
+    "category": "github",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0059",
+    "query": "What specific feature was extended in this pull request for streaming datasets using pathlib.Path.glob?",
+    "gold_source_type": "github",
+    "gold_doc_id": "gh_000078",
+    "gold_chunk_id": "github::gh_000078::000",
+    "reference_answer": "The pull request extended support in streaming mode for datasets that use `pathlib.Path.glob` by patching the method `pathlib.Path.glob`.",
+    "category": "github",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0060",
+    "query": "Which datasets were added with this pull request?",
+    "gold_source_type": "github",
+    "gold_doc_id": "gh_000529",
+    "gold_chunk_id": "github::gh_000529::000",
+    "reference_answer": "The pull request added question-answering templates for tydiqa and xquad datasets.",
+    "category": "github",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0061",
+    "query": "Why does the document suggest moving away from using MNIST in modern computer vision tasks?",
+    "gold_source_type": "github",
+    "gold_doc_id": "gh_000915",
+    "gold_chunk_id": "github::gh_000915::006",
+    "reference_answer": "MNIST can no longer effectively represent modern CV tasks.",
+    "category": "github",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0062",
+    "query": "What function is used to display 10 random different transcription phrases from the TIMIT training dataset?",
+    "gold_source_type": "github",
+    "gold_doc_id": "gh_000041",
+    "gold_chunk_id": "github::gh_000041::002",
+    "reference_answer": "The function `show_random_elements` is used to display 10 random different transcription phrases from the TIMIT training dataset after removing the 'file' column.",
+    "category": "github",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0063",
+    "query": "What version of the datasets library was used when running the command on Windows 10 with Python 3.7.9?",
+    "gold_source_type": "github",
+    "gold_doc_id": "gh_000236",
+    "gold_chunk_id": "github::gh_000236::002",
+    "reference_answer": "1.11.0",
+    "category": "github",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0064",
+    "query": "What version of PyArrow is causing the ImportError on Kaggle?",
+    "gold_source_type": "github",
+    "gold_doc_id": "gh_000371",
+    "gold_chunk_id": "github::gh_000371::001",
+    "reference_answer": "The version of PyArrow causing the ImportError is 4.0.1.",
+    "category": "github",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0065",
+    "query": "Why and when should a dataset be sharded according to the documentation?",
+    "gold_source_type": "github",
+    "gold_doc_id": "gh_000359",
+    "gold_chunk_id": "github::gh_000359::005",
+    "reference_answer": "The documentation does not explain why and when a dataset should be sharded, though it mentions that sharding might be useful for parallelizing processes.",
+    "category": "github",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0066",
+    "query": "Why does importing the datasets package raise an AttributeError when a custom fsspec filesystem with an entrypoint is defined in the project?",
+    "gold_source_type": "github",
+    "gold_doc_id": "gh_000040",
+    "gold_chunk_id": "github::gh_000040::000",
+    "reference_answer": "When a custom fsspec filesystem with an entrypoint is defined, a variable named `spec` is created in the `fsspec` module, which changes the reference of `fsspec.spec` from the `spec` submodule to this new `spec` variable. This conflict causes the import of datasets to fail since it uses `fsspec.spec`.",
+    "category": "github",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0067",
+    "query": "What changes were made to fix the side-effects in `DatasetInfo.__post_init__`?",
+    "gold_source_type": "github",
+    "gold_doc_id": "gh_000651",
+    "gold_chunk_id": "github::gh_000651::002",
+    "reference_answer": "Fixes were made to avoid side-effects from in-place replacements of `DatasetInfo.task_templates` and the removal of `FeaturesWithLazyClassLabel` since a new instance of `TextClassification` is now created in `DatasetInfo.__post_init__` to avoid these side-effects.",
+    "category": "github",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0068",
+    "query": "What is the purpose of loading the dataset sequentially in the given code snippet?",
+    "gold_source_type": "github",
+    "gold_doc_id": "gh_000277",
+    "gold_chunk_id": "github::gh_000277::005",
+    "reference_answer": "The purpose of loading the dataset sequentially is to ensure that the multiprocessed version and the sequential version produce the same output and can load each other's processed data.",
+    "category": "github",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0069",
+    "query": "What types of paragraphs in the English Wikipedia dataset should not be used for training according to the described bug?",
+    "gold_source_type": "github",
+    "gold_doc_id": "gh_000288",
+    "gold_chunk_id": "github::gh_000288::000",
+    "reference_answer": "Paragraphs like 'References', 'Category:', and 'See Also' should not be used for training.",
+    "category": "github",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0070",
+    "query": "What error was encountered when trying to load the dataset, and what line of code caused it?",
+    "gold_source_type": "github",
+    "gold_doc_id": "gh_000604",
+    "gold_chunk_id": "github::gh_000604::002",
+    "reference_answer": "The error encountered was 'DuplicatedKeysError'. It was caused by line 1 of <ipython-input-6-c342ea0dae9d>, where the code attempted to load the dataset using the path '/content/drive/MyDrive/Thesis/Datasets/book_preprocessing/goodreads_maharjan_trimmed_and_nered/goodreadsnered.py'.",
+    "category": "github",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0071",
+    "query": "Why is the `cache_files` attribute empty when loading a dataset in the newest release of datasets (1.6.1)?",
+    "gold_source_type": "github",
+    "gold_doc_id": "gh_000657",
+    "gold_chunk_id": "github::gh_000657::000",
+    "reference_answer": "This issue might be due to a potential bug or a change in how the cache files are handled in the latest release. The `cache_files` attribute is empty even when using the `keep_in_memory=True` argument.",
+    "category": "github",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0072",
+    "query": "How can we efficiently calculate cumulative metrics over examples/batches added so far during training/evaluation?",
+    "gold_source_type": "github",
+    "gold_doc_id": "gh_000497",
+    "gold_chunk_id": "github::gh_000497::000",
+    "reference_answer": "An efficient calculation can be done using the formula: `((score_cumulative * n_cumulative) + (score_new * n_new)) / (n_cumulative+ n_new)`, where `n` and `score` refer to the number of examples and metric score, `cumulative` refers to the cumulative metric, and `new` refers to the addition of new examples.",
+    "category": "github",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0073",
+    "query": "What dataset and subfolder is being downloaded and prepared in this script?",
+    "gold_source_type": "github",
+    "gold_doc_id": "gh_000228",
+    "gold_chunk_id": "github::gh_000228::001",
+    "reference_answer": "The dataset and subfolder being downloaded and prepared is bn_hate_speech/default.",
+    "category": "github",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0074",
+    "query": "Can we use environment variables similar to TOKENIZERS_PARALLELISM for setup-related configurations when using multiprocessing?",
+    "gold_source_type": "github",
+    "gold_doc_id": "gh_000277",
+    "gold_chunk_id": "github::gh_000277::006",
+    "reference_answer": "Yes, it seems we can use a similar approach with environment variables for setup-related configurations, though the specifics may vary when using multiprocessing.",
+    "category": "github",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0075",
+    "query": "What error occurs when trying to encode a dataset containing None objects with a Sequence feature, and how can it be fixed?",
+    "gold_source_type": "github",
+    "gold_doc_id": "gh_000162",
+    "gold_chunk_id": "github::gh_000162::000",
+    "reference_answer": "A TypeError occurs because the None object is not iterable. To fix this, the code should run without error if no features are passed.",
+    "category": "github",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0076",
+    "query": "Who forwarded this email and when was it forwarded?",
+    "gold_source_type": "gmail",
+    "gold_doc_id": "enron_000358",
+    "gold_chunk_id": "gmail::enron_000358::000",
+    "reference_answer": "Phillip K Allen forwarded this email on 03/27/2001 at 12:06 PM.",
+    "category": "gmail",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0077",
+    "query": "What kind of products can I find in the outlet store mentioned in the Computershopper.com article?",
+    "gold_source_type": "gmail",
+    "gold_doc_id": "enron_000700",
+    "gold_chunk_id": "gmail::enron_000700::009",
+    "reference_answer": "You can find over-stocked and refurbished products such as digital cameras, notebooks, printers, and desktops.",
+    "category": "gmail",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0078",
+    "query": "What changes did Greg make to his apartment according to Keith's email?",
+    "gold_source_type": "gmail",
+    "gold_doc_id": "enron_000075",
+    "gold_chunk_id": "gmail::enron_000075::000",
+    "reference_answer": "Keith asked if Greg was setting up a studio in his apartment.",
+    "category": "gmail",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0079",
+    "query": "How do I access Outlook Web Access (OWA) from my local machine?",
+    "gold_source_type": "gmail",
+    "gold_doc_id": "enron_000061",
+    "gold_chunk_id": "gmail::enron_000061::003",
+    "reference_answer": "To access OWA, launch Internet Explorer 5.0, type the URL http://nahou-msowa01p/exchange/john.doe (replacing 'john.doe' with your full name), and log in using 'corp/your userid' as the username and your NT password.",
+    "category": "gmail",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0080",
+    "query": "When will the updated curves be sent and who should be involved in the process?",
+    "gold_source_type": "gmail",
+    "gold_doc_id": "enron_000855",
+    "gold_chunk_id": "gmail::enron_000855::000",
+    "reference_answer": "The updated curves will be sent no later than 11 am on Monday, February 7, and Keith should be involved in the process.",
+    "category": "gmail",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0081",
+    "query": "Which locations are included in the EOL report for TV mentioned in the email?",
+    "gold_source_type": "gmail",
+    "gold_doc_id": "enron_000698",
+    "gold_chunk_id": "gmail::enron_000698::000",
+    "reference_answer": "-Hehub\n-Chicago\n-PEPL\n-Katy\n-Waha",
+    "category": "gmail",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0082",
+    "query": "What is the next step regarding the open gas positions for Project Elvis and Cactus?",
+    "gold_source_type": "gmail",
+    "gold_doc_id": "enron_000135",
+    "gold_chunk_id": "gmail::enron_000135::000",
+    "reference_answer": "Set up a conference call with Phillip and John to discuss their offers at the back-end of their curves.",
+    "category": "gmail",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0083",
+    "query": "Who forwarded this email and to whom?",
+    "gold_source_type": "gmail",
+    "gold_doc_id": "enron_000331",
+    "gold_chunk_id": "gmail::enron_000331::000",
+    "reference_answer": "Phillip K Allen forwarded this email to Mike Grigsby.",
+    "category": "gmail",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0084",
+    "query": "Who forwarded the contact list for mid-market to Paul Lucci and Kenneth Shulklapper?",
+    "gold_source_type": "gmail",
+    "gold_doc_id": "enron_000638",
+    "gold_chunk_id": "gmail::enron_000638::000",
+    "reference_answer": "Phillip K Allen",
+    "category": "gmail",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0085",
+    "query": "What did Phillip need Lucy to resend?",
+    "gold_source_type": "gmail",
+    "gold_doc_id": "enron_000383",
+    "gold_chunk_id": "gmail::enron_000383::000",
+    "reference_answer": "The rentroll sent on Tuesday.",
+    "category": "gmail",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0086",
+    "query": "What changes are needed if the project is to be completed in phases instead of all at once?",
+    "gold_source_type": "gmail",
+    "gold_doc_id": "enron_000370",
+    "gold_chunk_id": "gmail::enron_000370::000",
+    "reference_answer": "Hugo Elizondo needs to change what he is going to submit to the city.",
+    "category": "gmail",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0087",
+    "query": "Which employees have been granted executing IDs by Phillip Allen?",
+    "gold_source_type": "gmail",
+    "gold_doc_id": "enron_000257",
+    "gold_chunk_id": "gmail::enron_000257::000",
+    "reference_answer": "The west cash traders have been granted executing IDs.",
+    "category": "gmail",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0088",
+    "query": "What was the price of electricity sold by the company on Tuesday and why was it so high?",
+    "gold_source_type": "gmail",
+    "gold_doc_id": "enron_000986",
+    "gold_chunk_id": "gmail::enron_000986::004",
+    "reference_answer": "The company sold electricity at $1,100 a megawatt-hour on Tuesday because the ISO was about to declare rolling blackouts due to a severe shortage of power.",
+    "category": "gmail",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0089",
+    "query": "What action should George take regarding ACN Power's financials?",
+    "gold_source_type": "gmail",
+    "gold_doc_id": "enron_000849",
+    "gold_chunk_id": "gmail::enron_000849::000",
+    "reference_answer": "George should call Phillip Allen's credit desk at 713-853-1803.",
+    "category": "gmail",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0090",
+    "query": "What kind of fees will CB charge the partnership if it decides to perform certain subcontractor tasks itself?",
+    "gold_source_type": "gmail",
+    "gold_doc_id": "enron_000026",
+    "gold_chunk_id": "gmail::enron_000026::009",
+    "reference_answer": "CB will charge the partnership the same fee it was able to obtain from third parties for these tasks, and it will disclose such cases to the partnership.",
+    "category": "gmail",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0091",
+    "query": "Who is Phillip Allen and what is his contact information for scheduling the interview?",
+    "gold_source_type": "gmail",
+    "gold_doc_id": "enron_000599",
+    "gold_chunk_id": "gmail::enron_000599::000",
+    "reference_answer": "Phillip Allen is from West Gas Trading at Enron. His contact information is pallen@enron.com and his phone number is 713-853-7041.",
+    "category": "gmail",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0092",
+    "query": "Who are the directors approved for trading in both the East and West regions according to the approved trader list?",
+    "gold_source_type": "gmail",
+    "gold_doc_id": "enron_000320",
+    "gold_chunk_id": "gmail::enron_000320::000",
+    "reference_answer": "Vanderhorst, Barry and Shireman, Kris",
+    "category": "gmail",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0093",
+    "query": "What type of construction contract is being considered for the project mentioned in the email?",
+    "gold_source_type": "gmail",
+    "gold_doc_id": "enron_000973",
+    "gold_chunk_id": "gmail::enron_000973::002",
+    "reference_answer": "A fixed price contract except for change orders.",
+    "category": "gmail",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0094",
+    "query": "Who forwarded the email about New Socal Curves to Phillip K Allen and Keith Holst?",
+    "gold_source_type": "gmail",
+    "gold_doc_id": "enron_000706",
+    "gold_chunk_id": "gmail::enron_000706::000",
+    "reference_answer": "Phillip K Allen forwarded the email.",
+    "category": "gmail",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0095",
+    "query": "What is the total amount of cash that Phillip and Keith will pay the sellers?",
+    "gold_source_type": "gmail",
+    "gold_doc_id": "enron_000337",
+    "gold_chunk_id": "gmail::enron_000337::000",
+    "reference_answer": "$5,875",
+    "category": "gmail",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0096",
+    "query": "Are undermount sinks different than drop ins?",
+    "gold_source_type": "gmail",
+    "gold_doc_id": "enron_000973",
+    "gold_chunk_id": "gmail::enron_000973::001",
+    "reference_answer": "Yes, undermount sinks are different from drop-in sinks. Undermount sinks are installed so that the bottom of the sink sits beneath the surface of the countertop, while drop-in sinks sit on top of the countertop surface.",
+    "category": "gmail",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0097",
+    "query": "Who sent the original message about the large deal alert and when was it sent?",
+    "gold_source_type": "gmail",
+    "gold_doc_id": "enron_000779",
+    "gold_chunk_id": "gmail::enron_000779::000",
+    "reference_answer": "Jeffrey A Shankman sent the original message on 05/18/2000 at 06:27 PM.",
+    "category": "gmail",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0098",
+    "query": "What are the demographics of the Westgate site according to Investor's Alliance?",
+    "gold_source_type": "gmail",
+    "gold_doc_id": "enron_000018",
+    "gold_chunk_id": "gmail::enron_000018::000",
+    "reference_answer": "The demographics of the Westgate site from Investor's Alliance are similar to the package on San Marcos that Phillip Allen received earlier.",
+    "category": "gmail",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0099",
+    "query": "What two options is Phillip considering for financing the property development?",
+    "gold_source_type": "gmail",
+    "gold_doc_id": "enron_000398",
+    "gold_chunk_id": "gmail::enron_000398::000",
+    "reference_answer": "Phillip is considering comparing the financing between Bank One and FHA.",
+    "category": "gmail",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0100",
+    "query": "When will Phillip be available to discuss a unit for Wade?",
+    "gold_source_type": "gmail",
+    "gold_doc_id": "enron_000773",
+    "gold_chunk_id": "gmail::enron_000773::000",
+    "reference_answer": "Phillip will be in Seguin this Saturday through Monday.",
+    "category": "gmail",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0101",
+    "query": "What is the level of importance of waterproofing wood for a boat, and why is it recommended to use a specific type of sealer?",
+    "gold_source_type": "helpdesk",
+    "gold_doc_id": "help_000717",
+    "gold_chunk_id": "helpdesk::help_000717::004",
+    "reference_answer": "The level of importance is 10, as it is extremely important. This is because waterproofing is crucial in a marine environment to protect the wood from water damage, prolong its lifespan, and maintain the structural integrity of the boat. Sealer specifically designed for marine use should be used to ensure effective protection.",
+    "category": "helpdesk",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0102",
+    "query": "What is Alya's main concern regarding her retirement savings?",
+    "gold_source_type": "helpdesk",
+    "gold_doc_id": "help_000037",
+    "gold_chunk_id": "helpdesk::help_000037::000",
+    "reference_answer": "Alya is worried that she will not have enough money when she retires despite starting to save.",
+    "category": "helpdesk",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0103",
+    "query": "What happened to Jimmy, the shepherd dog, after the evacuation during the war?",
+    "gold_source_type": "helpdesk",
+    "gold_doc_id": "help_000519",
+    "gold_chunk_id": "helpdesk::help_000519::000",
+    "reference_answer": "Jimmy wouldn't eat after the evacuation and pined away, skin and bone, because he wouldn't live with another master.",
+    "category": "helpdesk",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0104",
+    "query": "How does humility help in achieving success in the real world according to this text?",
+    "gold_source_type": "helpdesk",
+    "gold_doc_id": "help_000610",
+    "gold_chunk_id": "helpdesk::help_000610::004",
+    "reference_answer": "Humility helps in the real world by making you think clearly about what others want instead of focusing solely on your own desires. It involves being aware of the wants and needs of others and seeking to meet them, which makes others notice your greatness.",
+    "category": "helpdesk",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0105",
+    "query": "Who were the parents of Lady Bridget Feilding's husband, Arthur Parsons?",
+    "gold_source_type": "helpdesk",
+    "gold_doc_id": "help_000808",
+    "gold_chunk_id": "helpdesk::help_000808::002",
+    "reference_answer": "Sir Michael Stanhope and Elizabeth Read",
+    "category": "helpdesk",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0106",
+    "query": "What are some tips for buying fresh produce according to the helpdesk agent?",
+    "gold_source_type": "helpdesk",
+    "gold_doc_id": "help_000461",
+    "gold_chunk_id": "helpdesk::help_000461::000",
+    "reference_answer": "Choose a vendor with experience selling produce, know the difference between fruits and vegetables, look for a variety of colors and textures, and smell the produce.",
+    "category": "helpdesk",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0107",
+    "query": "What are some clothing practices among different ethnic groups of women in Suriname according to Country Reports?",
+    "gold_source_type": "helpdesk",
+    "gold_doc_id": "help_000656",
+    "gold_chunk_id": "helpdesk::help_000656::002",
+    "reference_answer": "Women of Suriname with Javanese heritage wear sarongs, while women with Creole ancestry or Afro-Surinamese heritage wear the koto accompanied by a handkerchief or with head or body covering called the angisa (also known as the anisa).",
+    "category": "helpdesk",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0108",
+    "query": "What did one of the guards do with a stray animal at the artillery range?",
+    "gold_source_type": "helpdesk",
+    "gold_doc_id": "help_000518",
+    "gold_chunk_id": "helpdesk::help_000518::001",
+    "reference_answer": "One of the guards chased a stray animal with his tail between his legs and shot it through the head.",
+    "category": "helpdesk",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0109",
+    "query": "What steps will Friend take to handle their emotions constructively in the future if they feel similarly upset?",
+    "gold_source_type": "helpdesk",
+    "gold_doc_id": "help_000598",
+    "gold_chunk_id": "helpdesk::help_000598::002",
+    "reference_answer": "Friend suggests that when feeling upset, the person should first take a step back to assess the situation and determine if there are other factors contributing to their emotions. If it's due to something specific about the situation, they recommend dealing with those emotions by talking directly to the friend or venting to someone else instead of taking it out on the friend.",
+    "category": "helpdesk",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0110",
+    "query": "What issue did the engine of the Norton P10 prototype motorcycle have that made it noisy and prone to failures? How was this described? What unusual sound did the engine make when starting? Did the engine produce more power than the Atlas engine it replaced? What type of engine did the Norton P10 prototype have?",
+    "gold_source_type": "helpdesk",
+    "gold_doc_id": "help_000947",
+    "gold_chunk_id": "helpdesk::help_000947::003",
+    "reference_answer": "The long chain caused the engine to sound noisy and the chain was prone to failures. Journalist Bob Currie described the engine as being 'clattery'. When the engine was kicked over, it emitted a flatulence-like sound. No, despite using overhead cams, the engine didn't produce more power than the Atlas engine it was meant to replace. The Norton P10 prototype motorcycle had a unit construction 800 cc DOHC parallel twin engine.",
+    "category": "helpdesk",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0111",
+    "query": "Who appointed Ramazan Abdulatipov as the acting president of Dagestan after the resignation of Magomedsalam Magomedov?",
+    "gold_source_type": "helpdesk",
+    "gold_doc_id": "help_000261",
+    "gold_chunk_id": "helpdesk::help_000261::003",
+    "reference_answer": "Vladimir Putin",
+    "category": "helpdesk",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0112",
+    "query": "What did Lia suspect about the reason for the person's actions?",
+    "gold_source_type": "helpdesk",
+    "gold_doc_id": "help_000856",
+    "gold_chunk_id": "helpdesk::help_000856::003",
+    "reference_answer": "Lia suspected that the person needed attention after vandalizing the side of a police station.",
+    "category": "helpdesk",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0113",
+    "query": "When was the Xiaomi Mi 11 launched in China and what are some of its key specifications?",
+    "gold_source_type": "helpdesk",
+    "gold_doc_id": "help_000285",
+    "gold_chunk_id": "helpdesk::help_000285::004",
+    "reference_answer": "The Xiaomi Mi 11 was launched in China on December 28, 2020. It features a 6.81-inch AMOLED display with a resolution of 1440 x 3200 pixels and a 120Hz refresh rate.",
+    "category": "helpdesk",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0114",
+    "query": "What positions did Reichlin-Melnick hold after working as a constituent service specialist and district representative for Congressmen Engel and Lowey until 2013?",
+    "gold_source_type": "helpdesk",
+    "gold_doc_id": "help_000484",
+    "gold_chunk_id": "helpdesk::help_000484::001",
+    "reference_answer": "After working in Congress, Reichlin-Melnick completed his master's degree and then worked as the executive assistant for Orangetown, New York Town Supervisor Andy Stewart.",
+    "category": "helpdesk",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0115",
+    "query": "How can one better understand their desires according to the helpdesk chunk?",
+    "gold_source_type": "helpdesk",
+    "gold_doc_id": "help_000388",
+    "gold_chunk_id": "helpdesk::help_000388::000",
+    "reference_answer": "By becoming more aware of their emotions, as they will match the beliefs associated with the thoughts that generate those emotions.",
+    "category": "helpdesk",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0116",
+    "query": "What did the man do after realizing he couldn't escape and what were the captors doing during this time?",
+    "gold_source_type": "helpdesk",
+    "gold_doc_id": "help_000912",
+    "gold_chunk_id": "helpdesk::help_000912::000",
+    "reference_answer": "The man resigned himself to his fate and waited for whatever was in store for him, while the captors were laughing at him and mocking his futile attempts to escape.",
+    "category": "helpdesk",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0117",
+    "query": "Who were the designers and art directors for Tracy Bonham's album 'Down Here'?",
+    "gold_source_type": "helpdesk",
+    "gold_doc_id": "help_000968",
+    "gold_chunk_id": "helpdesk::help_000968::003",
+    "reference_answer": "Ondine Bue and Steve Slingeneyer were the designers and art directors for the album.",
+    "category": "helpdesk",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0118",
+    "query": "What event kickstarted the player protests during games, and what were the main reasons for these protests?",
+    "gold_source_type": "helpdesk",
+    "gold_doc_id": "help_000199",
+    "gold_chunk_id": "helpdesk::help_000199::003",
+    "reference_answer": "[Event]: Colin Kaepernick; [Reasons for protest]: Social and racial injustice in the United States",
+    "category": "helpdesk",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0119",
+    "query": "What alternative is recommended for celebrating Independence Day in an eco-friendly manner?",
+    "gold_source_type": "helpdesk",
+    "gold_doc_id": "help_000277",
+    "gold_chunk_id": "helpdesk::help_000277::000",
+    "reference_answer": "Biodegradable Tricolour flags are recommended as an eco-friendly alternative to plastic flags.",
+    "category": "helpdesk",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0120",
+    "query": "What is the duration for which insurers can renew the policies according to the circular issued by IRDAI?",
+    "gold_source_type": "helpdesk",
+    "gold_doc_id": "help_000379",
+    "gold_chunk_id": "helpdesk::help_000379::000",
+    "reference_answer": "The policies can be renewed for three and a half months, six and a half months, or nine and a half months as per the policyholder's choice.",
+    "category": "helpdesk",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0121",
+    "query": "Who called Kourtney immediately after she entered the flower shop, and what did they say?",
+    "gold_source_type": "helpdesk",
+    "gold_doc_id": "help_000977",
+    "gold_chunk_id": "helpdesk::help_000977::000",
+    "reference_answer": "Brian called Kourtney and said that they were leaving town now.",
+    "category": "helpdesk",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0122",
+    "query": "What type of sounds were compared with screams in the study, and what interesting finding was made about alarm sounds?",
+    "gold_source_type": "helpdesk",
+    "gold_doc_id": "help_000874",
+    "gold_chunk_id": "helpdesk::help_000874::008",
+    "reference_answer": "The sounds compared with screams included musical instruments such as keyboards, alarm signals such as horns and buzzers, and pure tone intervals such as perfect fifths. It was found that alarm sounds possessed roughness, and the rougher the alarm, the scarier it seemed.",
+    "category": "helpdesk",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0123",
+    "query": "What initiative is the Inner Wheel Club undertaking to empower women and support social causes?",
+    "gold_source_type": "helpdesk",
+    "gold_doc_id": "help_000278",
+    "gold_chunk_id": "helpdesk::help_000278::005",
+    "reference_answer": "The Inner Wheel Club is working with NGOs to enable women to make sustainable flags, which can provide economic opportunities and support social causes.",
+    "category": "helpdesk",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0124",
+    "query": "Which actors were particularly praised for their performances in the drama?",
+    "gold_source_type": "helpdesk",
+    "gold_doc_id": "help_000475",
+    "gold_chunk_id": "helpdesk::help_000475::003",
+    "reference_answer": "Mamunur Rashid, Chanchal Chowdhury, and Rubli Chowdhury were praised for their performances.",
+    "category": "helpdesk",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0125",
+    "query": "What is the formula for calculating thrust and how does it differ from torque?",
+    "gold_source_type": "helpdesk",
+    "gold_doc_id": "help_000747",
+    "gold_chunk_id": "helpdesk::help_000747::000",
+    "reference_answer": "The formula for calculating thrust is F = ma, where F is the force, m is the mass of the object, and a is the acceleration. Torque is a measure of the force that causes an object to rotate, while thrust is the force that propels an object through space.",
+    "category": "helpdesk",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0126",
+    "query": "What is the suggested workaround for handling tokenizer preprocessing issues mentioned in the document?",
+    "gold_source_type": "jira",
+    "gold_doc_id": "jira_000171",
+    "gold_chunk_id": "jira::jira_000171::002",
+    "reference_answer": "One workaround is to include `tokenizer._tokenizer.normalizer.normalize_str` before the tokenizer preprocessing pipeline.",
+    "category": "jira",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0127",
+    "query": "What is the exact error or stacktrace received when trying to load the C4 dataset using the provided Python code?",
+    "gold_source_type": "jira",
+    "gold_doc_id": "jira_000379",
+    "gold_chunk_id": "jira::jira_000379::001",
+    "reference_answer": "Downloading and preparing dataset c4/en (download: Unknown size, generated: Unknown size, post-processed: Unknown size, total: Unknown size) to /Users/fredriko/.cache/huggingface/datasets/c4/en/2.3.0/8304cf264cc42bdebcb13fca4b9cb36368a96f557d36f9dc969bebbe2568b283...",
+    "category": "jira",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0128",
+    "query": "What happens when the `num_proc` parameter is set for mapping and filtering functions in relation to the dataset loading in Jira?",
+    "gold_source_type": "jira",
+    "gold_doc_id": "jira_000526",
+    "gold_chunk_id": "jira::jira_000526::001",
+    "reference_answer": "When the `num_proc` parameter is set for mapping and filtering functions, it causes the dataset to load incorrectly, resulting in an empty dictionary when rows are selected from or sliced into the dataset. Additionally, it leads to errors during the process.",
+    "category": "jira",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0129",
+    "query": "What error did the user encounter when trying to download Spanish Wikipedia data using the specified code?",
+    "gold_source_type": "jira",
+    "gold_doc_id": "jira_000598",
+    "gold_chunk_id": "jira::jira_000598::000",
+    "reference_answer": "ParseError: This is a bug and should be reported. Info: C tokenizer exited with non-empty token stack.",
+    "category": "jira",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0130",
+    "query": "What error did the user encounter when trying to download the xnli dataset in Colab?",
+    "gold_source_type": "jira",
+    "gold_doc_id": "jira_000501",
+    "gold_chunk_id": "jira::jira_000501::000",
+    "reference_answer": "NonMatchingChecksumError",
+    "category": "jira",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0131",
+    "query": "What version of GLIBC is required by the tokenizers library and why is it not found?",
+    "gold_source_type": "jira",
+    "gold_doc_id": "jira_000241",
+    "gold_chunk_id": "jira::jira_000241::003",
+    "reference_answer": "The tokenizers library requires GLIBC_2.29, but the system has a lower version (GLIBC_2.29 is not found), resulting in an ImportError.",
+    "category": "jira",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0132",
+    "query": "What happens when you use `num_proc=1` versus `num_proc=20` for the `map` function in Hugging Face's datasets library?",
+    "gold_source_type": "jira",
+    "gold_doc_id": "jira_000317",
+    "gold_chunk_id": "jira::jira_000317::001",
+    "reference_answer": "When `num_proc=1`, you see one tqdm bar but all the cores are working. When `num_proc=20`, only 20 cores work.",
+    "category": "jira",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0133",
+    "query": "Why am I encountering issues when trying to load the boolq dataset using the datasets library?",
+    "gold_source_type": "jira",
+    "gold_doc_id": "jira_000444",
+    "gold_chunk_id": "jira::jira_000444::000",
+    "reference_answer": "The issue arises because the necessary CUDA runtime library 'libcudart.so.11.0' is not found, even though it may not be required if no GPU is set up on your machine. This could be due to an incorrect version of the CUDA library installed or missing library files.",
+    "category": "jira",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0134",
+    "query": "What happens if I modify the list passed to the `columns` argument after calling `set_format` in the datasets library?",
+    "gold_source_type": "jira",
+    "gold_doc_id": "jira_000044",
+    "gold_chunk_id": "jira::jira_000044::000",
+    "reference_answer": "The modified list will affect the columns returned by the dataset, leading to unexpected results.",
+    "category": "jira",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0135",
+    "query": "What is the maximum sequence length used in the BLEURT scorer configuration?",
+    "gold_source_type": "jira",
+    "gold_doc_id": "jira_000376",
+    "gold_chunk_id": "jira::jira_000376::001",
+    "reference_answer": "128",
+    "category": "jira",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0136",
+    "query": "What type of data does the 'question' field contain in the JSON schema?",
+    "gold_source_type": "jira",
+    "gold_doc_id": "jira_000584",
+    "gold_chunk_id": "jira::jira_000584::002",
+    "reference_answer": "The 'question' field contains string data.",
+    "category": "jira",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0137",
+    "query": "What does the variable `offset_mapping` represent in the code snippet?",
+    "gold_source_type": "jira",
+    "gold_doc_id": "jira_000372",
+    "gold_chunk_id": "jira::jira_000372::008",
+    "reference_answer": "The variable `offset_mapping` represents the mapping that allows us to map some positions in our logits to spans of texts in the original context.",
+    "category": "jira",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0138",
+    "query": "What action is taken regarding the `head_hf_s3` function because it is not used?",
+    "gold_source_type": "jira",
+    "gold_doc_id": "jira_000235",
+    "gold_chunk_id": "jira::jira_000235::000",
+    "reference_answer": "The function `head_hf_s3` is removed.",
+    "category": "jira",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0139",
+    "query": "Why adding FTP to the list of supported protocols didn't resolve the issue?",
+    "gold_source_type": "jira",
+    "gold_doc_id": "jira_000488",
+    "gold_chunk_id": "jira::jira_000488::001",
+    "reference_answer": "There probably needs to be some extra work.",
+    "category": "jira",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0140",
+    "query": "What is the current status of the dataset URL for Intent Classification?",
+    "gold_source_type": "jira",
+    "gold_doc_id": "jira_000025",
+    "gold_chunk_id": "jira::jira_000025::000",
+    "reference_answer": "The dataset URL seems to be down at the moment.",
+    "category": "jira",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0141",
+    "query": "What version of the filter implementation was bumped to fix issue #2943?",
+    "gold_source_type": "jira",
+    "gold_doc_id": "jira_000036",
+    "gold_chunk_id": "jira::jira_000036::001",
+    "reference_answer": "2.0.0",
+    "category": "jira",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0142",
+    "query": "What are the features defined for the metric in the given JIRA chunk?",
+    "gold_source_type": "jira",
+    "gold_doc_id": "jira_000373",
+    "gold_chunk_id": "jira::jira_000373::001",
+    "reference_answer": "The features defined for the metric include 'predictions', 'references', 'offset_mapping', 'text', and 'ground'.",
+    "category": "jira",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0143",
+    "query": "Why does using dataset.set_transform(encode) cause a TypeError when initializing the Trainer from transformers?",
+    "gold_source_type": "jira",
+    "gold_doc_id": "jira_000345",
+    "gold_chunk_id": "jira::jira_000345::000",
+    "reference_answer": "The TypeError occurs because the Trainer from transformers is expecting a 'transform' argument during initialization, which is not being provided correctly after setting the transform using dataset.set_transform(encode).",
+    "category": "jira",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0144",
+    "query": "What happens when `num_proc` is greater than the length of the dataset during the `map()` operation on a `datasets.Dataset`?",
+    "gold_source_type": "jira",
+    "gold_doc_id": "jira_000182",
+    "gold_chunk_id": "jira::jira_000182::000",
+    "reference_answer": "The operation crashes.",
+    "category": "jira",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0145",
+    "query": "Why does the code throw a DuplicatedKeysError when trying to load the head_qa dataset?",
+    "gold_source_type": "jira",
+    "gold_doc_id": "jira_000215",
+    "gold_chunk_id": "jira::jira_000215::001",
+    "reference_answer": "The code throws a DuplicatedKeysError because there are duplicated keys in the dataset, which prevents it from being generated successfully.",
+    "category": "jira",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0146",
+    "query": "What is the format of the dataset and how is it separated?",
+    "gold_source_type": "jira",
+    "gold_doc_id": "jira_000498",
+    "gold_chunk_id": "jira::jira_000498::001",
+    "reference_answer": "The dataset is split into train/dev/test and is in csv format, containing just a text and a label column, using comma as a separator.",
+    "category": "jira",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0147",
+    "query": "What issue is described in this JIRA ticket and under what conditions does it occur?",
+    "gold_source_type": "jira",
+    "gold_doc_id": "jira_000538",
+    "gold_chunk_id": "jira::jira_000538::000",
+    "reference_answer": "The issue described is a `ArrowInvalid` error thrown by `metric.compute`. This error occurs only during distributed training and happens randomly.",
+    "category": "jira",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0148",
+    "query": "What steps should I follow to reproduce the bug described in the JIRA issue?",
+    "gold_source_type": "jira",
+    "gold_doc_id": "jira_000057",
+    "gold_chunk_id": "jira::jira_000057::000",
+    "reference_answer": "Create a test file named `test.py` with the following content:\n```python\nimport datasets as ds\n\ndef load_dataset():\n    ds.load_dataset(\"counter\", split=\"train\", streaming=True)\n``` And then run it using pytest with the command:\n```bash\npython -m pytest test.py\n```",
+    "category": "jira",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0149",
+    "query": "What issue does the Jira ticket describe regarding the concatenate_datasets function?",
+    "gold_source_type": "jira",
+    "gold_doc_id": "jira_000242",
+    "gold_chunk_id": "jira::jira_000242::000",
+    "reference_answer": "The issue is that when concatenating two large datasets (each 10GB), the entire data is loaded into memory instead of being written directly to disk.",
+    "category": "jira",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0150",
+    "query": "What is the initial value of block_size and how does it change when a straddling issue occurs?",
+    "gold_source_type": "jira",
+    "gold_doc_id": "jira_000135",
+    "gold_chunk_id": "jira::jira_000135::001",
+    "reference_answer": "The initial value of block_size is `chunksize // 32`, and it doubles every time a straddling issue occurs.",
+    "category": "jira",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0151",
+    "query": "Which family of apps does META generate its advertising revenue from according to the 2023 filing?",
+    "gold_source_type": "reports",
+    "gold_doc_id": "sec_000971",
+    "gold_chunk_id": "reports::sec_000971::000",
+    "reference_answer": "Facebook, Instagram, Messenger, and third-party mobile applications.",
+    "category": "reports",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0152",
+    "query": "What are the expected outcomes from the long-term growth algorithm that PG plans to implement according to their 2023_10K filing?",
+    "gold_source_type": "reports",
+    "gold_doc_id": "sec_000431",
+    "gold_chunk_id": "reports::sec_000431::000",
+    "reference_answer": "The expected outcomes include organic sales growth above market growth rates in the relevant categories and geographies, core EPS growth of mid-to-high single digits, and adjusted free cash flow productivity of 90% or greater.",
+    "category": "reports",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0153",
+    "query": "What is Berkshire Hathaway's strategy for investing in interest rate sensitive instruments like bonds or loans?",
+    "gold_source_type": "reports",
+    "gold_doc_id": "sec_000893",
+    "gold_chunk_id": "reports::sec_000893::000",
+    "reference_answer": "Berkshire Hathaway acquires or originates such instruments at prices or with interest rates considered appropriate relative to the perceived credit risk.",
+    "category": "reports",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0154",
+    "query": "What types of legal proceedings, claims, and government investigations is ABNB currently involved in or may be involved in the future according to their 2023_10K filing?",
+    "gold_source_type": "reports",
+    "gold_doc_id": "sec_000620",
+    "gold_chunk_id": "reports::sec_000620::000",
+    "reference_answer": "ABNB is involved in regulatory matters, commercial matters, intellectual property, competition, tax, employment, pricing, discrimination, consumer rights, and personal injury and property rights-related proceedings, claims, and investigations.",
+    "category": "reports",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0155",
+    "query": "What factors does the company consider when assessing its future results of operations for tax purposes?",
+    "gold_source_type": "reports",
+    "gold_doc_id": "sec_000265",
+    "gold_chunk_id": "reports::sec_000265::001",
+    "reference_answer": "The company considers projected future business operations, uncertainty in future operating results compared to historical results, volatility in the stock market, variable macroeconomic conditions affecting the ability to forecast future taxable income, and changes in business that may impact the existence and magnitude of future taxable income.",
+    "category": "reports",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0156",
+    "query": "What type of revenue recognition will occur if customers opt for cloud-based versions of Microsoft's products and services instead of transaction-based ones?",
+    "gold_source_type": "reports",
+    "gold_doc_id": "sec_000778",
+    "gold_chunk_id": "reports::sec_000778::000",
+    "reference_answer": "Revenue will be recognized over the subscription period or upon consumption, as applicable.",
+    "category": "reports",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0157",
+    "query": "What is the threshold amount for potential monetary sanctions that must be disclosed according to SEC regulations in the document?",
+    "gold_source_type": "reports",
+    "gold_doc_id": "sec_000414",
+    "gold_chunk_id": "reports::sec_000414::000",
+    "reference_answer": "$1 million or more",
+    "category": "reports",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0158",
+    "query": "What were the primary factors contributing to the increase in the company's effective tax rate in the 2023 fiscal year?",
+    "gold_source_type": "reports",
+    "gold_doc_id": "sec_000445",
+    "gold_chunk_id": "reports::sec_000445::000",
+    "reference_answer": "The primary factors were a 50 basis-point increase from discrete impacts related to uncertain tax positions and a 40 basis-point increase primarily from lower current year deductions for foreign-derived intangible income compared to the prior year.",
+    "category": "reports",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0159",
+    "query": "How does TSLA's used vehicle business support new vehicle sales?",
+    "gold_source_type": "reports",
+    "gold_doc_id": "sec_000208",
+    "gold_chunk_id": "reports::sec_000208::000",
+    "reference_answer": "TSLA's used vehicle business supports new vehicle sales by integrating the trade-in of a customer\u2019s existing Tesla or non-Tesla vehicle with the sale of a new or used Tesla vehicle.",
+    "category": "reports",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0160",
+    "query": "What is the maximum amount of coverage provided by ABNB's Host Damage Protection program for direct physical loss or damage to a Host\u2019s property caused by guests during a confirmed booking?",
+    "gold_source_type": "reports",
+    "gold_doc_id": "sec_000697",
+    "gold_chunk_id": "reports::sec_000697::000",
+    "reference_answer": "The maximum amount of coverage provided is up to $3 million.",
+    "category": "reports",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0161",
+    "query": "What are some of the key competitive factors that Apple considers important for its success in the market?",
+    "gold_source_type": "reports",
+    "gold_doc_id": "sec_000110",
+    "gold_chunk_id": "reports::sec_000110::000",
+    "reference_answer": "Key competitive factors include price, product and service features (including security features), relative price and performance, product and service quality and reliability, design innovation, a strong third-party software and accessories ecosystem, marketing and distribution capability, service and support, and corporate reputation.",
+    "category": "reports",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0162",
+    "query": "What are the primary product lines of Garan Incorporated according to the 2023_10K filing?",
+    "gold_source_type": "reports",
+    "gold_doc_id": "sec_000841",
+    "gold_chunk_id": "reports::sec_000841::000",
+    "reference_answer": "Garan Incorporated designs, manufactures, imports, and sells apparel primarily for children, including boys, girls, toddlers, and infants.",
+    "category": "reports",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0163",
+    "query": "What were the main factors contributing to the increase in Free Cash Flow for ABNB in 2023?",
+    "gold_source_type": "reports",
+    "gold_doc_id": "sec_000645",
+    "gold_chunk_id": "reports::sec_000645::000",
+    "reference_answer": "The increase in Free Cash Flow was primarily driven by increased income from operations and interest income due to higher interest rates on larger cash balances.",
+    "category": "reports",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0164",
+    "query": "What types of legal proceedings and claims does PG Filing face in relation to its business operations?",
+    "gold_source_type": "reports",
+    "gold_doc_id": "sec_000408",
+    "gold_chunk_id": "reports::sec_000408::000",
+    "reference_answer": "PG Filing faces legal proceedings and claims covering a wide range of matters including antitrust and trade regulation, product liability, advertising, contracts, environmental issues, patent and trademark matters, labor and employment matters, and tax.",
+    "category": "reports",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0165",
+    "query": "What did the FTC accuse Meta of doing in its complaint filed on December 9, 2020?",
+    "gold_source_type": "reports",
+    "gold_doc_id": "sec_000940",
+    "gold_chunk_id": "reports::sec_000940::000",
+    "reference_answer": "The FTC accused Meta of engaging in anticompetitive conduct and unfair methods of competition, including the acquisitions of Instagram in 2012 and WhatsApp in 2014.",
+    "category": "reports",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0166",
+    "query": "How are equity investments for which the company cannot exercise significant influence and for which fair value is not readily determinable accounted for according to the document?",
+    "gold_source_type": "reports",
+    "gold_doc_id": "sec_000685",
+    "gold_chunk_id": "reports::sec_000685::001",
+    "reference_answer": "Such investments are carried at cost, less any impairments, and are adjusted for subsequent observable price changes obtained from orderly transactions for identical or similar investments issued by the same investee.",
+    "category": "reports",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0167",
+    "query": "What are some risks associated with compliance differences between foreign and U.S. laws and regulations for multinational enterprises?",
+    "gold_source_type": "reports",
+    "gold_doc_id": "sec_000911",
+    "gold_chunk_id": "reports::sec_000911::002",
+    "reference_answer": "Multinational enterprises face risks of imposing different obligations, more restrictive regulations, and potential significant fines due to foreign data protection, privacy, content, competition, and consumer protection laws that can differ from U.S. laws. Additionally, these laws and regulations are constantly evolving and can be subject to significant change.",
+    "category": "reports",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0168",
+    "query": "Where is MLMIC Insurance Company based and what types of insurance does it primarily offer in New York State?",
+    "gold_source_type": "reports",
+    "gold_doc_id": "sec_000808",
+    "gold_chunk_id": "reports::sec_000808::000",
+    "reference_answer": "MLMIC Insurance Company is based in Albany, New York and writes medical professional liability insurance policies for medical and dental professionals, health care providers, and hospitals through brokers and on a direct basis.",
+    "category": "reports",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0169",
+    "query": "Why did the gross margin of the Compute & Networking segment decrease in fiscal year 2023 compared to fiscal year 2022?",
+    "gold_source_type": "reports",
+    "gold_doc_id": "sec_000074",
+    "gold_chunk_id": "reports::sec_000074::000",
+    "reference_answer": "The gross margin decreased primarily due to inventory provisions.",
+    "category": "reports",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0170",
+    "query": "What additional information does management's discussion and analysis provide besides the consolidated financial statements and notes included in the annual report?",
+    "gold_source_type": "reports",
+    "gold_doc_id": "sec_000330",
+    "gold_chunk_id": "reports::sec_000330::000",
+    "reference_answer": "Management's discussion and analysis provides a supplement to, and should be read in conjunction with, the consolidated financial statements and the related notes included elsewhere in the Annual Report on Form 10-K.",
+    "category": "reports",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0171",
+    "query": "Which two currencies does Tesla primarily deal with in terms of foreign currency risk for its 2023 operations?",
+    "gold_source_type": "reports",
+    "gold_doc_id": "sec_000293",
+    "gold_chunk_id": "reports::sec_000293::000",
+    "reference_answer": "Chinese yuan and euro",
+    "category": "reports",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0172",
+    "query": "What action does the company take when it determines a loss is probable and the amount can be reasonably estimated in legal proceedings?",
+    "gold_source_type": "reports",
+    "gold_doc_id": "sec_000180",
+    "gold_chunk_id": "reports::sec_000180::000",
+    "reference_answer": "The Company records a liability.",
+    "category": "reports",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0173",
+    "query": "Which industries does TTI service according to the 2023_10K filing for BRK-A?",
+    "gold_source_type": "reports",
+    "gold_doc_id": "sec_000844",
+    "gold_chunk_id": "reports::sec_000844::000",
+    "reference_answer": "telecommunications, medical devices, computers and office equipment, military/aerospace, automotive and industrial electronics",
+    "category": "reports",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0174",
+    "query": "Does Apple record a liability for all legal proceedings and claims that arise in the ordinary course of business?",
+    "gold_source_type": "reports",
+    "gold_doc_id": "sec_000183",
+    "gold_chunk_id": "reports::sec_000183::000",
+    "reference_answer": "No, Apple records a liability only when it is probable that a loss has been incurred and the amount is reasonably estimable.",
+    "category": "reports",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0175",
+    "query": "Why are labor costs lower for this company compared to other retailers?",
+    "gold_source_type": "reports",
+    "gold_doc_id": "sec_000509",
+    "gold_chunk_id": "reports::sec_000509::000",
+    "reference_answer": "The hours of operation are shorter and the operation is more efficient due to a warehouse-type setup, which reduces the labor required for merchandise storage and display.",
+    "category": "reports",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0176",
+    "query": "Quali sono le principali innovazioni della Cina nell'informatica quantistica?",
+    "gold_source_type": "slack",
+    "gold_doc_id": "oasst_000625",
+    "gold_chunk_id": "slack::oasst_000625::003",
+    "reference_answer": "La Cina ha sviluppato un computer quantistico molto potente chiamato Jiuzhang.",
+    "category": "slack",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0177",
+    "query": "Wie konnte Bob seine Android App in Apples App Store ver\u00f6ffentlichen, wenn er doch eine Android App geschrieben hat? Hat er seinen Code konvertieren lassen oder hat er parallel noch in Swift entwickelt?",
+    "gold_source_type": "slack",
+    "gold_doc_id": "oasst_000723",
+    "gold_chunk_id": "slack::oasst_000723::000",
+    "reference_answer": "Bob musste seinen Code nicht konvertieren, da er parallel in Swift entwickelt hat.",
+    "category": "slack",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0178",
+    "query": "\u00bfQu\u00e9 obra es famosa de Jos\u00e9 Carlos Mari\u00e1tegui y cu\u00e1l es su tema principal?",
+    "gold_source_type": "slack",
+    "gold_doc_id": "oasst_000874",
+    "gold_chunk_id": "slack::oasst_000874::001",
+    "reference_answer": "Su obra famosa es '7 ensayos de interpretaci\u00f3n de la realidad peruana', en la cual analiza la realidad peruana desde una perspectiva marxista.",
+    "category": "slack",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0179",
+    "query": "How many players are there in futsal?",
+    "gold_source_type": "slack",
+    "gold_doc_id": "oasst_000199",
+    "gold_chunk_id": "slack::oasst_000199::000",
+    "reference_answer": "In futsal or f\u00fatbol sala, the game is played with 5 players per team.",
+    "category": "slack",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0180",
+    "query": "\u00bfEn qu\u00e9 contexto se usa 'echo' y en qu\u00e9 se usa 'hecho'?",
+    "gold_source_type": "slack",
+    "gold_doc_id": "oasst_000503",
+    "gold_chunk_id": "slack::oasst_000503::000",
+    "reference_answer": "'Echo' se usa como verbo para indicar que algo ha sido expulsado o arrojado fuera de un lugar, mientras que 'hecho' se usa como sustantivo para referirse a un acontecimiento o algo que ha ocurrido.",
+    "category": "slack",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0181",
+    "query": "Why was the pig named Piggi selected for the Soviet moon mission in 1967?",
+    "gold_source_type": "slack",
+    "gold_doc_id": "oasst_000794",
+    "gold_chunk_id": "slack::oasst_000794::001",
+    "reference_answer": "Piggi was selected because she was a piglet weighing 45 kg, making her light enough not to require too much extra fuel but sturdy enough to survive the trip.",
+    "category": "slack",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0182",
+    "query": "\u00bfC\u00f3mo pueden las energ\u00edas renovables ayudar a mejorar el planeta seg\u00fan el texto?",
+    "gold_source_type": "slack",
+    "gold_doc_id": "oasst_000775",
+    "gold_chunk_id": "slack::oasst_000775::001",
+    "reference_answer": "Las energ\u00edas renovables pueden ayudar a bajar considerablemente los niveles de contaminaci\u00f3n, a salvar especies de la flora y fauna, y a lograr un planeta sustentable.",
+    "category": "slack",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0183",
+    "query": "What type of corn is recommended for making pozole according to the document?",
+    "gold_source_type": "slack",
+    "gold_doc_id": "oasst_000097",
+    "gold_chunk_id": "slack::oasst_000097::001",
+    "reference_answer": "Ma\u00edz pozolero or cacahuazintle",
+    "category": "slack",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0184",
+    "query": "\u00bfCu\u00e1l es el primer paso para conseguir mi primer trabajo como programador seg\u00fan el documento?",
+    "gold_source_type": "slack",
+    "gold_doc_id": "oasst_000833",
+    "gold_chunk_id": "slack::oasst_000833::000",
+    "reference_answer": "El primer paso es adquirir habilidades, lo cual incluye aprender un lenguaje de programaci\u00f3n que te guste.",
+    "category": "slack",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0185",
+    "query": "What is a key benefit of using metatables in object-oriented Lua programming?",
+    "gold_source_type": "slack",
+    "gold_doc_id": "oasst_000544",
+    "gold_chunk_id": "slack::oasst_000544::002",
+    "reference_answer": "Utilize metatables to create inheritance, enabling the sharing of common methods and properties across instances of an object or class.",
+    "category": "slack",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0186",
+    "query": "What should I consider when choosing a thesis topic for my upcoming academic degree?",
+    "gold_source_type": "slack",
+    "gold_doc_id": "oasst_000231",
+    "gold_chunk_id": "slack::oasst_000231::002",
+    "reference_answer": "You should consider finding a topic that matches your degree and interests, which can be found through research proposals or by developing your own topic, although the latter requires significant financial or intellectual investment.",
+    "category": "slack",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0187",
+    "query": "\u00bfSobre qu\u00e9 temas necesito proporcionar m\u00e1s informaci\u00f3n?",
+    "gold_source_type": "slack",
+    "gold_doc_id": "oasst_000558",
+    "gold_chunk_id": "slack::oasst_000558::000",
+    "reference_answer": "El usuario desea obtener nueva informaci\u00f3n sobre algunos temas espec\u00edficos, pero no ha especificado cu\u00e1les son.",
+    "category": "slack",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0188",
+    "query": "Qu\u00e9 versi\u00f3n de Python necesito para poder usar lambda?",
+    "gold_source_type": "slack",
+    "gold_doc_id": "oasst_000886",
+    "gold_chunk_id": "slack::oasst_000886::001",
+    "reference_answer": "El c\u00f3digo mostrado deber\u00eda funcionar en Python 3.0 o superior.",
+    "category": "slack",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0189",
+    "query": "How can I make someone happy according to U4's advice?",
+    "gold_source_type": "slack",
+    "gold_doc_id": "oasst_000476",
+    "gold_chunk_id": "slack::oasst_000476::001",
+    "reference_answer": "The simple fact of being alive and appreciating each second of life, recognizing how lucky you are to be able to enjoy another day, is a great reason for happiness. It\u2019s also suggested to need fewer things, lead a simpler life, and avoid frustration as it is contrary to happiness.",
+    "category": "slack",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0190",
+    "query": "What is JavaScript and what can it be used for?",
+    "gold_source_type": "slack",
+    "gold_doc_id": "oasst_000169",
+    "gold_chunk_id": "slack::oasst_000169::000",
+    "reference_answer": "JavaScript (or JS) is a lightweight, interpreted language with first-class functions. It is known as a scripting language (sequences of commands) for web pages and is used in many environments outside the browser, such as Node.js, Apache CouchDB, and Adobe Acrobat. It is a prototype-based, multi-paradigm language primarily used in web development.",
+    "category": "slack",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0191",
+    "query": "Was bedeutet Header in diesem Kontext und was meint der Coworker damit?",
+    "gold_source_type": "slack",
+    "gold_doc_id": "oasst_000478",
+    "gold_chunk_id": "slack::oasst_000478::000",
+    "reference_answer": "Header bezieht sich auf einen \u00dcbersatz oder eine Kurzbeschreibung am Anfang eines Absatzes. Der Coworker fragt nach dem genauen Verst\u00e4ndnis des Begriffs 'Paragraph' und 'Header'.",
+    "category": "slack",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0192",
+    "query": "How can I make friends if I don't like going to parties or clubs?",
+    "gold_source_type": "slack",
+    "gold_doc_id": "oasst_000735",
+    "gold_chunk_id": "slack::oasst_000735::000",
+    "reference_answer": "You can try joining online forums where people share your interests and hobbies, which can help you build friendships based on common topics.",
+    "category": "slack",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0193",
+    "query": "How do I use the Python function to add two numbers?",
+    "gold_source_type": "slack",
+    "gold_doc_id": "oasst_000172",
+    "gold_chunk_id": "slack::oasst_000172::000",
+    "reference_answer": "You can use the function like this: `sumar(3, 7)` which will return `10`. The function takes two parameters, `x` and `b`, and returns their sum.",
+    "category": "slack",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0194",
+    "query": "Who is considered one of the best football players of all time and what were some of his notable achievements?",
+    "gold_source_type": "slack",
+    "gold_doc_id": "oasst_000905",
+    "gold_chunk_id": "slack::oasst_000905::003",
+    "reference_answer": "Diego Maradona is considered one of the best football players of all time. He led Argentina to victory in the 1986 World Cup and played for clubs such as Boca Juniors, Barcelona, Napoli, and Sevilla.",
+    "category": "slack",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0195",
+    "query": "Czym r\u00f3\u017cni\u0105 si\u0119 owoce od warzyw?",
+    "gold_source_type": "slack",
+    "gold_doc_id": "oasst_000331",
+    "gold_chunk_id": "slack::oasst_000331::001",
+    "reference_answer": "Owoce to organ ro\u015blin okrytozal\u0105\u017ckowych zawieraj\u0105cy w swoim wn\u0119trzu nasiona, podczas gdy warzywa to inne cz\u0119\u015bci ro\u015blin, takie jak li\u015bcie, korzenie lub kwiaty, kt\u00f3re nie zawieraj\u0105 nasion.",
+    "category": "slack",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0196",
+    "query": "What is object-oriented programming and how does it differ from other programming paradigms?",
+    "gold_source_type": "slack",
+    "gold_doc_id": "oasst_000765",
+    "gold_chunk_id": "slack::oasst_000765::001",
+    "reference_answer": "Object-oriented programming is a programming paradigm that focuses on designing applications and programs using objects, which are instances of classes combining data and behavior. The difference lies in the structural approach used.",
+    "category": "slack",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0197",
+    "query": "\u00bfC\u00f3mo funciona MQTT en t\u00e9rminos simples?",
+    "gold_source_type": "slack",
+    "gold_doc_id": "oasst_000919",
+    "gold_chunk_id": "slack::oasst_000919::001",
+    "reference_answer": "MQTT funciona como un sistema de publicaci\u00f3n-suscripci\u00f3n, donde los dispositivos IoT pueden publicar datos en temas espec\u00edficos y otros dispositivos pueden suscribirse a esos temas para recibir actualizaciones.",
+    "category": "slack",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0198",
+    "query": "What are the key concepts in software development and design according to the document, and how do they impact code quality?",
+    "gold_source_type": "slack",
+    "gold_doc_id": "oasst_000710",
+    "gold_chunk_id": "slack::oasst_000710::000",
+    "reference_answer": "The key concepts are Object-Oriented Programming (OOP) principles such as encapsulation, inheritance, and polymorphism, which significantly improve the quality of code and make it easier to maintain and modify.",
+    "category": "slack",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0199",
+    "query": "Which are the most prestigious young orchestras in the world?",
+    "gold_source_type": "slack",
+    "gold_doc_id": "oasst_000685",
+    "gold_chunk_id": "slack::oasst_000685::000",
+    "reference_answer": "The most prestigious young orchestras in the world are the New York Youth Symphony, the Colombia Philharmonic Youth Orchestra, the Mahler Youth Orchestra, the National Orchestra of France, the Youth Symphony Orchestra of Venezuela, the Youth Symphony Orchestra of Spain, and the Catalonia Youth Symphony Orchestra.",
+    "category": "slack",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0200",
+    "query": "Can humans travel to Mars currently?",
+    "gold_source_type": "slack",
+    "gold_doc_id": "oasst_000295",
+    "gold_chunk_id": "slack::oasst_000295::000",
+    "reference_answer": "Currently, humans cannot travel to Mars, but there are plans and initiatives underway to make human trips to Mars a reality in the future.",
+    "category": "slack",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0201",
+    "query": "What error does the author receive when trying to import a .DBF file into SQL Server using the provided stored procedure?",
+    "gold_source_type": "stackoverflow",
+    "gold_doc_id": "so_000721",
+    "gold_chunk_id": "stackoverflow::so_000721::000",
+    "reference_answer": "The author receives an error.",
+    "category": "stackoverflow",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0202",
+    "query": "Why is the position of the object showing as 0 in the inspector and scene, even though the code prints the correct position of -60?",
+    "gold_source_type": "stackoverflow",
+    "gold_doc_id": "so_000526",
+    "gold_chunk_id": "stackoverflow::so_000526::001",
+    "reference_answer": "The position is likely being reset or overridden somewhere else in the code or by other scripts, causing it to show as 0 in the inspector and scene.",
+    "category": "stackoverflow",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0203",
+    "query": "What error code was returned when processing the incoming packet message for the session realm <myserver.com>?",
+    "gold_source_type": "stackoverflow",
+    "gold_doc_id": "so_000754",
+    "gold_chunk_id": "stackoverflow::so_000754::008",
+    "reference_answer": "401: Unauthorized",
+    "category": "stackoverflow",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0204",
+    "query": "Why does the provided code snippet throw a ValueError during decompression?",
+    "gold_source_type": "stackoverflow",
+    "gold_doc_id": "so_000324",
+    "gold_chunk_id": "stackoverflow::so_000324::001",
+    "reference_answer": "The code attempts to decompress the file in one go by reading and processing it in chunks of 1 byte at a time, but it initializes the decompressobj multiple times which is unnecessary and can lead to errors. The ValueError indicates a data error during decompression, likely due to improper handling or initialization of the decompression object.",
+    "category": "stackoverflow",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0205",
+    "query": "What is displayed when the `props[index]` is true in the Collapse component?",
+    "gold_source_type": "stackoverflow",
+    "gold_doc_id": "so_000964",
+    "gold_chunk_id": "stackoverflow::so_000964::003",
+    "reference_answer": "POOP",
+    "category": "stackoverflow",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0206",
+    "query": "How can I retrieve the case class of Person rather than the object so I can call tupled properly?",
+    "gold_source_type": "stackoverflow",
+    "gold_doc_id": "so_000327",
+    "gold_chunk_id": "stackoverflow::so_000327::001",
+    "reference_answer": "You need to explicitly refer to the case class rather than the object when calling the tupled method.",
+    "category": "stackoverflow",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0207",
+    "query": "How can I configure Entity Framework Fluent API to allow nulls in a optional relationship between Post and Poll entities?",
+    "gold_source_type": "stackoverflow",
+    "gold_doc_id": "so_000174",
+    "gold_chunk_id": "stackoverflow::so_000174::002",
+    "reference_answer": "You should use `HasOptional(x => x.Poll).WithOptionalDependent()` in the Fluent API configuration, and combine it with the `[ForeignKey]` attribute in the Post class.",
+    "category": "stackoverflow",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0208",
+    "query": "What is the cause of the CastError when using Mongoose to populate a document, and how can it be resolved?",
+    "gold_source_type": "stackoverflow",
+    "gold_doc_id": "so_000317",
+    "gold_chunk_id": "stackoverflow::so_000317::002",
+    "reference_answer": "The error occurs because Mongoose is trying to cast the value \"0\" to an ObjectId, which fails. To resolve this, ensure that the value being assigned to the 'creator' field is a valid ObjectId, either by converting it to an actual ObjectId or by ensuring it matches the format of an ObjectId.",
+    "category": "stackoverflow",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0209",
+    "query": "Why is the code complaining that it can't find the d3-request module even though it is installed and imported correctly?",
+    "gold_source_type": "stackoverflow",
+    "gold_doc_id": "so_000428",
+    "gold_chunk_id": "stackoverflow::so_000428::001",
+    "reference_answer": "The issue might be related to the way the type definition for d3-request is referenced. Ensure that the path to the type definition file is correct and that there are no typos. Additionally, verify that the types are being properly compiled if using a TypeScript compiler.",
+    "category": "stackoverflow",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0210",
+    "query": "How can I load images from a directory on my computer into Python variables for displaying them in a loop?",
+    "gold_source_type": "stackoverflow",
+    "gold_doc_id": "so_000626",
+    "gold_chunk_id": "stackoverflow::so_000626::000",
+    "reference_answer": "You can use libraries like PIL (Pillow) or OpenCV to load images from a directory. Here\u2019s an example using Pillow:",
+    "category": "stackoverflow",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0211",
+    "query": "How can I modify the Ansible playbook to ensure the Nginx installation task runs only when Nginx is not already installed or not at the correct version?",
+    "gold_source_type": "stackoverflow",
+    "gold_doc_id": "so_000464",
+    "gold_chunk_id": "stackoverflow::so_000464::000",
+    "reference_answer": "The playbook should check the Nginx version first and then run the installation task only if Nginx is not already installed or not at the correct version. The provided code snippet almost achieves this, but the condition needs to be adjusted to correctly handle the version comparison and avoid running the installation task unnecessarily.",
+    "category": "stackoverflow",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0212",
+    "query": "How can I align the paragraph to the bottom of the header div so that its last line is at the bottom of the header?",
+    "gold_source_type": "stackoverflow",
+    "gold_doc_id": "so_000714",
+    "gold_chunk_id": "stackoverflow::so_000714::000",
+    "reference_answer": "To align the paragraph to the bottom of the header div, you can use Flexbox or absolute positioning. Here's an example using Flexbox:\n\n```css\n#header {\n    display: flex;\n    flex-direction: row;\n    justify-content: space-between;\n    align-items: flex-end;\n    height: 200px;\n}\n\n#logo {\n    float: none;\n}\n\n#quote {\n    margin-left: auto;\n}\n```\n\nThis will align the paragraph to the bottom of the header div.",
+    "category": "stackoverflow",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0213",
+    "query": "How do I connect Crystal Reports 13 to an SQL Server 2012 database?",
+    "gold_source_type": "stackoverflow",
+    "gold_doc_id": "so_000836",
+    "gold_chunk_id": "stackoverflow::so_000836::000",
+    "reference_answer": "To connect Crystal Reports 13 to an SQL Server 2012 database, you should use the 'database expert' feature, but if you're having trouble adding the database to the report, you may need to ensure that the data source is correctly configured and that the necessary drivers are installed.",
+    "category": "stackoverflow",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0214",
+    "query": "How can I convert a decimal value representing hours into a DD:HH:MM:SS format?",
+    "gold_source_type": "stackoverflow",
+    "gold_doc_id": "so_000763",
+    "gold_chunk_id": "stackoverflow::so_000763::000",
+    "reference_answer": "To convert a decimal value representing hours into a DD:HH:MM:SS format, you should first ensure you're correctly separating the hours, minutes, and seconds. Given the example, it seems like the days part is missing and the conversion logic needs adjustment for hours, minutes, and seconds only.",
+    "category": "stackoverflow",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0215",
+    "query": "Why isn't the local repository being updated when using the PullCommand in JGit?",
+    "gold_source_type": "stackoverflow",
+    "gold_doc_id": "so_000225",
+    "gold_chunk_id": "stackoverflow::so_000225::000",
+    "reference_answer": "The local repo contents are not updated when using the PullCommand in JGit because the PullCommand may need to be executed in the context of a working directory that has been properly initialized with a CloneCommand or FetchCommand.",
+    "category": "stackoverflow",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0216",
+    "query": "What does the error message 'Cannot add duplicate collection entry of type 'add' with unique key attribute 'name' set to 'aspNetCore'' indicate and how can it be resolved?",
+    "gold_source_type": "stackoverflow",
+    "gold_doc_id": "so_000675",
+    "gold_chunk_id": "stackoverflow::so_000675::000",
+    "reference_answer": "This error message indicates that there is a duplicate entry for the 'aspNetCore' handler in the system.webServer configuration of your IIS. To resolve this, you should ensure that the 'name' attribute in the 'add' tag within the 'handlers' section is unique. Check if there are multiple 'add' tags with the same 'name' attribute 'aspNetCore' and remove or merge them appropriately.",
+    "category": "stackoverflow",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0217",
+    "query": "What should I check to troubleshoot the 'Job for docker.service failed because the control process exited with error code' issue on Manjaro?",
+    "gold_source_type": "stackoverflow",
+    "gold_doc_id": "so_000017",
+    "gold_chunk_id": "stackoverflow::so_000017::000",
+    "reference_answer": "You should check the status of the docker service using 'systemctl status docker.service' and review the journal logs with 'journalctl -xe' for more details.",
+    "category": "stackoverflow",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0218",
+    "query": "Why is the Docker service failing according to the systemctl status output?",
+    "gold_source_type": "stackoverflow",
+    "gold_doc_id": "so_000017",
+    "gold_chunk_id": "stackoverflow::so_000017::001",
+    "reference_answer": "The Docker service is failing because it exited with a failure status code (1/FAILURE), as indicated by the 'Active: failed (Result: exit-code)' line in the output.",
+    "category": "stackoverflow",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0219",
+    "query": "What is the issue and how can it be fixed when trying to use HttpServletRequest with a Reactive Spring Boot controller?",
+    "gold_source_type": "stackoverflow",
+    "gold_doc_id": "so_000995",
+    "gold_chunk_id": "stackoverflow::so_000995::001",
+    "reference_answer": "The issue arises because the `spring-boot-starter-web-reactive` does not support `HttpServletRequest` directly in reactive methods. To fix this, you can use `ServerRequest` instead of `HttpServletRequest`. Update your controller method to accept `ServerRequest` as the parameter.",
+    "category": "stackoverflow",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0220",
+    "query": "What error message did the user receive when trying to install socket.io using npm?",
+    "gold_source_type": "stackoverflow",
+    "gold_doc_id": "so_000331",
+    "gold_chunk_id": "stackoverflow::so_000331::000",
+    "reference_answer": "MSB3411 Could not load Visual C++ component",
+    "category": "stackoverflow",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0221",
+    "query": "What could be causing the error 'No signature of method: build_dxc6m5s863o0nfrfjdg2bqjp.android() is applicable for argument types' in my Gradle file?",
+    "gold_source_type": "stackoverflow",
+    "gold_doc_id": "so_000508",
+    "gold_chunk_id": "stackoverflow::so_000508::000",
+    "reference_answer": "The error message suggests that there is an issue with how the Android plugin is being applied or used in your Gradle configuration. Ensure that you have correctly applied the 'com.android.application' plugin and that your 'android' block is properly formatted.",
+    "category": "stackoverflow",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0222",
+    "query": "Why does adding a print statement before or after the input statement prevent runtime errors in this Java code?",
+    "gold_source_type": "stackoverflow",
+    "gold_doc_id": "so_000893",
+    "gold_chunk_id": "stackoverflow::so_000893::002",
+    "reference_answer": "Adding a print statement helps by ensuring that there is some output before the input, which prevents the program from attempting to read input when no data is available, thus avoiding a runtime exception.",
+    "category": "stackoverflow",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0223",
+    "query": "What is the cause of the NullPointerException in the provided logcat error and which file is responsible for it?",
+    "gold_source_type": "stackoverflow",
+    "gold_doc_id": "so_000522",
+    "gold_chunk_id": "stackoverflow::so_000522::001",
+    "reference_answer": "The NullPointerException is caused by trying to call getWritableDatabase() on a null SQLiteOpenHelper object. The problematic line is located in DBAdapter.java at line 71.",
+    "category": "stackoverflow",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0224",
+    "query": "How can I receive a string from a JavaScript function in the given Swift code for a WebView?",
+    "gold_source_type": "stackoverflow",
+    "gold_doc_id": "so_000736",
+    "gold_chunk_id": "stackoverflow::so_000736::001",
+    "reference_answer": "You would need to add JavaScript interactivity to the WebView to call a JavaScript function and receive its return value. This typically involves using the `evaluateJavaScript` method of the WebView.",
+    "category": "stackoverflow",
+    "query_type": "single_domain"
+  },
+  {
+    "query_id": "compq_0225",
+    "query": "What is the content of the download.sh script and how does it work?",
+    "gold_source_type": "stackoverflow",
+    "gold_doc_id": "so_000208",
+    "gold_chunk_id": "stackoverflow::so_000208::001",
+    "reference_answer": "#!/bin/sh\nurl=$(awk -F = '{print $2}' url.txt)\nfor i in $(cat file.txt);\ndo \nwget $url\ndone",
+    "category": "stackoverflow",
+    "query_type": "single_domain"
+  }
+]

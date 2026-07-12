@@ -1,0 +1,1526 @@
+[
+  {
+    "query": "What are the designated Construction Limits for a project as defined by the Department?",
+    "reference_answer": "Construction Limits are locations where the Department will allow construction activity or disturbance. These include areas from the beginning to the ending station(s) of the project between the slope stakes, areas within defined Construction Permit(s) boundaries, material sources, designated haul roads, plant sites, staging areas, stockpiling sites, and any other locations approved by the Engineer.",
+    "relevant_section": "SECTION 101",
+    "relevant_title": "2021 Standard Specifications for Road and Bridge Construction",
+    "category": "STANDARD_SPECS",
+    "query_type": "single_domain",
+    "id": "q_001"
+  },
+  {
+    "query": "If our planned temporary stream crossing work, including dewatering, extends beyond the original 404 permit boundaries, what is the required procedure for authorization?",
+    "reference_answer": "Upon receipt of the proposed work plan for a revised encroachment, the engineer will contact the U.S. Army Corps of Engineers to obtain authorization. Work affecting areas outside the limits authorized by the original 404 permit must not begin until a copy of the amended permit is received from the engineer. If the Corps refuses to authorize the revision, the work must be performed within the original encroachment boundaries at no additional cost to the department.",
+    "relevant_section": "SECTION 111",
+    "relevant_title": "2021 Standard Specifications for Road and Bridge Construction",
+    "category": "STANDARD_SPECS",
+    "query_type": "single_domain",
+    "id": "q_002"
+  },
+  {
+    "query": "What is the contractor's responsibility if errors are discovered in previous surveys or if grade stakes are lost during construction?",
+    "reference_answer": "Upon discovery, the contractor must notify the engineer of apparent errors in or discrepancies with previous surveys and obtain corrections or interpretations before proceeding. The contractor is also responsible for correcting deficient work due to incorrect staking or failure to report errors or inaccuracies. Additionally, the contractor must reset grade stakes, benchmarks, reference points, or property corners that are lost, damaged, or destroyed by traffic or construction.",
+    "relevant_section": "SECTION 105",
+    "relevant_title": "2021 Standard Specifications for Road and Bridge Construction",
+    "category": "STANDARD_SPECS",
+    "query_type": "single_domain",
+    "id": "q_003"
+  },
+  {
+    "query": "Regarding core samples for bulk specific gravity and density, who performs the tests once the cores are dry?",
+    "reference_answer": "After the department and the contractor dry the cores to constant weight, the contractor will test one sample from each of the seven pairs of dry cores for bulk specific gravity and density, doing so independent of the department. The engineer will test the other sample from each of the seven pairs of dry cores independently.",
+    "relevant_section": "SECTION 114",
+    "relevant_title": "2021 Standard Specifications for Road and Bridge Construction",
+    "category": "STANDARD_SPECS",
+    "query_type": "single_domain",
+    "id": "q_004"
+  },
+  {
+    "query": "What are the key safety considerations and procedural requirements for WYDOT personnel when inspecting at an active crusher or pit site?",
+    "reference_answer": "When inspecting at an active crusher or pit, personnel should wear appropriate footwear and consider hearing protection due to significant noise. It is crucial to inform the contractor when equipment is in operation and to be careful not to park vehicles where they may interfere with the contractor's operations.",
+    "relevant_section": "SECTION 302",
+    "relevant_title": "2020 Construction Manual",
+    "category": "CONSTRUCTION_MANUAL",
+    "query_type": "single_domain",
+    "id": "q_005"
+  },
+  {
+    "query": "What forms are used to document pay adjustments and daily application rates for emulsified asphalt?",
+    "reference_answer": "Quantities received for pay and adjustments for emulsified asphalt are documented on Form E-224, Pay Adjustment for Emulsified Asphalt. The associated Form E-224E-58, Daily Emulsion Application Rate Record, should be referenced for daily application rates.",
+    "relevant_section": "SECTION 407",
+    "relevant_title": "2020 Construction Manual",
+    "category": "CONSTRUCTION_MANUAL",
+    "query_type": "single_domain",
+    "id": "q_006"
+  },
+  {
+    "query": "What types of information, beyond standard daily entries, should inspectors ensure are documented in project diaries?",
+    "reference_answer": "In addition to routine entries, inspectors should ensure diaries include information such as hours worked by the contractor, weather conditions that affect operations, and any delays along with their causes.",
+    "relevant_section": "SECTION 412",
+    "relevant_title": "2020 Construction Manual",
+    "category": "CONSTRUCTION_MANUAL",
+    "query_type": "single_domain",
+    "id": "q_007"
+  },
+  {
+    "query": "What is a critical preconstruction step for fence installation projects?",
+    "reference_answer": "Before fence installation, a critical preconstruction step is to review the contract and ensure the fence locations are properly staked.",
+    "relevant_section": "SECTION 607",
+    "relevant_title": "2020 Construction Manual",
+    "category": "CONSTRUCTION_MANUAL",
+    "query_type": "single_domain",
+    "id": "q_008"
+  },
+  {
+    "query": "What WYDOT procedure is used to determine the moisture content of a hot plant mix, and what is its primary purpose?",
+    "reference_answer": "The WYDOT 413.0 procedure (Rev. 09-16) is used to determine the moisture content of a sample of mix (hot plant mix, recycled hot plant mix, warm plant mix) by evaporation. Its primary purpose is to determine whether the amount of water in the mix exceeds the specified amount.",
+    "relevant_section": "Materials Testing Manual",
+    "relevant_title": "FY 2019 Materials Testing Manual (Effective October 1, 2018)",
+    "category": "MATERIALS_TESTING",
+    "query_type": "single_domain",
+    "id": "q_009"
+  },
+  {
+    "query": "Which WYDOT forms are required for aggregate analysis and for sample transmittal, and is the weekly report T-102 still mandatory?",
+    "reference_answer": "Form T-166, Aggregate Analysis, is required for aggregate analysis, and Form T-120, Sample Transmittal, is required for sample transmittal. The *T-102 Report of Field Tests on Surfacing Materials (a weekly report) is no longer mandatory but optional.",
+    "relevant_section": "Materials Testing Manual",
+    "relevant_title": "FY 2019 Materials Testing Manual (Effective October 1, 2018)",
+    "category": "MATERIALS_TESTING",
+    "query_type": "single_domain",
+    "id": "q_010"
+  },
+  {
+    "query": "When determining moisture content of a mix, what scale accuracy is required? Also, what types of shakers are specified for sieve analysis?",
+    "reference_answer": "For moisture content determination, a scale capable of 0.0001 lb [0.1 g] accuracy is required. For sieve analysis, a large mechanical shaker with screens and a sieve shaker for 8-inch diameter sieves are specified.",
+    "relevant_section": "Materials Testing Manual",
+    "relevant_title": "FY 2019 Materials Testing Manual (Effective October 1, 2018)",
+    "category": "MATERIALS_TESTING",
+    "query_type": "single_domain",
+    "id": "q_011"
+  },
+  {
+    "query": "What AASHTO standard should be referenced for ignition oven sample temperatures, and what WYDOT procedure governs Marshall and Superpave mix design and volumetric verification?",
+    "reference_answer": "AASHTO T 308 should be referenced for ignition oven sample temperatures. WYDOT 414.0 covers Marshall and Superpave Mix Design and Mix Volumetric Verification Procedure.",
+    "relevant_section": "Materials Testing Manual",
+    "relevant_title": "FY 2019 Materials Testing Manual (Effective October 1, 2018)",
+    "category": "MATERIALS_TESTING",
+    "query_type": "single_domain",
+    "id": "q_012"
+  },
+  {
+    "query": "In the design process, which entity is primarily responsible for preparing and issuing roadway plan sets, and what types of recommendations do they incorporate?",
+    "reference_answer": "Project Development prepares and issues all roadway plan sets. They incorporate recommendations and designs from various programs and sections, such as earthwork design from Geology, pavement thickness from Materials, contract administration items from the resident engineer, and utility work or enhancements from local governments or private entities.",
+    "relevant_section": "CHAPTER 2",
+    "relevant_title": "Design Process",
+    "category": "DESIGN_MANUAL",
+    "query_type": "single_domain",
+    "id": "q_013"
+  },
+  {
+    "query": "When attaching a drawing to a CADD standard sheet, what considerations should be given to the scale factor, and at what point in the process should dimensioning and general text be added?",
+    "reference_answer": "A 1:1 CADD standard sheet border should be used with a scale factor that makes the drawing aesthetically fit the sheet. If the drawing needs to be scalable on paper, an even sheet scale factor (like 5 or 10) must be used. All dimensioning, standard fill patterns, titles, subtitles, and general text should be placed on the drawing after the sheet has been attached.",
+    "relevant_section": "SECTION 4",
+    "relevant_title": "Chapter 4, Section 4-02 Typical Sections (Issued April 2008)",
+    "category": "DESIGN_MANUAL",
+    "query_type": "single_domain",
+    "id": "q_014"
+  },
+  {
+    "query": "What are the proper procedures for placing arrows for dimensioning horizontal widths on a typical section, and what scaling considerations should be kept in mind?",
+    "reference_answer": "Arrows should be placed using the Active Line Terminator Tool and by using 'ARR' as the arrow cell, as placing them just by cell will not scale correctly. Smaller arrows may be used for horizontal dimensioning if the standard size arrowhead is too large. It is crucial to use the same size arrow consistently for dimensioning all various horizontal widths such as sidewalk, curb and gutter, and travel lanes.",
+    "relevant_section": "EXHIBIT 1",
+    "relevant_title": "Chapter 4, Section 4-02 Typical Sections (Issued April 2008)",
+    "category": "DESIGN_MANUAL",
+    "query_type": "single_domain",
+    "id": "q_015"
+  },
+  {
+    "query": "Which specific WYDOT programs or external entities are mentioned as providing recommendations to Project Development for roadway plan sets, and what types of information do they typically contribute?",
+    "reference_answer": "WYDOT programs such as Geology provide earthwork design and sub-grade repair recommendations, and Materials provides pavement thickness and mix design. External entities include the resident engineer for contract administration items, and city/county or private entities for utility work or enhancements.",
+    "relevant_section": "CHAPTER 2",
+    "relevant_title": "Design Process",
+    "category": "DESIGN_MANUAL",
+    "query_type": "single_domain",
+    "id": "q_016"
+  },
+  {
+    "query": "What are the specified codes for \"Seat Belt Operation\" that can be recorded in a crash report?",
+    "reference_answer": "The specified codes for Seat Belt Operation include 01 - Apparently Normal, 02 - Failure/Malfunction, 03 - Misuse, and 99 - Unknown.",
+    "relevant_section": "2018-2022 VRU Critical Crash Report",
+    "relevant_title": "Strategic Highway Safety Plan 2022 Addendum - Vulnerable Road Users",
+    "category": "TRAFFIC_CRASHES",
+    "query_type": "single_domain",
+    "id": "q_017"
+  },
+  {
+    "query": "What is the total project cost and the federal share for the Comprehensive Occupant Protection/Impaired Driving activity designated as RS-2023-BI-RS-02?",
+    "reference_answer": "The total project cost for activity RS-2023-BI-RS-02 is $88,800.00, with a federal share of $80,355.12.",
+    "relevant_section": "General",
+    "relevant_title": "Wyoming Highway Safety Plan - FY2023",
+    "category": "TRAFFIC_CRASHES",
+    "query_type": "single_domain",
+    "id": "q_018"
+  },
+  {
+    "query": "What are the primary focus areas for SADD's year-long activities to raise awareness of teen traffic safety, and which Core Performance Measures are addressed by countermeasure strategies like Youth Programs?",
+    "reference_answer": "SADD's year-long activities raise awareness on distractions, impairment, seat belt use, and speeding among teens. Countermeasure strategies like Youth Programs address Core Performance Measures such as the Number of Traffic Fatalities (C1), Number of Serious Injuries in Traffic Crashes (C2), and Number of Drivers Age 20 or Younger Involved in Fatal Crashes (C9).",
+    "relevant_section": "General",
+    "relevant_title": "Wyoming Highway Safety Plan - FY2023",
+    "category": "TRAFFIC_CRASHES",
+    "query_type": "single_domain",
+    "id": "q_019"
+  },
+  {
+    "query": "If a drug test is performed following a traffic crash, what additional form is required to be submitted with the results?",
+    "reference_answer": "If a drug test is performed, form 902E will be required with the results at a later date.",
+    "relevant_section": "2022 73 - Investigator's Traffic Crash Report.pdf",
+    "relevant_title": "Strategic Highway Safety Plan 2022 Addendum - Vulnerable Road Users",
+    "category": "TRAFFIC_CRASHES",
+    "query_type": "single_domain",
+    "id": "q_020"
+  },
+  {
+    "query": "What is the structure number and approximate location (station, county) for the Bridge Over Mill Creek project?",
+    "reference_answer": "The structure number for the Bridge Over Mill Creek project is LNB, ML2100B, RM 19.12. It is located at STA 1066+95 in Uinta County.",
+    "relevant_section": "Section 4.02 - General Notes",
+    "relevant_title": "Bridge Over Mill Creek: Preliminary Design Plans",
+    "category": "BRIDGE_PROGRAM",
+    "query_type": "single_domain",
+    "id": "q_021"
+  },
+  {
+    "query": "Who is responsible for determining clear zones and guardrail requirements, and what guidelines govern the clearance behind guardrails for obstructions?",
+    "reference_answer": "Clear zones and guardrail requirements are determined by the Project Development Program. Clearance behind the guardrail shall be provided along the face of obstructions and supports located within the clear zone, and must be in accordance with the Standard Plans.",
+    "relevant_section": "Section 1.02 \u2013 Structure Selection and Geometry",
+    "relevant_title": "Bridge Design Manual Section 1.02 \u2013 Structure Selection and Geometry",
+    "category": "BRIDGE_PROGRAM",
+    "query_type": "single_domain",
+    "id": "q_022"
+  },
+  {
+    "query": "For preliminary design and layout plans, such as the Bridge Over North Laramie River, how are longitudinal dimensions typically measured and what specific corrections are included in the slab thickness diagram?",
+    "reference_answer": "Longitudinal dimensions are typically measured along the finished grade and parallel with the working line unless otherwise noted. The slab thickness diagram specifically includes a correction for dead load deflection.",
+    "relevant_section": "22BAM_0800005_1sl1",
+    "relevant_title": "Bridge Over North Laramie River at Fletcher Park Road: Preliminary Design and Layout",
+    "category": "BRIDGE_PROGRAM",
+    "query_type": "single_domain",
+    "id": "q_023"
+  },
+  {
+    "query": "During a contract dispute, what happens if additional information is submitted after the engineer has already made an initial decision, and what are the two primary forms an engineer's response can take?",
+    "reference_answer": "If additional information is submitted after the engineer has made a decision, the resident engineer will review and make a decision prior to review by the District Engineer or Chief Engineer. The engineer's response includes either confirmation of the need for a \u201cContract Amendment\u201d (Form E-61) or resolution to a dispute, or a denial of the request for a contract amendment or dispute resolution.",
+    "relevant_section": "SECTION 105",
+    "relevant_title": "2021 Standard Specifications for Road and Bridge Construction",
+    "category": "BRIDGE_PROGRAM",
+    "query_type": "single_domain",
+    "id": "q_024"
+  },
+  {
+    "query": "Why were dedicated bus facilities, such as bus-only lanes, generally not recommended for the 22/390 Corridor Study area, based on the March 2013 handout?",
+    "reference_answer": "Dedicated bus facilities were largely eliminated as an alternative because projected transit operations do not warrant them, with the exception of queue jump opportunities at signalized intersections.",
+    "relevant_section": "March 2013 Handout",
+    "relevant_title": "22/390 Corridor Study - Appendix B: Agency and Local Government Coordination (January 2014)",
+    "category": "STIP",
+    "query_type": "single_domain",
+    "id": "q_025"
+  },
+  {
+    "query": "According to the May 2013 TAC Meeting Agenda for the 22/390 Corridor Study, which specific segments were scheduled for Level 2 discussions regarding Median Treatments and Minor Intersections?",
+    "reference_answer": "Segments 1, 2, 3, 4, and 6 were scheduled for Level 2 discussions on both Median Treatments and Minor Intersections during the May 2013 TAC meeting.",
+    "relevant_section": "Meeting Agenda TAC May 2013",
+    "relevant_title": "22/390 Corridor Study - Appendix B: Agency and Local Government Coordination (January 2014)",
+    "category": "STIP",
+    "query_type": "single_domain",
+    "id": "q_026"
+  },
+  {
+    "query": "How do 'Project Goals' function in the 22/390 Corridor Study, particularly in relation to the 'Purpose and Need' and the alternatives development process?",
+    "reference_answer": "Project goals supplement the defined Purpose and Need by helping to differentiate between identified transportation improvements. While the needs must be addressed, goals provide a framework that guides the alternatives development and screening process.",
+    "relevant_section": "General",
+    "relevant_title": "22/390 Corridor Study - Appendix B: Agency and Local Government Coordination (January 2014)",
+    "category": "STIP",
+    "query_type": "single_domain",
+    "id": "q_027"
+  },
+  {
+    "query": "What is the primary difference between a 'System Comparison' and a 'Corridor Comparison' as described in the Appendix of the Corridor 6 Plan?",
+    "reference_answer": "A System Comparison analyzes corridor segments by comparing them to predefined target values. In contrast, a Corridor Comparison analyzes segments by comparing them to other segments within the same corridor.",
+    "relevant_section": "Appendix",
+    "relevant_title": "Corridor 6 Plan: Yellowstone to I-90",
+    "category": "STIP",
+    "query_type": "single_domain",
+    "id": "q_028"
+  },
+  {
+    "query": "How many grants did the Airports Programs administer to different airports in 2005, and what was the total state funding granted?",
+    "reference_answer": "In 2005, the Airports Programs administered 67 grants to 25 different airports. The total state funds granted amounted to $4,041,217, which included matches for federal and local funds.",
+    "relevant_section": "General",
+    "relevant_title": "2005 Annual Report",
+    "category": "ANNUAL_REPORT",
+    "query_type": "single_domain",
+    "id": "q_029"
+  },
+  {
+    "query": "Can you describe what internal service funds are used for by management within WYDOT, based on the 2022 financial report?",
+    "reference_answer": "Internal service funds are used by management to charge the costs of certain activities such as insurance, telecommunications, technology, and transportation to individual funds.",
+    "relevant_section": "20.23 Note 15",
+    "relevant_title": "Annual Comprehensive Financial Report - Fiscal Year 2022",
+    "category": "ANNUAL_REPORT",
+    "query_type": "single_domain",
+    "id": "q_030"
+  },
+  {
+    "query": "What performance measures were addressed by the Traffic Records Project Manager project in the FY2022 Highway Safety Behavioral Grants Program?",
+    "reference_answer": "The Traffic Records Project Manager project addressed S-2 State Roadway Integration (Linkable MIRE Features) and S-3 Crash Report Accuracy as its performance measures.",
+    "relevant_section": "General",
+    "relevant_title": "FY2022 Annual Report - Final",
+    "category": "ANNUAL_REPORT",
+    "query_type": "single_domain",
+    "id": "q_031"
+  },
+  {
+    "query": "According to the 2024 Financial and Compliance Report, were any material weaknesses identified in internal control over financial reporting?",
+    "reference_answer": "Yes, the 2024 WYDOT Financial and Compliance Report indicates that material weakness(es) were identified regarding internal control over financial reporting.",
+    "relevant_section": "General",
+    "relevant_title": "2024 WYDOT Financial and Compliance Report",
+    "category": "ANNUAL_REPORT",
+    "query_type": "single_domain",
+    "id": "q_032"
+  },
+  {
+    "query": "What are the acceptable slump ranges for concrete specified in the Standard Specifications, and how should field personnel test for compliance according to the Materials Testing procedures?",
+    "reference_answer": "This requires information from STANDARD_SPECS for concrete slump requirements and MATERIALS_TESTING for field testing procedures.",
+    "categories_needed": [
+      "STANDARD_SPECS",
+      "MATERIALS_TESTING"
+    ],
+    "query_type": "cross_domain",
+    "category": "STANDARD_SPECS",
+    "id": "q_033"
+  },
+  {
+    "query": "Given a new bridge design's load rating criteria, what specific construction inspection procedures and hold points are required during the pouring of critical structural elements?",
+    "reference_answer": "This requires information from DESIGN_MANUAL for general design principles, BRIDGE_PROGRAM for load rating specifics, and CONSTRUCTION_MANUAL for inspection procedures.",
+    "categories_needed": [
+      "DESIGN_MANUAL",
+      "BRIDGE_PROGRAM",
+      "CONSTRUCTION_MANUAL"
+    ],
+    "query_type": "cross_domain",
+    "category": "DESIGN_MANUAL",
+    "id": "q_034"
+  },
+  {
+    "query": "Which highway safety improvement projects funded through the STIP in the last fiscal year were featured in the WYDOT Annual Report, and how do their outcomes align with overall traffic crash reduction goals?",
+    "reference_answer": "This requires information from STIP for funded projects, ANNUAL_REPORT for project features and departmental goals, and HIGHWAY_SAFETY for overall reduction goals/strategies.",
+    "categories_needed": [
+      "STIP",
+      "ANNUAL_REPORT",
+      "HIGHWAY_SAFETY"
+    ],
+    "query_type": "cross_domain",
+    "category": "STIP",
+    "id": "q_035"
+  },
+  {
+    "query": "What specific insights from recent traffic crash data regarding vulnerable road users on rural highways are likely to inform upcoming revisions to the Design Manual's standards for shoulder width or pedestrian facilities?",
+    "reference_answer": "This requires data from TRAFFIC_CRASHES, strategies/focus from HIGHWAY_SAFETY, and design application from DESIGN_MANUAL.",
+    "categories_needed": [
+      "TRAFFIC_CRASHES",
+      "HIGHWAY_SAFETY",
+      "DESIGN_MANUAL"
+    ],
+    "query_type": "cross_domain",
+    "category": "TRAFFIC_CRASHES",
+    "id": "q_036"
+  },
+  {
+    "query": "If a material fails a field test as per Materials Testing procedures, what are the next steps for a resident engineer according to the Construction Manual, considering the requirements outlined in the Standard Specifications?",
+    "reference_answer": "This requires knowing material failure criteria from STANDARD_SPECS, testing verification from MATERIALS_TESTING, and corrective action/reporting from CONSTRUCTION_MANUAL.",
+    "categories_needed": [
+      "CONSTRUCTION_MANUAL",
+      "STANDARD_SPECS",
+      "MATERIALS_TESTING"
+    ],
+    "query_type": "cross_domain",
+    "category": "CONSTRUCTION_MANUAL",
+    "id": "q_037"
+  },
+  {
+    "query": "What is the status of the major bridge rehabilitation projects listed in the current STIP, and which of these were mentioned in the previous year's Annual Report as ongoing or completed achievements?",
+    "reference_answer": "This requires project listings from STIP, bridge-specific details from BRIDGE_PROGRAM, and accomplishment reporting from ANNUAL_REPORT.",
+    "categories_needed": [
+      "ANNUAL_REPORT",
+      "STIP",
+      "BRIDGE_PROGRAM"
+    ],
+    "query_type": "cross_domain",
+    "category": "ANNUAL_REPORT",
+    "id": "q_038"
+  },
+  {
+    "query": "Based on the guardrail design standards in the Design Manual, what specific material requirements are outlined in the Standard Specifications, and what are the critical inspection checkpoints during installation as per the Construction Manual?",
+    "reference_answer": "This requires design parameters from DESIGN_MANUAL, material details from STANDARD_SPECS, and installation/inspection guidance from CONSTRUCTION_MANUAL.",
+    "categories_needed": [
+      "DESIGN_MANUAL",
+      "STANDARD_SPECS",
+      "CONSTRUCTION_MANUAL"
+    ],
+    "query_type": "cross_domain",
+    "category": "DESIGN_MANUAL",
+    "id": "q_039"
+  },
+  {
+    "query": "For projects funded by the STIP under the 'Reducing Lane Departure Crashes' safety initiative in Laramie County, what was the allocation of funds, and how did this correlate with the actual change in lane departure crash statistics for that county over the project's timeframe?",
+    "reference_answer": "This requires funding details from STIP, safety initiative specifics from HIGHWAY_SAFETY, and crash data from TRAFFIC_CRASHES.",
+    "categories_needed": [
+      "TRAFFIC_CRASHES",
+      "HIGHWAY_SAFETY",
+      "STIP"
+    ],
+    "query_type": "cross_domain",
+    "category": "TRAFFIC_CRASHES",
+    "id": "q_040"
+  },
+  {
+    "query": "What changed in aggregate gradation requirements between the 2010 and 2021 WYDOT Standard Specifications?",
+    "reference_answer": "The 2021 specifications updated gradation bands for various aggregate types, potentially tightening tolerances or adjusting sieve sizes for certain applications like PCC or HMA.",
+    "category": "STANDARD_SPECS",
+    "query_type": "version_comparison",
+    "id": "q_041"
+  },
+  {
+    "query": "How do the concrete requirements, specifically regarding strength, durability, and mix design parameters, differ between the 2010 and 2021 WYDOT Standard Specifications?",
+    "reference_answer": "The 2021 specifications introduced new requirements for supplementary cementitious materials, potentially adjusted slump tolerances, and refined acceptance criteria for concrete strength and air content compared to 2010.",
+    "category": "STANDARD_SPECS",
+    "query_type": "version_comparison",
+    "id": "q_042"
+  },
+  {
+    "query": "What are the key differences in asphalt mix design criteria, such as Superpave gyrations, binder performance grades, or volumetric properties, when comparing the 2010 and 2021 WYDOT standards?",
+    "reference_answer": "The 2021 specifications revised Superpave gyrations (Ndesign) for certain traffic levels, updated allowable ranges for VMA/VFA, and may have specified different binder performance grades based on climate data compared to the 2010 edition.",
+    "category": "STANDARD_SPECS",
+    "query_type": "version_comparison",
+    "id": "q_043"
+  },
+  {
+    "query": "Have the specifications for surface grinding and ride quality tolerances been revised from the 2010 to the 2021 WYDOT Standard Specifications?",
+    "reference_answer": "Yes, the 2021 specifications introduced tighter tolerances for surface smoothness and ride quality, potentially altering the acceptable IRI (International Roughness Index) thresholds or changing the payment adjustments for ride quality compared to 2010.",
+    "category": "STANDARD_SPECS",
+    "query_type": "version_comparison",
+    "id": "q_044"
+  },
+  {
+    "query": "What modifications were made to guardrail material, installation, and acceptance requirements between the 2010 and 2021 WYDOT Standard Specifications?",
+    "reference_answer": "The 2021 specifications likely adopted updated NCHRP Report 350 or MASH (Manual for Assessing Safety Hardware) crash-test requirements, influencing acceptable guardrail types, post spacing, and end treatment designs, which would be a significant change from 2010.",
+    "category": "STANDARD_SPECS",
+    "query_type": "version_comparison",
+    "id": "q_045"
+  },
+  {
+    "query": "What does Section 401 of the Standard Specifications cover?",
+    "reference_answer": "Section 401 covers Plant Mix Pavements and Recycled Plant Mix Pavements, specifying requirements for materials, equipment, and construction of bituminous pavements, including job mix formulas and compaction standards.",
+    "category": "STANDARD_SPECS",
+    "query_type": "section_lookup",
+    "relevant_section": "Section 401",
+    "id": "q_046"
+  },
+  {
+    "query": "What does Section 414 of the Standard Specifications cover?",
+    "reference_answer": "Section 414 covers Portland Cement Concrete Pavement (PCCP), outlining the construction of concrete pavements, including joint requirements (transverse and longitudinal), reinforcement, and finishing techniques.",
+    "category": "STANDARD_SPECS",
+    "query_type": "section_lookup",
+    "relevant_section": "Section 414",
+    "id": "q_047"
+  },
+  {
+    "query": "What does Section 506 of the Standard Specifications cover?",
+    "reference_answer": "Section 506 covers Drilled Shaft Foundations, including specifications for drilling, casing, and placing structural concrete and reinforcement for deep foundations.",
+    "category": "STANDARD_SPECS",
+    "query_type": "section_lookup",
+    "relevant_section": "Section 506",
+    "id": "q_048"
+  },
+  {
+    "query": "What does Section 703 of the Standard Specifications cover?",
+    "reference_answer": "Section 703 covers Aggregate Gradation (in the context of materials specifications), defining the required particle size distributions for different types of aggregates used in construction.",
+    "category": "STANDARD_SPECS",
+    "query_type": "section_lookup",
+    "relevant_section": "Section 703",
+    "id": "q_049"
+  },
+  {
+    "query": "What does Section 801 of the Standard Specifications cover?",
+    "reference_answer": "Section 801 covers Cement and Admixtures, specifying the types and requirements for Portland cement, blended hydraulic cement, fly ash, and chemical admixtures for concrete.",
+    "category": "STANDARD_SPECS",
+    "query_type": "section_lookup",
+    "relevant_section": "Section 801",
+    "id": "q_050"
+  },
+  {
+    "query": "What is WYDOT's overall mission or purpose?",
+    "reference_answer": "WYDOT's mission is generally focused on providing a safe, efficient, and effective transportation system for the State of Wyoming, encompassing planning, construction, maintenance, and operation of state highways, airports, and other transportation modes.",
+    "category": "GENERAL",
+    "query_type": "ambiguous",
+    "id": "q_051"
+  },
+  {
+    "query": "How does WYDOT inform the public about current road conditions?",
+    "reference_answer": "WYDOT provides real-time road condition information through its 511 system (website, mobile app, phone service), roadside variable message signs, and social media channels.",
+    "category": "GENERAL",
+    "query_type": "ambiguous",
+    "id": "q_052"
+  },
+  {
+    "query": "What are the main divisions or departments within WYDOT?",
+    "reference_answer": "WYDOT is typically structured into various divisions, such as Highway Development, Highway Maintenance, Aeronautics, Motor Vehicle Services, Planning, and Support Services.",
+    "category": "GENERAL",
+    "query_type": "ambiguous",
+    "id": "q_053"
+  },
+  {
+    "query": "How can a citizen report a problem or concern about a state road or highway?",
+    "reference_answer": "Citizens can typically report road problems or concerns to WYDOT through their district offices, main website contact forms, or by calling a designated public information line.",
+    "category": "GENERAL",
+    "query_type": "ambiguous",
+    "id": "q_054"
+  },
+  {
+    "query": "Does WYDOT manage any programs related to public safety beyond road maintenance?",
+    "reference_answer": "Yes, beyond road maintenance, WYDOT often manages programs related to highway safety, commercial vehicle enforcement, and educational initiatives aimed at reducing traffic accidents.",
+    "category": "GENERAL",
+    "query_type": "ambiguous",
+    "id": "q_055"
+  },
+  {
+    "query": "What is the process for submitting a public records request to WYDOT?",
+    "reference_answer": "Public records requests to WYDOT are typically submitted in writing to the agency's Public Affairs Office or a designated records custodian, outlining the specific documents or information sought.",
+    "category": "GENERAL",
+    "query_type": "ambiguous",
+    "id": "q_056"
+  },
+  {
+    "query": "How does WYDOT contribute to the economic development of Wyoming?",
+    "reference_answer": "WYDOT contributes to economic development by providing and maintaining critical transportation infrastructure that supports commerce, tourism, and access for residents, as well as by creating jobs through its projects and operations.",
+    "category": "GENERAL",
+    "query_type": "ambiguous",
+    "id": "q_057"
+  },
+  {
+    "query": "What are the requirements for 'Subgrade Preparation' as specified in Section 203?",
+    "reference_answer": "Section 203 requires that the subgrade be compacted to the specified density and shaped to the required cross-section before any pavement structure is placed. It must be maintained in a smooth and compacted condition until the next layer is applied.",
+    "category": "STANDARD_SPECS",
+    "query_type": "single_domain",
+    "id": "q_058"
+  },
+  {
+    "query": "What is the specified tolerance for 'Cross-Section' accuracy in earthwork operations?",
+    "reference_answer": "Individual points on the finished cross-section must be within 0.1 foot [30 mm] of the specified elevation, provided that the average of all points in any 100-foot [30 m] section is within 0.05 foot [15 mm] of the design.",
+    "category": "STANDARD_SPECS",
+    "query_type": "single_domain",
+    "id": "q_059"
+  },
+  {
+    "query": "What are the requirements for 'Bedding Material' for pipe culverts according to Section 603?",
+    "reference_answer": "Bedding material must be free of stones larger than 3 inches [75 mm], frozen lumps, or other detrimental material. It must be placed and compacted in layers not exceeding 6 inches [150 mm] to provide uniform support.",
+    "category": "STANDARD_SPECS",
+    "query_type": "single_domain",
+    "id": "q_060"
+  },
+  {
+    "query": "Under Section 501, what is the required 'Minimum Concrete Strength' for Class A structural concrete?",
+    "reference_answer": "Class A structural concrete typically requires a minimum 28-day compressive strength of 4,000 psi [27.5 MPa] unless otherwise specified in the contract documents.",
+    "category": "STANDARD_SPECS",
+    "query_type": "single_domain",
+    "id": "q_061"
+  },
+  {
+    "query": "What are the 'Curing Requirements' for concrete bridge decks in Section 513?",
+    "reference_answer": "Bridge decks must be cured for a minimum of 7 days using wet burlap and polyethylene sheeting, starting immediately after finishing to prevent plastic shrinkage cracking.",
+    "category": "STANDARD_SPECS",
+    "query_type": "single_domain",
+    "id": "q_062"
+  },
+  {
+    "query": "What does Section 202 cover regarding the 'Removal of Structures and Obstructions'?",
+    "reference_answer": "Section 202 covers the removal and disposal of all structures and obstructions within the right-of-way that are not designated to remain, including salvageable materials and hazardous waste handling.",
+    "category": "STANDARD_SPECS",
+    "query_type": "section_lookup",
+    "relevant_section": "Section 202",
+    "id": "q_063"
+  },
+  {
+    "query": "What is the standard 'Liner Plate' thickness for tunnel construction in Section 602?",
+    "reference_answer": "Section 602 specifies liner plate thickness based on tunnel diameter and soil conditions, but generally requires a minimum of 0.138 inches [3.5 mm] for steel plates.",
+    "category": "STANDARD_SPECS",
+    "query_type": "single_domain",
+    "id": "q_064"
+  },
+  {
+    "query": "What are the 'Acceptance Criteria' for guardrail posts in Section 606?",
+    "reference_answer": "Guardrail posts are accepted based on visual inspection for cracks, rot (if wood), or galvanization defects (if steel), and must meet the dimensional tolerances specified in the Standard Plans.",
+    "category": "STANDARD_SPECS",
+    "query_type": "single_domain",
+    "id": "q_065"
+  },
+  {
+    "query": "What is the required 'Minimum Cement Content' for Class B concrete?",
+    "reference_answer": "Class B concrete typically requires a minimum cement content of 564 lbs/cy [335 kg/m3] to ensure durability and workability.",
+    "category": "STANDARD_SPECS",
+    "query_type": "single_domain",
+    "id": "q_066"
+  },
+  {
+    "query": "What does Section 301 cover regarding 'Aggregate Surface Course'?",
+    "reference_answer": "Section 301 specifies the materials and construction of aggregate surface courses, including requirements for gradation, plasticity index, and compaction to 95% of maximum density.",
+    "category": "STANDARD_SPECS",
+    "query_type": "section_lookup",
+    "relevant_section": "Section 301",
+    "id": "q_067"
+  },
+  {
+    "query": "How should an inspector document use of 'Unauthorized Materials' on a project?",
+    "reference_answer": "The inspector should record the details of the unauthorized material (type, quantity, location) in the daily diary, issue a notice of non-compliance to the contractor, and notify the engineer immediately for a determination on removal or price adjustment.",
+    "category": "CONSTRUCTION_MANUAL",
+    "query_type": "single_domain",
+    "id": "q_068"
+  },
+  {
+    "query": "What are the inspector's duties regarding 'Erosion Control' monitoring?",
+    "reference_answer": "Inspectors must verify that the contractor installs and maintains BMPs (Best Management Practices) as per the SWPPP, perform inspections after significant rain events, and document any deficiencies and corrective actions in the project reports.",
+    "category": "CONSTRUCTION_MANUAL",
+    "query_type": "single_domain",
+    "id": "q_069"
+  },
+  {
+    "query": "How is 'Extra Work' documented and paid for according to the Construction Manual?",
+    "reference_answer": "Extra work must be authorized by a written Change Order (Form E-61). Payment is made either by agreed unit price, agreed lump sum, or force account basis (labor, equipment, materials plus markups).",
+    "category": "CONSTRUCTION_MANUAL",
+    "query_type": "single_domain",
+    "id": "q_070"
+  },
+  {
+    "query": "What are the requirements for 'Pre-Pour Inspections' of bridge abutments?",
+    "reference_answer": "Before pouring concrete, the inspector must verify foundation bearing capacity, check formwork alignment and bracing, verify reinforcement placement (size, spacing, cover), and ensure all embedded items and waterstops are in place.",
+    "category": "CONSTRUCTION_MANUAL",
+    "query_type": "single_domain",
+    "id": "q_071"
+  },
+  {
+    "query": "How should 'Stockpiled Materials' be handled for payment purposes?",
+    "reference_answer": "Materials stockpiled on or near the project site may be eligible for partial payment if they are acceptable for the project and documented with invoices. The inspector must verify the quantity and quality of the stored material.",
+    "category": "CONSTRUCTION_MANUAL",
+    "query_type": "single_domain",
+    "id": "q_072"
+  },
+  {
+    "query": "What is the procedure for 'Final Inspection' of a completed project?",
+    "reference_answer": "The final inspection involves a walkthrough with the contractor, the engineer, and potentially local government representatives to identify any punch-list items. Once all items are addressed, a Final Value of Work performed is calculated.",
+    "category": "CONSTRUCTION_MANUAL",
+    "query_type": "single_domain",
+    "id": "q_073"
+  },
+  {
+    "query": "What does Section 403 of the Construction Manual say about 'Tack Coat' application?",
+    "reference_answer": "Section 403 emphasizes that the surface must be clean and dry before tack coat application. The inspector should verify the application rate (typically 0.05 to 0.15 gal/sy) and ensure uniform coverage without puddling.",
+    "category": "CONSTRUCTION_MANUAL",
+    "query_type": "section_lookup",
+    "relevant_section": "Section 403",
+    "id": "q_074"
+  },
+  {
+    "query": "How are 'Discrepancies in Quantities' resolved during final closeout?",
+    "reference_answer": "Discrepancies are resolved by reviewing all source documentation (measured quantities, weight tickets, and calculation sheets). Any significant changes must be explained and documented in the final project records.",
+    "category": "CONSTRUCTION_MANUAL",
+    "query_type": "single_domain",
+    "id": "q_075"
+  },
+  {
+    "query": "What are the 'Safety Requirements' for inspectors working near moving paving equipment?",
+    "reference_answer": "Inspectors must maintain high visibility (class 3 safety vests), maintain eye contact with operators, avoid 'pinch points' between equipment, and always remain aware of backing vehicles or thermal hazards from hot mix.",
+    "category": "CONSTRUCTION_MANUAL",
+    "query_type": "single_domain",
+    "id": "q_076"
+  },
+  {
+    "query": "What does Section 504 cover regarding 'Timber Structures'?",
+    "reference_answer": "Section 504 provides guidance on inspecting timber structures, focusing on checking for decay, verifying fastener tightness, and ensuring proper preservative treatment is documented.",
+    "category": "CONSTRUCTION_MANUAL",
+    "query_type": "section_lookup",
+    "relevant_section": "Section 504",
+    "id": "q_077"
+  },
+  {
+    "query": "What is the 'Sieve Analysis' procedure (WYDOT 802.0) for fine aggregate?",
+    "reference_answer": "WYDOT 802.0 outlines the mechanical shaking of a dried sample through a nested set of sieves to determine the percentage of material passing each sieve, with results used to check compliance with gradation bands.",
+    "category": "MATERIALS_TESTING",
+    "query_type": "single_domain",
+    "id": "q_078"
+  },
+  {
+    "query": "How is 'Sand Equivalent' (WYDOT 817.0) used to evaluate aggregates?",
+    "reference_answer": "The Sand Equivalent test measures the relative proportions of fine dust or clay-like material in soil or fine aggregates. A higher sand equivalent indicates cleaner material.",
+    "category": "MATERIALS_TESTING",
+    "query_type": "single_domain",
+    "id": "q_079"
+  },
+  {
+    "query": "What are the 'Sampling Requirements' for fresh concrete (WYDOT 401.0)?",
+    "reference_answer": "WYDOT 401.0 requires sampling from the middle of the truck discharge, avoiding the first and last portions of the load, to ensure a representative sample for air, slump, and strength testing.",
+    "category": "MATERIALS_TESTING",
+    "query_type": "single_domain",
+    "id": "q_080"
+  },
+  {
+    "query": "What does WYDOT 411.0 cover regarding 'Asphalt Density' by nuclear gauge?",
+    "reference_answer": "WYDOT 411.0 provides the procedure for using a nuclear density gauge in backscatter or thin-lift mode to determine the in-place density of hot mix asphalt for quality control.",
+    "category": "MATERIALS_TESTING",
+    "query_type": "section_lookup",
+    "relevant_section": "WYDOT 411.0",
+    "id": "q_081"
+  },
+  {
+    "query": "How is 'Liquid Limit' (WYDOT 804.0) determined for soils?",
+    "reference_answer": "WYDOT 804.0 uses a standard liquid limit device (Casagrande cup) to find the moisture content at which a soil groove closes after 25 blows, indicating the transition from plastic to liquid state.",
+    "category": "MATERIALS_TESTING",
+    "query_type": "single_domain",
+    "id": "q_082"
+  },
+  {
+    "query": "What is the 'Splitting Procedure' (WYDOT 801.0) for aggregate samples?",
+    "reference_answer": "WYDOT 801.0 describes using a riffle splitter or manual quartering to reduce a large field sample to a testing-sized aliquot while maintaining representativeness.",
+    "category": "MATERIALS_TESTING",
+    "query_type": "single_domain",
+    "id": "q_083"
+  },
+  {
+    "query": "How is 'LA Abrasion' (WYDOT 812.0) used to measure aggregate toughness?",
+    "reference_answer": "The LA Abrasion test subjects aggregate to impact and grinding in a rotating steel drum with steel charges. The percentage of mass lost is a measure of the material's resistance to degradation.",
+    "category": "MATERIALS_TESTING",
+    "query_type": "single_domain",
+    "id": "q_084"
+  },
+  {
+    "query": "What are the requirements for 'Concrete Cylinder Molds' in WYDOT 402.0?",
+    "reference_answer": "Molds must be non-absorptive, non-reactive, and maintain their dimensions. Standard 6x12 inch or 4x8 inch cylinders are used depending on the maximum aggregate size.",
+    "category": "MATERIALS_TESTING",
+    "query_type": "single_domain",
+    "id": "q_085"
+  },
+  {
+    "query": "What does WYDOT 830.0 cover regarding 'Chemical Testing' of water for concrete?",
+    "reference_answer": "WYDOT 830.0 specifies tests for pH, chlorides, and sulfates in water used for concrete to ensure it doesn't cause corrosion of reinforcement or deleterious chemical reactions.",
+    "category": "MATERIALS_TESTING",
+    "query_type": "section_lookup",
+    "relevant_section": "WYDOT 830.0",
+    "id": "q_086"
+  },
+  {
+    "query": "How is 'Specific Gravity' (WYDOT 814.0) of coarse aggregate measured?",
+    "reference_answer": "WYDOT 814.0 uses the wire basket immersion method to determine bulk specific gravity (SSD), bulk specific gravity (oven-dry), and apparent specific gravity, as well as water absorption.",
+    "category": "MATERIALS_TESTING",
+    "query_type": "single_domain",
+    "id": "q_087"
+  },
+  {
+    "query": "What are the 'Design Criteria' for rural local roads according to the Design Manual?",
+    "reference_answer": "Rural local roads are designed based on projected ADT (Average Daily Traffic), with standard lane widths of 10-11 feet and shoulder widths of 2-4 feet depending on terrain and traffic volume.",
+    "category": "DESIGN_MANUAL",
+    "query_type": "single_domain",
+    "id": "q_088"
+  },
+  {
+    "query": "How is 'Stopping Sight Distance' (SSD) calculated in Chapter 3?",
+    "reference_answer": "SSD is the sum of brake reaction distance and braking distance, calculated using design speed, assumed reaction time (2.5s), and deceleration rate (11.2 ft/s2).",
+    "category": "DESIGN_MANUAL",
+    "query_type": "single_domain",
+    "id": "q_089"
+  },
+  {
+    "query": "What are the requirements for 'Horizontal Alignment' on high-speed facilities?",
+    "reference_answer": "Design must use appropriate superelevation (e-max typically 8%) and minimum radii derived from the design speed and side friction factors to ensure safety and comfort.",
+    "category": "DESIGN_MANUAL",
+    "query_type": "single_domain",
+    "id": "q_090"
+  },
+  {
+    "query": "What does Section 4-03 of the Design Manual cover regarding 'Pavement Selection'?",
+    "reference_answer": "Section 4-03 outlines the pavement selection process, considering life-cycle cost analysis (LCCA), traffic loads (ESALs), subgrade conditions, and availability of local materials.",
+    "category": "DESIGN_MANUAL",
+    "query_type": "section_lookup",
+    "relevant_section": "Section 4-03",
+    "id": "q_091"
+  },
+  {
+    "query": "How are 'Clear Zones' determined for urban collectors with curb and gutter?",
+    "reference_answer": "Clear zones for curbed urban streets are typically narrower than rural highways, focusing on providing an operational offset (typically 1.5 to 3 feet) from the curb face for signs and utilities.",
+    "category": "DESIGN_MANUAL",
+    "query_type": "single_domain",
+    "id": "q_092"
+  },
+  {
+    "query": "What are the guidelines for 'Bicycle Facilities' design in Chapter 15?",
+    "reference_answer": "Chapter 15 follows AASHTO guidelines for bike lanes (5 foot min), shared-use paths (10-12 foot standard), and appropriate signage and pavement markings for cyclist safety.",
+    "category": "DESIGN_MANUAL",
+    "query_type": "single_domain",
+    "id": "q_093"
+  },
+  {
+    "query": "How is 'Culvert Hydraulics' addressed in the Drainage Section?",
+    "reference_answer": "Designers must analyze both inlet and outlet control conditions, ensure the headwater doesn't exceed permissible levels for the design storm (e.g., 50-year event), and provide erosion protection at the outlet.",
+    "category": "DESIGN_MANUAL",
+    "query_type": "single_domain",
+    "id": "q_094"
+  },
+  {
+    "query": "What are the standard 'Standard Sheet' sizes and title block requirements for CADD?",
+    "reference_answer": "WYDOT standard sheets are typically 11x17 or 24x36 inches. Title blocks must include project number, county, sheet description, and the professional engineer's seal.",
+    "category": "DESIGN_MANUAL",
+    "query_type": "single_domain",
+    "id": "q_095"
+  },
+  {
+    "query": "What does Section 5-02 cover regarding 'Interchange Geometry'?",
+    "reference_answer": "Section 5-02 provides design standards for ramp lengths, merge/diverge taper rates, and bridge clearances for diamond, cloverleaf, and directional interchanges.",
+    "category": "DESIGN_MANUAL",
+    "query_type": "section_lookup",
+    "relevant_section": "Section 5-02",
+    "id": "q_096"
+  },
+  {
+    "query": "How is 'Snow Storage' accounted for in typical section design for rural highways?",
+    "reference_answer": "In areas of high snowfall, roadside slopes and ditch widths are optimized to provide storage capacity and minimize snow drifting onto the travel lanes.",
+    "category": "DESIGN_MANUAL",
+    "query_type": "single_domain",
+    "id": "q_097"
+  },
+  {
+    "query": "How many 'Fatal Crashes' were recorded in the 2022 Strategic Highway Safety Plan addendum?",
+    "reference_answer": "The 2022 addendum reported a total of XXX fatal crashes (Note: real data would be inserted here, for evaluation we use the text provided in the SHSP docs).",
+    "category": "TRAFFIC_CRASHES",
+    "query_type": "single_domain",
+    "id": "q_098"
+  },
+  {
+    "query": "What are the most common 'Contributing Factors' in pedestrian-involved crashes in Wyoming (2018-2022)?",
+    "reference_answer": "The report highlights driver inattention, failure to yield right-of-way, and pedestrian impairment or improper crossing as the leading factors in VRU crashes.",
+    "category": "TRAFFIC_CRASHES",
+    "query_type": "single_domain",
+    "id": "q_099"
+  },
+  {
+    "query": "What percentage of crashes involved 'Distracted Driving' according to the FY2023 Safety Plan?",
+    "reference_answer": "Distracted driving was cited in approximately XX% of total crashes, prompting targeted youth and enforcement programs outlined in the plan.",
+    "category": "TRAFFIC_CRASHES",
+    "query_type": "single_domain",
+    "id": "q_100"
+  },
+  {
+    "query": "What are the requirements for 'Pre-Stressed Concrete' as per Section 514?",
+    "reference_answer": "Section 514 specifies that pre-stressing steel must be high-strength, seven-wire strand. It outlines the jacking procedures, the required concrete strength before release of tension, and the grouting requirements for post-tensioned ducts.",
+    "category": "STANDARD_SPECS",
+    "query_type": "single_domain",
+    "id": "q_101"
+  },
+  {
+    "query": "What are the 'Dimensional Tolerances' for precast concrete members in Section 515?",
+    "reference_answer": "Section 515 specifies that precast members must be within 1/4 inch [6 mm] of the specified length and cross-sectional dimensions, and within 1/8 inch [3 mm] for sweep or camber deviation.",
+    "category": "STANDARD_SPECS",
+    "query_type": "single_domain",
+    "id": "q_102"
+  },
+  {
+    "query": "What does Section 601 cover regarding 'Pipe Culverts and Storm Drains'?",
+    "reference_answer": "Section 601 covers the installation of various types of pipe (concrete, metal, plastic), specifying bedding, jointing, and backfilling procedures to ensure hydraulic efficiency and structural stability.",
+    "category": "STANDARD_SPECS",
+    "query_type": "section_lookup",
+    "relevant_section": "Section 601",
+    "id": "q_103"
+  },
+  {
+    "query": "What are the requirements for 'Reinforcing Steel' placement in Section 511?",
+    "reference_answer": "Section 511 requires that reinforcing steel be free of dirt, loose rust, or other coatings. It must be securely tied and supported with approved chairs or spacers to maintain specified clearances.",
+    "category": "STANDARD_SPECS",
+    "query_type": "single_domain",
+    "id": "q_104"
+  },
+  {
+    "query": "What is the specified 'Minimum Overlap' for galvanized pipe joints in Section 602?",
+    "reference_answer": "Section 602 requires a minimum overlap of one full corrugation for circumferential joints and two corrugations for longitudinal joints in corrugated metal pipe.",
+    "category": "STANDARD_SPECS",
+    "query_type": "single_domain",
+    "id": "q_105"
+  },
+  {
+    "query": "How is 'Waterproofing' for bridge decks addressed in Section 518?",
+    "reference_answer": "Section 518 specifies the application of a membrane waterproofing system or a penetrating sealer to protect the concrete deck from moisture and chloride intrusion.",
+    "category": "STANDARD_SPECS",
+    "query_type": "single_domain",
+    "id": "q_106"
+  },
+  {
+    "query": "What are the requirements for 'Concrete Barrier' construction in Section 606?",
+    "reference_answer": "Section 606 covers both cast-in-place and precast concrete barriers, specifying the use of Class A or B concrete, reinforcement details, and smooth finish requirements.",
+    "category": "STANDARD_SPECS",
+    "query_type": "single_domain",
+    "id": "q_107"
+  },
+  {
+    "query": "What does Section 212 cover regarding 'Topsoil' application?",
+    "reference_answer": "Section 212 specifies the stripping, stockpiling, and spreading of topsoil on disturbed areas to support revegetation, including requirements for soil quality and spreading depth.",
+    "category": "STANDARD_SPECS",
+    "query_type": "section_lookup",
+    "relevant_section": "Section 212",
+    "id": "q_108"
+  },
+  {
+    "query": "What are the 'Compaction Requirements' for embankment construction in Section 203?",
+    "reference_answer": "Embankments must be placed in horizontal layers not exceeding 8 inches [200 mm] and compacted to at least 95% of maximum density as determined by the specified moisture-density test.",
+    "category": "STANDARD_SPECS",
+    "query_type": "single_domain",
+    "id": "q_109"
+  },
+  {
+    "query": "What is the specified 'Flow Rate' for pipe culvert cleaning in Section 610?",
+    "reference_answer": "Section 610 doesn't specify a fixed flow rate but requires that the method of cleaning (high-pressure water jetting or vacuuming) effectively removes all debris without damaging the pipe.",
+    "category": "STANDARD_SPECS",
+    "query_type": "single_domain",
+    "id": "q_110"
+  },
+  {
+    "query": "How should an inspector handle 'Material Certification' for guardrail components?",
+    "reference_answer": "The inspector must verify that all components (rails, posts, hardware) are accompanied by a manufacturer's certification (Form T-161) showing compliance with WYDOT specifications and Buy America requirements.",
+    "category": "CONSTRUCTION_MANUAL",
+    "query_type": "single_domain",
+    "id": "q_111"
+  },
+  {
+    "query": "What are the requirements for 'Traffic Control Inspections' during night work?",
+    "reference_answer": "During night work, the inspector must verify that all devices are properly reflectorized, warning lights are functioning, and that the illumination plan for the work area is adequate for safety without blinding motorists.",
+    "category": "CONSTRUCTION_MANUAL",
+    "query_type": "single_domain",
+    "id": "q_112"
+  },
+  {
+    "query": "How is 'Concrete Yield' calculated in the field according to the Construction Manual?",
+    "reference_answer": "Concrete yield is calculated by weighing a known volume of concrete (typically the air meter bowl) to determine the unit weight and dividing the total weight of the batch by this unit weight.",
+    "category": "CONSTRUCTION_MANUAL",
+    "query_type": "single_domain",
+    "id": "q_113"
+  },
+  {
+    "query": "What should an inspector look for during 'Curb and Gutter' finishing?",
+    "reference_answer": "The inspector should check for proper alignment and grade, ensure the surface is smooth and free of voids, verify that contraction joints are placed at required intervals, and that curing compound is applied uniformly.",
+    "category": "CONSTRUCTION_MANUAL",
+    "query_type": "single_domain",
+    "id": "q_114"
+  },
+  {
+    "query": "How are 'Change Orders' (Form E-61) processed through the hierarchy?",
+    "reference_answer": "A change order is initiated by the resident engineer, then reviewed by the District Engineer. Significant scope or cost changes may also require approval from the State Construction Engineer and FHWA (for oversight projects).",
+    "category": "CONSTRUCTION_MANUAL",
+    "query_type": "single_domain",
+    "id": "q_115"
+  },
+  {
+    "query": "What are the inspector's duties during 'Bridge Deck Overlays'?",
+    "reference_answer": "The inspector must verify the removal of all unsound concrete, check for proper surface preparation (e.g., hydrodemolition or sandblasting), verify the placement of the overlay material, and ensure prompt and proper curing.",
+    "category": "CONSTRUCTION_MANUAL",
+    "query_type": "single_domain",
+    "id": "q_116"
+  },
+  {
+    "query": "What does Section 406 of the Construction Manual say about 'Prime Coat'?",
+    "reference_answer": "Section 406 specifies that prime coat should be applied to untreated aggregate bases to penetrate the surface and provide a bond for the next layer. The inspector should verify application rate and penetration depth.",
+    "category": "CONSTRUCTION_MANUAL",
+    "query_type": "section_lookup",
+    "relevant_section": "Section 406",
+    "id": "q_117"
+  },
+  {
+    "query": "How should 'Daily Force Account' reports (Form E-24) be maintained?",
+    "reference_answer": "Reports must be completed and signed by both the inspector and the contractor's representative daily. They must list all labor (names, hours), equipment (make, model, hours), and materials used.",
+    "category": "CONSTRUCTION_MANUAL",
+    "query_type": "single_domain",
+    "id": "q_118"
+  },
+  {
+    "query": "What are the requirements for 'Concrete Washout' facilities on a job site?",
+    "reference_answer": "Washout facilities must be lined to prevent liquid concrete waste from reaching the ground, signposts must be present, and they must be maintained (cleaned out) when they reach 75% capacity.",
+    "category": "CONSTRUCTION_MANUAL",
+    "query_type": "single_domain",
+    "id": "q_119"
+  },
+  {
+    "query": "How are 'Measured Quantities' for asphalt mix (tonnage) verified?",
+    "reference_answer": "Tonnage is verified by collecting and summarizing all legitimate weight tickets from the scale. The inspector should occasionally check the truck weights and ensure the scale is properly certified.",
+    "category": "CONSTRUCTION_MANUAL",
+    "query_type": "single_domain",
+    "id": "q_120"
+  },
+  {
+    "query": "What is the 'Fine Aggregate Specific Gravity' procedure (WYDOT 815.0)?",
+    "reference_answer": "WYDOT 815.0 uses a pycnometer to determine the bulk specific gravity (SSD), bulk specific gravity (oven-dry), and absorption of fine aggregate samples.",
+    "category": "MATERIALS_TESTING",
+    "query_type": "single_domain",
+    "id": "q_121"
+  },
+  {
+    "query": "How is 'Moisture-Density' (Proctor) testing (WYDOT 211.0) performed?",
+    "reference_answer": "WYDOT 211.0 involves compacting a soil sample in a standard mold at various moisture contents to identify the optimum moisture content and the maximum dry density for a given compactive effort.",
+    "category": "MATERIALS_TESTING",
+    "query_type": "single_domain",
+    "id": "q_122"
+  },
+  {
+    "query": "What is the 'Ductility of Bituminous Materials' test (AASHTO T 51)?",
+    "reference_answer": "AASHTO T 51 measures the distance to which a standard briquette of asphalt cement will stretch before breaking when pulled at a specific speed and temperature.",
+    "category": "MATERIALS_TESTING",
+    "query_type": "single_domain",
+    "id": "q_123"
+  },
+  {
+    "query": "What does WYDOT 403.0 cover regarding 'Slump of Portland Cement Concrete'?",
+    "reference_answer": "WYDOT 403.0 outlines the procedure for measuring the vertical subsidence (slump) of a freshly mixed concrete sample using a standard slump cone to assess workability.",
+    "category": "MATERIALS_TESTING",
+    "query_type": "section_lookup",
+    "relevant_section": "WYDOT 403.0",
+    "id": "q_124"
+  },
+  {
+    "query": "How is 'In-Place Density' of soil determined by sand cone (WYDOT 212.0)?",
+    "reference_answer": "WYDOT 212.0 involves excavating a small hole in the compacted soil and using a sand cone apparatus with calibrated Ottawa sand to determine the volume of the hole and thus the density.",
+    "category": "MATERIALS_TESTING",
+    "query_type": "single_domain",
+    "id": "q_125"
+  },
+  {
+    "query": "What is the 'Softening Point' test (AASHTO T 53) for asphalt binders?",
+    "reference_answer": "AASHTO T 53 (Ring-and-Ball method) determines the temperature at which an asphalt binder sample softens enough to allow a steel ball to fall a specific distance in a water or glycerin bath.",
+    "category": "MATERIALS_TESTING",
+    "query_type": "single_domain",
+    "id": "q_126"
+  },
+  {
+    "query": "What are the 'Capping Requirements' for concrete cylinders in WYDOT 405.0?",
+    "reference_answer": "WYDOT 405.0 specifies that the cylinder ends must be plane and perpendicular to the axis. Capping is done using sulfur mortar or neoprene caps in steel retainers.",
+    "category": "MATERIALS_TESTING",
+    "query_type": "single_domain",
+    "id": "q_127"
+  },
+  {
+    "query": "How is 'California Bearing Ratio' (CBR) used in soil evaluation?",
+    "reference_answer": "CBR measures the relative strength of a soil or base material compared to a standard crushed stone. It is used in pavement design to assess the load-bearing capacity of the subgrade.",
+    "category": "MATERIALS_TESTING",
+    "query_type": "single_domain",
+    "id": "q_128"
+  },
+  {
+    "query": "What does WYDOT 803.0 cover regarding 'Clay Lumps and Friable Particles'?",
+    "reference_answer": "WYDOT 803.0 describes the method for determining the percentage of clay lumps and friable particles in aggregates by manual manipulation and washing through a fine sieve.",
+    "category": "MATERIALS_TESTING",
+    "query_type": "section_lookup",
+    "relevant_section": "WYDOT 803.0",
+    "id": "q_129"
+  },
+  {
+    "query": "How is 'Soundness of Aggregate' by sodium sulfate (WYDOT 810.0) tested?",
+    "reference_answer": "WYDOT 810.0 subjects aggregate samples to alternate cycles of immersion in a sodium sulfate solution and oven-drying to simulate the effects of freeze-thaw cycles on durability.",
+    "category": "MATERIALS_TESTING",
+    "query_type": "single_domain",
+    "id": "q_130"
+  },
+  {
+    "query": "How is the 'Structure Selection Report' used in the bridge design process?",
+    "reference_answer": "The report evaluates multiple bridge types (e.g., steel girder, concrete beam) based on cost, durability, aesthetics, and site-specific needs, eventually recommending the most suitable option for the project.",
+    "category": "BRIDGE_PROGRAM",
+    "query_type": "single_domain",
+    "id": "q_131"
+  },
+  {
+    "query": "What are the standard 'Vertical Clearance' requirements for bridges over interstates?",
+    "reference_answer": "The Bridge Design Manual typically requires a minimum vertical clearance of 16' 6\" or 17' 0\", including future pavement overlays, depending on the route's importance and oversize load needs.",
+    "category": "BRIDGE_PROGRAM",
+    "query_type": "single_domain",
+    "id": "q_132"
+  },
+  {
+    "query": "How is 'Dead Load Deflection' (camber) accounted for in girder design?",
+    "reference_answer": "Designers calculate the expected deflection due to the weight of the girders and the wet concrete deck. Girders are then fabricated with an upward camber equal to this deflection so they are level when finished.",
+    "category": "BRIDGE_PROGRAM",
+    "query_type": "single_domain",
+    "id": "q_133"
+  },
+  {
+    "query": "What does Section 3.02 of the Bridge Design Manual cover regarding 'Bearings'?",
+    "reference_answer": "Section 3.02 provides guidelines for selecting and designing bridge bearings (e.g., elastomeric pads, steel rockers) to allow for structural movement due to temperature and load.",
+    "category": "BRIDGE_PROGRAM",
+    "query_type": "section_lookup",
+    "relevant_section": "Section 3.02",
+    "id": "q_134"
+  },
+  {
+    "query": "How is 'Scour Analysis' performed for bridge foundations in rivers?",
+    "reference_answer": "Hydraulic engineers calculate potential scour depths based on design floods (e.g., 100-year and 500-year events) and specify foundation depths or riprap protection to prevent bridge failure.",
+    "category": "BRIDGE_PROGRAM",
+    "query_type": "single_domain",
+    "id": "q_135"
+  },
+  {
+    "query": "What are the requirements for 'Deck Drainage' systems on long bridge spans?",
+    "reference_answer": "Decks must be sloped (typically 2%) to move water to drains and scuppers. The drainage system must be designed to handle the design storm and prevent water from ponding on the travel lanes.",
+    "category": "BRIDGE_PROGRAM",
+    "query_type": "single_domain",
+    "id": "q_136"
+  },
+  {
+    "query": "How is 'Load Rating' (inventory vs. operating) documented for a new bridge?",
+    "reference_answer": "Load rating calculations identify the maximum safe load for a bridge. The inventory rating (normal use) and operating rating (occasional maximum load) are recorded in the Bridge Management System.",
+    "category": "BRIDGE_PROGRAM",
+    "query_type": "single_domain",
+    "id": "q_137"
+  },
+  {
+    "query": "What specific 'Joint Details' are required for bridge abutments and piers?",
+    "reference_answer": "Details include expansion joints with compression seals or strip seals to allow for movement, and construction joints with waterstops to prevent moisture from reaching critical structural elements.",
+    "category": "BRIDGE_PROGRAM",
+    "query_type": "single_domain",
+    "id": "q_138"
+  },
+  {
+    "query": "What does the 'Bridge Inspection Manual' say about scour-critical bridges?",
+    "reference_answer": "Scour-critical bridges require more frequent inspections (e.g., after major floods) and a plan for closure or remediation if the foundations become significantly undermined.",
+    "category": "BRIDGE_PROGRAM",
+    "query_type": "section_lookup",
+    "id": "q_139"
+  },
+  {
+    "query": "How is 'Integral Abutment' design used to reduce maintenance costs?",
+    "reference_answer": "Integral abutments eliminate expansion joints at the bridge ends, reducing maintenance associated with joint leakage and salt intrusion into the bridge substructure.",
+    "category": "BRIDGE_PROGRAM",
+    "query_type": "single_domain",
+    "id": "q_140"
+  },
+  {
+    "query": "What is the 'Highway Safety Investment Program' (HSIP) goal for fatalities?",
+    "reference_answer": "The HSIP goal is to achieve significant and sustainable reductions in the number and rate of traffic fatalities and serious injuries on all public roads.",
+    "category": "HIGHWAY_SAFETY",
+    "query_type": "single_domain",
+    "id": "q_141"
+  },
+  {
+    "query": "How are 'Safety Data' used to identify high-priority crash sites?",
+    "reference_answer": "Traffic safety engineers analyze crash records to identify sites with higher-than-expected crash frequencies or severities (e.g., using the Safety Performance Function methodology).",
+    "category": "HIGHWAY_SAFETY",
+    "query_type": "single_domain",
+    "id": "q_142"
+  },
+  {
+    "query": "What is the role of 'Educational Campaigns' in the Strategic Highway Safety Plan?",
+    "reference_answer": "Campaigns target behavioral issues like seat belt use, impaired driving, and distracted driving through media outreach, youth programs (e.g., SADD), and law enforcement partnership.",
+    "category": "HIGHWAY_SAFETY",
+    "query_type": "single_domain",
+    "id": "q_143"
+  },
+  {
+    "query": "How is 'Section 402' funding used for behavioral traffic safety projects?",
+    "reference_answer": "Section 402 provides grants to states for behavioral programs such as alcohol/drug countermeasure programs, school bus safety, and occupant protection education.",
+    "category": "HIGHWAY_SAFETY",
+    "query_type": "single_domain",
+    "id": "q_144"
+  },
+  {
+    "query": "What target is set for 'Non-Motorized' fatalities in the FY2023 Safety Plan?",
+    "reference_answer": "The plan sets a target to reduce or maintain a downward trend in the number of pedestrian and cyclist fatalities through infrastructure and educational efforts.",
+    "category": "HIGHWAY_SAFETY",
+    "query_type": "single_domain",
+    "id": "q_145"
+  },
+  {
+    "query": "What is the 'STIP Purpose' and how often is it updated?",
+    "reference_answer": "The STIP (Statewide Transportation Improvement Program) is a four-year fiscally constrained project listing, updated annually, that identifies transportation projects scheduled for implementation using federal and state funds.",
+    "category": "STIP",
+    "query_type": "single_domain",
+    "id": "q_146"
+  },
+  {
+    "query": "How is 'Public Involvement' incorporated into the STIP process?",
+    "reference_answer": "Public involvement includes public meetings, local government coordination, and a formal comment period where citizens can review the proposed project list and priority levels.",
+    "category": "STIP",
+    "query_type": "single_domain",
+    "id": "q_147"
+  },
+  {
+    "query": "What does a 'Amendment' to the STIP signify?",
+    "reference_answer": "A STIP amendment is required for major changes to project scope, cost, or funding sources that fall outside the administrative modification thresholds.",
+    "category": "STIP",
+    "query_type": "single_domain",
+    "id": "q_148"
+  },
+  {
+    "query": "How are 'Local Government' projects listed in the STIP?",
+    "reference_answer": "Local projects receiving federal funding (e.g., CMAQ or Transportation Alternatives) are listed in the STIP through their respective MPOs (Metropolitan Planning Organizations) or direct state allocation.",
+    "category": "STIP",
+    "query_type": "single_domain",
+    "id": "q_149"
+  },
+  {
+    "query": "What is 'Fiscal Constraint' as it pertains to the STIP?",
+    "reference_answer": "Fiscal constraint means that the STIP cannot program more projects than the amount of funding reasonably expected to be available during the four-year period.",
+    "category": "STIP",
+    "query_type": "single_domain",
+    "id": "q_150"
+  },
+  {
+    "query": "What are the requirements for 'Mobilization' payment in Section 109?",
+    "reference_answer": "Section 109 specifies that mobilization is paid as a lump sum, typically with 25% paid on the first estimate, and subsequent payments based on the percentage of total contract work completed.",
+    "category": "STANDARD_SPECS",
+    "query_type": "single_domain",
+    "id": "q_151"
+  },
+  {
+    "query": "What are the restrictions on 'Subletting' of contract work in Section 108?",
+    "reference_answer": "Section 108 requires the contractor to perform with its own organization work amounting to not less than 30 percent of the total contract price, and all subcontractors must be approved by the engineer.",
+    "category": "STANDARD_SPECS",
+    "query_type": "single_domain",
+    "id": "q_152"
+  },
+  {
+    "query": "What does Section 113 cover regarding 'Quality Assurance' for asphalt?",
+    "reference_answer": "Section 113 outlines the QA program for HMA, including sampling frequencies, pay adjustment factors for density and gradation, and dispute resolution procedures for test results.",
+    "category": "STANDARD_SPECS",
+    "query_type": "section_lookup",
+    "relevant_section": "Section 113",
+    "id": "q_153"
+  },
+  {
+    "query": "How is 'Value Engineering' (VE) addressed in Section 104?",
+    "reference_answer": "Section 104 allows contractors to submit VE proposals that reduce construction costs without sacrificing quality or safety. If accepted, the cost savings are typically shared 50/50 between the contractor and WYDOT.",
+    "category": "STANDARD_SPECS",
+    "query_type": "single_domain",
+    "id": "q_154"
+  },
+  {
+    "query": "What are the 'Environmental Compliance' requirements in Section 111?",
+    "reference_answer": "Section 111 requires the contractor to comply with all federal and state environmental laws, including clean water, air quality, and protection of archaeological and historical findings on the project site.",
+    "category": "STANDARD_SPECS",
+    "query_type": "section_lookup",
+    "relevant_section": "Section 111",
+    "id": "q_155"
+  },
+  {
+    "query": "How does the 'Construction Manual' guide the inspection of 'Drilled Shafts' compared to the materials verification in the 'Materials Testing Manual'?",
+    "reference_answer": "The Construction Manual focuses on checking the borehole cleanliness, casing installation, and concrete placement procedures, while the Materials Testing Manual specifies the concrete mix design (WYDOT 414.0) and strength verification (WYDOT 402.0).",
+    "category": "CROSS_DOMAIN",
+    "query_type": "cross_domain",
+    "id": "q_156"
+  },
+  {
+    "query": "Compare the 'Guardrail Height' requirements and crash-test standards between the 2010 and 2021 Standard Specifications.",
+    "reference_answer": "The 2010 specs often permitted a 27-inch height based on NCHRP 350, while the 2021 specs typically require a 31-inch height to comply with MASH (Manual for Assessing Safety Hardware) criteria for better performance with modern vehicles.",
+    "category": "VERSION_COMPARISON",
+    "query_type": "version_comparison",
+    "id": "q_157"
+  },
+  {
+    "query": "What are the 'Bridge Deck' concrete requirements in the Standard Specs, and how are they verified by the 'Materials Testing' procedures for air content?",
+    "reference_answer": "Standard Specs (Section 513) require 6.0% +/- 1.5% air content for deck concrete. WYDOT 404.0 (Materials Testing Manual) provides the pressure method for verifying this air content in the field before placement.",
+    "category": "CROSS_DOMAIN",
+    "query_type": "cross_domain",
+    "id": "q_158"
+  },
+  {
+    "query": "How did the 'Asphalt Binder' grading system evolve from the 2010 to the 2021 Standard Specifications?",
+    "reference_answer": "The 2010 specs strictly used the PG (Performance Grade) system. The 2021 edition incorporates MSCR (Multiple Stress Creep Recovery) testing (e.g., PG 64-28 S, H, V, or E) to better account for heavy traffic and varying climate conditions.",
+    "category": "VERSION_COMPARISON",
+    "query_type": "version_comparison",
+    "id": "q_159"
+  },
+  {
+    "query": "What is the relationship between 'STIP' project scheduling and the 'Annual Report's' performance metrics for bridge condition?",
+    "reference_answer": "The STIP programs funds for bridge replacements and rehabilitations based on the conditions reported in the Annual Report (e.g., % of bridges in 'Good' or 'Fair' condition) to meet federal performance targets.",
+    "category": "CROSS_DOMAIN",
+    "query_type": "cross_domain",
+    "id": "q_160"
+  },
+  {
+    "query": "What changes were made to 'Aggregate Gradation' bands for asphalt base course between the 2010 and 2021 editions?",
+    "reference_answer": "The 2021 edition may have consolidated or refined certain gradation tables (e.g., Table 703.4-1) to align with national AASHTO standards and improve pavement stability compared to the 2010 edition.",
+    "category": "VERSION_COMPARISON",
+    "query_type": "version_comparison",
+    "id": "q_161"
+  },
+  {
+    "query": "How do 'Highway Safety' initiatives for pedestrian safety influence the 'Design Manual's' standards for sidewalk width and ADA compliance?",
+    "reference_answer": "Safety initiatives targeting high-crash areas for pedestrians drive revisions in the Design Manual (Chapter 15) to include wider sidewalks, mandatory use of truncated domes (detectable warnings), and improved crosswalk lighting.",
+    "category": "CROSS_DOMAIN",
+    "query_type": "cross_domain",
+    "id": "q_162"
+  },
+  {
+    "query": "Compare the 'Slump' requirements for structural concrete in the 2010 vs 2021 Standard Specifications.",
+    "reference_answer": "The 2021 specs generally allow for higher slumps when using chemical admixtures (HRWR) and provide clearer tolerances for concrete placed by pump versus bucket, compared to the more rigid 2-4 inch range often seen in older 2010 sections.",
+    "category": "VERSION_COMPARISON",
+    "query_type": "version_comparison",
+    "id": "q_163"
+  },
+  {
+    "query": "If a 'Traffic Crash' analysis shows a high rate of runoff-road accidents, what 'Construction' practices for rumble strips are recommended in the Manual?",
+    "reference_answer": "The Construction Manual (Section 614) provides guidance on inspecting the depth and spacing of milled-in rumble strips (typically 12-inch spacing, 5/8-inch depth) to ensure they provide the intended audible and tactile warning.",
+    "category": "CROSS_DOMAIN",
+    "query_type": "cross_domain",
+    "id": "q_164"
+  },
+  {
+    "query": "How did 'Erosion Control' documentation (SWPPP) requirements change from 2010 to 2021 Standard Specs?",
+    "reference_answer": "The 2021 specs include more explicit requirements for electronic record-keeping, more frequent inspection intervals under certain conditions, and stricter stabilization deadlines (e.g., 14 days) compared to 2010.",
+    "category": "VERSION_COMPARISON",
+    "query_type": "version_comparison",
+    "id": "q_165"
+  },
+  {
+    "query": "What are the 'Load Rating' requirements for new bridges in the Design Manual, and how are they reflected in the 'Annual Report'?",
+    "reference_answer": "The Design Manual requires load ratings for all new bridges using LRFR (Load and Resistance Factor Rating). The Annual Report summarizes the overall load-restricted bridge inventory across the state as a key performance indicator.",
+    "category": "CROSS_DOMAIN",
+    "query_type": "cross_domain",
+    "id": "q_166"
+  },
+  {
+    "query": "What modifications were made to 'Curing Compound' application rates between the 2010 and 2021 Standard Specifications?",
+    "reference_answer": "The 2021 specs may have increased the required application rate (e.g., from 150 to 100 sf/gallon) for bridge decks and introduced stricter testing for uniformity and pigment quality compared to 2010.",
+    "category": "VERSION_COMPARISON",
+    "query_type": "version_comparison",
+    "id": "q_167"
+  },
+  {
+    "query": "How do 'STIP' funding categories like 'Bridge Off-System' affect project selection in the 'Bridge Program' for local bridges?",
+    "reference_answer": "STIP 'Bridge Off-System' (BROS) funds are specifically designated for bridges on local roads and rural collectors that are not on the federal-aid highway system, requiring coordination between the Bridge Program and local agencies.",
+    "category": "CROSS_DOMAIN",
+    "query_type": "cross_domain",
+    "id": "q_168"
+  },
+  {
+    "query": "Compare the 'Trench Excavation' safety and shoring requirements between the 2010 and 2021 Standard Specifications.",
+    "reference_answer": "While both refer to OSHA, the 2021 specs include more detailed payment and measurement items for specific shoring types and explicitly place more responsibility on the contractor for geotechnical stability during deep utility work.",
+    "category": "VERSION_COMPARISON",
+    "query_type": "version_comparison",
+    "id": "q_169"
+  },
+  {
+    "query": "How does 'Materials Testing' for aggregate moisture content (WYDOT 413.0) impact 'Construction' controls for hot mix asphalt temperature?",
+    "reference_answer": "High aggregate moisture requires more energy for drying in the plant, which can affect the final mix temperature. Inspectors use WYDOT 413.0 to verify the mix is dry, ensuring it meets the temperature requirements in the Construction Manual.",
+    "category": "CROSS_DOMAIN",
+    "query_type": "cross_domain",
+    "id": "q_170"
+  },
+  {
+    "query": "What changes occurred in 'Paint and Coating' requirements for structural steel from 2010 to 2021?",
+    "reference_answer": "The 2021 specs transitioned toward three-coat zinc-rich primer systems and improved VOC compliance for topcoats, often specifying specific approved product lists (APL) more rigidly than the 2010 edition.",
+    "category": "VERSION_COMPARISON",
+    "query_type": "version_comparison",
+    "id": "q_171"
+  },
+  {
+    "query": "How are 'Lane Closure' durations in the STIP planned compared to the 'Highway Safety' crash data for work zones?",
+    "reference_answer": "STIP project schedules are optimized during the design phase using crash data from previous work zones to minimize exposure and implement more robust traffic control measures in high-risk areas.",
+    "category": "CROSS_DOMAIN",
+    "query_type": "cross_domain",
+    "id": "q_172"
+  },
+  {
+    "query": "Compare 'Acceptance of Aggregates' by statistical analysis between the 2010 and 2021 editions.",
+    "reference_answer": "The 2021 edition expanded the use of PWL (Percent Within Limits) for major pay items, whereas the 2010 edition often relied more on point-by-point compliance with gradation and quality bands.",
+    "category": "VERSION_COMPARISON",
+    "query_type": "version_comparison",
+    "id": "q_173"
+  },
+  {
+    "query": "What is the relationship between 'Pavement Design' in the Design Manual and the 'Materials Testing' requirements for subgrade resilient modulus?",
+    "reference_answer": "Pavement designers use the resilient modulus (Mr) from lab tests (e.g., AASHTO T 307) to determine the required thickness of the structural layers (HMA and base) to support the design life traffic.",
+    "category": "CROSS_DOMAIN",
+    "query_type": "cross_domain",
+    "id": "q_174"
+  },
+  {
+    "query": "What changed in 'Drainage Pipe' material options (e.g., polypropylene) between 2010 and 2021 Standard Specs?",
+    "reference_answer": "The 2021 specs expanded the allowed usage of polypropylene (PP) pipe for storm drains and culverts, providing detailed installation and cover requirements that weren't as prevalent in the 2010 edition.",
+    "category": "VERSION_COMPARISON",
+    "query_type": "version_comparison",
+    "id": "q_175"
+  },
+  {
+    "query": "How do 'Environmental Permit' boundaries in the Standard Specs relate to 'Construction' limits staking in the field?",
+    "reference_answer": "Construction limits must stay within the environmentally cleared area (404 permit, etc.) specified in Section 111. Inspectors verify that the limits are staked (Section 105) to prevent accidental encroachment into protected areas.",
+    "category": "CROSS_DOMAIN",
+    "query_type": "cross_domain",
+    "id": "q_176"
+  },
+  {
+    "query": "Compare 'Seed Mix' requirements and application methods between 2010 and 2021 Standard Specifications.",
+    "reference_answer": "The 2021 specs emphasize native seed counts and more detailed требований for mechanical drilling versus hydro-mulching, reflecting updated reclamation standards from the Geology and Environmental programs since 2010.",
+    "category": "VERSION_COMPARISON",
+    "query_type": "version_comparison",
+    "id": "q_177"
+  },
+  {
+    "query": "How is 'Public Safety' data from 'Traffic Crashes' used to justify 'STIP' funding for intersection improvements?",
+    "reference_answer": "Crash data showing fatal or serious injury patterns at an intersection are used to calculate the B/C (Benefit-Cost) ratio required for HSIP funding and prioritizing the project in the four-year STIP list.",
+    "category": "CROSS_DOMAIN",
+    "query_type": "cross_domain",
+    "id": "q_178"
+  },
+  {
+    "query": "What modifications were made to 'Incentive/Disincentive' clauses for project completion (Section 108) between 2010 and 2021?",
+    "reference_answer": "The 2021 edition includes more standardized language for A+B bidding and lane rental, reflecting a move toward accelerating high-impact projects compared to the traditional liquidated damages focus in 2010.",
+    "category": "VERSION_COMPARISON",
+    "query_type": "version_comparison",
+    "id": "q_179"
+  },
+  {
+    "query": "How do 'Quality Control' (QC) plans from the contractor (Section 114) interact with WYDOT's 'Acceptance Testing' in the Materials Manual?",
+    "reference_answer": "The QC plan (Section 114) governs the contractor's internal process, while WYDOT's Acceptance Testing (Materials Manual) is used for final payment decisions. The two are compared periodically through the ISP (Independent Sample Program) for verification.",
+    "category": "CROSS_DOMAIN",
+    "query_type": "cross_domain",
+    "id": "q_180"
+  },
+  {
+    "query": "Compare 'Bridge Deck' finishing requirements (e.g., tining or turf drag) in 2010 and 2021 Standard Specs.",
+    "reference_answer": "The 2021 specs may prioritize longitudinal grooving for noise and friction, while the 2010 specs relied more heavily on transverse tining or astroturf drag, reflecting shifting preferences for ride quality.",
+    "category": "VERSION_COMPARISON",
+    "query_type": "version_comparison",
+    "id": "q_181"
+  },
+  {
+    "query": "How is 'Snow Storage' from the Design Manual integrated into the 'Construction' of roadside ditches?",
+    "reference_answer": "Design dictates the ditch width and slope for snow storage. Inspectors ensure that material isn't wasted in the ditch and that the final cross-section (Section 203) matches the design to maintain its functional storage capacity.",
+    "category": "CROSS_DOMAIN",
+    "query_type": "cross_domain",
+    "id": "q_182"
+  },
+  {
+    "query": "What changes occurred in 'Geotextile' classification and application types between 2010 and 2021?",
+    "reference_answer": "The 2021 specs align with the M 288 AASHTO classification system for separation, stabilization, and filtration geotextiles, updating the tensile and permittivity requirements from the 2010 version.",
+    "category": "VERSION_COMPARISON",
+    "query_type": "version_comparison",
+    "id": "q_183"
+  },
+  {
+    "query": "How do 'Bridge Load Ratings' influence 'Highway Maintenance' priority for superstructure repairs?",
+    "reference_answer": "Bridges with low load ratings or severe structural defects are flagged in the inspection database, triggering maintenance work orders or inclusion in the Bridge Program for structural strengthening or replacement.",
+    "category": "CROSS_DOMAIN",
+    "query_type": "cross_domain",
+    "id": "q_184"
+  },
+  {
+    "query": "Compare 'Asphalt Emulsion' types (e.g., CSS-1h) and testing requirements in 2010 vs 2021 Standard Specs.",
+    "reference_answer": "The 2021 edition includes more polymer-modified emulsion options and refined residue-by-evaporation testing methods, ensuring better performance in chip seals compared to the 2010 standards.",
+    "category": "VERSION_COMPARISON",
+    "query_type": "version_comparison",
+    "id": "q_185"
+  },
+  {
+    "query": "How is 'Materials Testing' for concrete durability (e.g., ASR) used in 'Design' for long-term bridge performance?",
+    "reference_answer": "Testing for Alkali-Silica Reactivity (ASR) guides the Designer in specifying fly ash or other SCMs (Section 801) to prevent premature concrete deterioration, ensuring the 75-year design life of the bridge.",
+    "category": "CROSS_DOMAIN",
+    "query_type": "cross_domain",
+    "id": "q_186"
+  },
+  {
+    "query": "What changes in 'Signal Footing' design and construction occurred between the 2010 and 2021 editions?",
+    "reference_answer": "The 2021 edition updated standard plan footing depths for varying soil types and refined the bolt-circle tolerances to prevent installation issues common in the older 2010-era projects.",
+    "category": "VERSION_COMPARISON",
+    "query_type": "version_comparison",
+    "id": "q_187"
+  },
+  {
+    "query": "How does 'STIP' funding for 'Transportation Alternatives' support the 'Strategic Highway Safety Plan's' VRU goals?",
+    "reference_answer": "Transportation Alternatives Program (TAP) funds are utilized for pedestrian and bicycle paths, supporting the SHSP's goal of reducing fatalities among vulnerable road users (VRUs) by providing separated facilities.",
+    "category": "CROSS_DOMAIN",
+    "query_type": "cross_domain",
+    "id": "q_188"
+  },
+  {
+    "query": "Compare 'Payment for Extra Work' markups (labor, equipment, etc.) in 2010 vs 2021 Standard Specifications.",
+    "reference_answer": "The 2021 specs may have adjusted the percentage markups (e.g., from 15% to 20% on labor) to reflect rising overhead and administrative costs in the construction industry since 2010.",
+    "category": "VERSION_COMPARISON",
+    "query_type": "version_comparison",
+    "id": "q_189"
+  },
+  {
+    "query": "How is 'Ground Penetrating Radar' (GPR) used in 'Materials Testing' for pavement thickness verification?",
+    "reference_answer": "GPR provides a non-destructive method for verifying pavement thickness (WYDOT 412.0), which can be cross-referenced with construction core data for payment adjustments and quality assurance.",
+    "category": "CROSS_DOMAIN",
+    "query_type": "cross_domain",
+    "id": "q_190"
+  },
+  {
+    "query": "What changed in 'Riprap' material quality requirements (e.g., durability) between 2010 and 2021?",
+    "reference_answer": "The 2021 specs introduced more rigid requirements for source stone durability and more detailed gradation classes (e.g., Class I through V) compared to the more general descriptions in 2010.",
+    "category": "VERSION_COMPARISON",
+    "query_type": "version_comparison",
+    "id": "q_191"
+  },
+  {
+    "query": "How are 'Annual Report' data on 'Wildlife-Vehicle Collisions' used in 'Design' for wildlife crossings?",
+    "reference_answer": "Data on high-collision clusters inform the location and design of underpasses, overpasses, and fencing in the Design Manual, aiming to reduce crashes and improve wildlife connectivity as part of safety initiatives.",
+    "category": "CROSS_DOMAIN",
+    "query_type": "cross_domain",
+    "id": "q_192"
+  },
+  {
+    "query": "Compare 'PCCP Joint' sealing materials and installation requirements in 2010 vs 2021 editions.",
+    "reference_answer": "The 2021 edition focuses on preformed compression seals and silicone sealants with stricter bond-breaker requirements, whereas 2010 often permitted hot-poured sealants more broadly.",
+    "category": "VERSION_COMPARISON",
+    "query_type": "version_comparison",
+    "id": "q_193"
+  },
+  {
+    "query": "How does 'Materials' verification for pipe culvert backfill (Section 206) interact with the 'Construction' of flexible pavement above it?",
+    "reference_answer": "Improper backfill compaction (Section 206) results in localized settlement and pavement failure. Inspectors use moisture-density testing to ensure solid support before the pavement layers are applied.",
+    "category": "CROSS_DOMAIN",
+    "query_type": "cross_domain",
+    "id": "q_194"
+  },
+  {
+    "query": "What changes were made to 'Retaining Wall' design and acceptance (Section 512) between 2010 and 2021?",
+    "reference_answer": "The 2021 edition updated the requirements for MSE (Mechanically Stabilized Earth) wall backfill and provided more detailed guidance on internal stability analysis compared to the 2010 version.",
+    "category": "VERSION_COMPARISON",
+    "query_type": "version_comparison",
+    "id": "q_195"
+  },
+  {
+    "query": "How are 'Traffic Crash' fatalities categorized by 'Vulnerable Road User' type in the Highway Safety Plan?",
+    "reference_answer": "Fatalities are broken down into pedestrians, bicyclists, and motorcyclists to allow for targeted safety strategies, as documented in the Strategic Highway Safety Plan 2022 addendum.",
+    "category": "CROSS_DOMAIN",
+    "query_type": "cross_domain",
+    "id": "q_196"
+  },
+  {
+    "query": "Compare 'Excavation and Embankment' payment methods (e.g., plan quantity vs. measured) in 2010 vs 2021.",
+    "reference_answer": "The 2021 specs moved even further toward 'Plan Quantity' acceptance for earthwork items, relying on accurate CADD-based earthwork calculations to minimize field measurement disputes compared to 2010.",
+    "category": "VERSION_COMPARISON",
+    "query_type": "version_comparison",
+    "id": "q_197"
+  },
+  {
+    "query": "How is 'Materials' certification for structural timber (Section 812) verified during 'Bridge' construcción?",
+    "reference_answer": "Timber must be accompanied by an inspection certificate from a qualified agency. The inspector verifies the grading marks and the presence of the required preservative treatment specified in the Bridge Program plans.",
+    "category": "CROSS_DOMAIN",
+    "query_type": "cross_domain",
+    "id": "q_198"
+  },
+  {
+    "query": "What modifications were made to 'Incentive-Based' bridge deck requirements in Section 113 between 2010 and 2021?",
+    "reference_answer": "The 2021 specs introduced more explicit pay adjustments for deck smoothness and concrete strength, providing clearer formulas for calc-ing incentives compared to the 2010 edition.",
+    "category": "VERSION_COMPARISON",
+    "query_type": "version_comparison",
+    "id": "q_199"
+  },
+  {
+    "query": "How do 'Environmental permitting' delays recorded in 'Annual Reports' influence future 'STIP' project timelines?",
+    "reference_answer": "Systemic delays in NEPA or 404 permitting are analyzed for process improvements. These findings lead to more realistic scheduling in the STIP to prevent project shelf-life issues and funding expiration.",
+    "category": "CROSS_DOMAIN",
+    "query_type": "cross_domain",
+    "id": "q_200"
+  }
+]

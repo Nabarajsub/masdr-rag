@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+emnlp_evaluation/results/*.jsonl
+emnlp_evaluation/judge_assets/*.json
+!data/
+*.npy
+*.npz
+model_cache/
+slurm/logs/
