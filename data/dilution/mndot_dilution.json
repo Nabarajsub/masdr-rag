@@ -1,0 +1,70 @@
+{
+  "corpus": "mndot",
+  "n_chunks": 7151,
+  "restrict_to": "",
+  "axes": [
+    {
+      "axis": "document_series",
+      "k": 10,
+      "overall_purity": 0.7887,
+      "overall_dilution": 0.2113,
+      "spearman_logchunks_delta": -0.4167,
+      "per_category": [
+        {
+          "category": "ANNUAL REPORTS",
+          "chunks": 303,
+          "knn_purity": 0.8683,
+          "dilution_delta": 0.1317
+        },
+        {
+          "category": "BRIDGE PROGRAM",
+          "chunks": 64,
+          "knn_purity": 0.6187,
+          "dilution_delta": 0.3813
+        },
+        {
+          "category": "CONSTRUCTION MANUAL",
+          "chunks": 49,
+          "knn_purity": 0.7939,
+          "dilution_delta": 0.2061
+        },
+        {
+          "category": "DESIGN MANUAL",
+          "chunks": 414,
+          "knn_purity": 0.9128,
+          "dilution_delta": 0.0872
+        },
+        {
+          "category": "GENERAL",
+          "chunks": 1690,
+          "knn_purity": 0.9262,
+          "dilution_delta": 0.0738
+        },
+        {
+          "category": "MATERIALS TESTING",
+          "chunks": 2711,
+          "knn_purity": 0.8084,
+          "dilution_delta": 0.1916
+        },
+        {
+          "category": "STANDARD PLANS",
+          "chunks": 206,
+          "knn_purity": 0.7146,
+          "dilution_delta": 0.2854
+        },
+        {
+          "category": "STANDARD SPECS",
+          "chunks": 1486,
+          "knn_purity": 0.5659,
+          "dilution_delta": 0.4341
+        },
+        {
+          "category": "TRAFFIC & SAFETY",
+          "chunks": 228,
+          "knn_purity": 0.7702,
+          "dilution_delta": 0.2298
+        }
+      ]
+    }
+  ]
+}

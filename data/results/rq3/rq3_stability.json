@@ -1,0 +1,130 @@
+{
+  "n_docs": 1128,
+  "n_chunks": 217752,
+  "k11_seed_stability": {
+    "pairwise_ARI_mean": 0.6660321160070924,
+    "pairwise_ARI_min": 0.5064609061125709,
+    "doc_NMI_mean": 0.23818862032249427,
+    "doc_NMI_sd": 0.0128828827987363,
+    "chunk_purity_mean": 0.7083990043719461,
+    "chunk_purity_sd": 0.029410528719964163
+  },
+  "shipped_column_vs_seed42_ARI": 1.0,
+  "k_sweep": [
+    {
+      "k": 5,
+      "doc_NMI_hand": 0.211595359556435,
+      "chunk_purity_hand": 0.48634685330100297,
+      "silhouette": 0.12182736396789551,
+      "calinski_harabasz": 63.194271087646484
+    },
+    {
+      "k": 6,
+      "doc_NMI_hand": 0.20273112023566295,
+      "chunk_purity_hand": 0.4232934714721334,
+      "silhouette": 0.13608881831169128,
+      "calinski_harabasz": 58.44271469116211
+    },
+    {
+      "k": 7,
+      "doc_NMI_hand": 0.2073038507690911,
+      "chunk_purity_hand": 0.6046144237481171,
+      "silhouette": 0.12344788014888763,
+      "calinski_harabasz": 54.516510009765625
+    },
+    {
+      "k": 8,
+      "doc_NMI_hand": 0.21211566391999145,
+      "chunk_purity_hand": 0.6296291193651493,
+      "silhouette": 0.11720143258571625,
+      "calinski_harabasz": 50.61210250854492
+    },
+    {
+      "k": 9,
+      "doc_NMI_hand": 0.2147686989215705,
+      "chunk_purity_hand": 0.6300516183548257,
+      "silhouette": 0.1268475204706192,
+      "calinski_harabasz": 47.077003479003906
+    },
+    {
+      "k": 10,
+      "doc_NMI_hand": 0.2343095104760359,
+      "chunk_purity_hand": 0.7237499540761968,
+      "silhouette": 0.12439591437578201,
+      "calinski_harabasz": 44.11405563354492
+    },
+    {
+      "k": 11,
+      "doc_NMI_hand": 0.26720604931266967,
+      "chunk_purity_hand": 0.7822844336676587,
+      "silhouette": 0.13069672882556915,
+      "calinski_harabasz": 42.17167282104492
+    },
+    {
+      "k": 12,
+      "doc_NMI_hand": 0.2371974208409251,
+      "chunk_purity_hand": 0.651199529740255,
+      "silhouette": 0.13192647695541382,
+      "calinski_harabasz": 39.917724609375
+    },
+    {
+      "k": 13,
+      "doc_NMI_hand": 0.246313786722551,
+      "chunk_purity_hand": 0.7945506815092399,
+      "silhouette": 0.14133374392986298,
+      "calinski_harabasz": 37.62209701538086
+    },
+    {
+      "k": 14,
+      "doc_NMI_hand": 0.2428487922744532,
+      "chunk_purity_hand": 0.692990190675631,
+      "silhouette": 0.14389735460281372,
+      "calinski_harabasz": 36.29061508178711
+    },
+    {
+      "k": 15,
+      "doc_NMI_hand": 0.2410771744499164,
+      "chunk_purity_hand": 0.7331321870752048,
+      "silhouette": 0.12699216604232788,
+      "calinski_harabasz": 35.171024322509766
+    },
+    {
+      "k": 16,
+      "doc_NMI_hand": 0.25766159503122,
+      "chunk_purity_hand": 0.7817654946912084,
+      "silhouette": 0.13272476196289062,
+      "calinski_harabasz": 34.03580856323242
+    },
+    {
+      "k": 17,
+      "doc_NMI_hand": 0.253122293497511,
+      "chunk_purity_hand": 0.7932556302582755,
+      "silhouette": 0.142959862947464,
+      "calinski_harabasz": 33.48509216308594
+    },
+    {
+      "k": 18,
+      "doc_NMI_hand": 0.25404707373426744,
+      "chunk_purity_hand": 0.8220636320217495,
+      "silhouette": 0.12214457988739014,
+      "calinski_harabasz": 32.29862594604492
+    },
+    {
+      "k": 19,
+      "doc_NMI_hand": 0.26674773671024476,
+      "chunk_purity_hand": 0.775166244167677,
+      "silhouette": 0.13919641077518463,
+      "calinski_harabasz": 30.974355697631836
+    },
+    {
+      "k": 20,
+      "doc_NMI_hand": 0.24528816890422492,
+      "chunk_purity_hand": 0.8026929718211543,
+      "silhouette": 0.14512011408805847,
+      "calinski_harabasz": 30.149385452270508
+    }
+  ],
+  "k_by_hand_NMI": 11,
+  "k_by_silhouette": 20,
+  "k_by_CH": 5
+}

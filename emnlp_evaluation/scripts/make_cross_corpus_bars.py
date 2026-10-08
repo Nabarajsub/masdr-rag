@@ -28,6 +28,10 @@ SYS_COLORS = {
     "Custom ReAct":   "#d62728",
 }
 
+# v2: scoped systems come from the fixed-router re-runs. Because corr_for()
+# dedupes by query_id with later files overwriting earlier ones, the corrected
+# fixedrouter files are listed LAST so they take precedence; ReAct rows
+# (unaffected by the router bug) survive from the original runs.
 BENCHMARKS = [
     ("WYDOT",            [
         f"{ROOT}/wydot_qwen_bge_m3_baselines.judged.jsonl",
@@ -35,15 +39,16 @@ BENCHMARKS = [
     ]),
     ("Composite-9",      [
         f"{ROOT}/composite_qwen_monolithic-regex_scoped-hybrid_routed-masdr_rag-react.judged.jsonl",
-        f"{ROOT}/composite_qwen_masdr_rag.judged.jsonl",
+        f"{ROOT}/composite_qwen_fixedrouter_monolithic-regex_scoped-hybrid_routed-masdr_rag.judged.jsonl",
     ]),
     ("MultiHop-RAG",     [
-        f"{ROOT}/multihop_qwen_monolithic-regex_scoped-hybrid_routed-masdr_rag.judged.jsonl",
         f"{ROOT}/multihop_qwen_react.judged.jsonl",
+        f"{ROOT}/multihop_qwen_fixedrouter_monolithic-regex_scoped-hybrid_routed-masdr_rag.judged.jsonl",
     ]),
     ("HotpotQA (CRAG)",  [
         f"{ROOT}/crag_qwen_monolithic-hybrid_routed-masdr_rag-react.judged.jsonl",
-        f"{ROOT}/crag_qwen_masdr_rag.judged.jsonl",
+        f"{ROOT}/crag_qwen_fixedrouter_monolithic-regex_scoped.judged.jsonl",
+        f"{ROOT}/crag_qwen_fixedrouter_hybrid_routed-masdr_rag.judged.jsonl",
     ]),
 ]
 

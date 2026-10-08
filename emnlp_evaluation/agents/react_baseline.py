@@ -21,6 +21,33 @@ from .tool_catalog import TOOL_TO_AGENT
 from .tools_oss import SearchBackend, format_chunks
 
 
+# Persona-neutral variant (shared-prompt control): identical loop protocol and
+# rules, corpus-specific persona removed, so ReAct is not penalised by a
+# corpus-mismatched persona on non-WYDOT corpora. Selected when
+# USE_NEUTRAL_REACT is set by naive_rag.set_shared_answer_prompt().
+USE_NEUTRAL_REACT = False
+
+REACT_SYSTEM_NEUTRAL = """You are a research agent answering questions using a searchable collection of documents.
+
+You operate in a loop of:
+  Thought: <what you need next>
+  Action: <tool_name>({{"query": "...", "year": 2021}})
+  Observation: <tool output, supplied by the user>
+
+When you have enough information, end with:
+  Final Answer: <your answer with [Source N] citations>
+
+Available tools:
+{tool_list}
+
+Rules:
+- Emit EXACTLY ONE Action per turn (or Final Answer).
+- Do NOT invent observations --- wait for them to be provided.
+- After at most 6 actions, emit Final Answer even if uncertain.
+- Cite chunks as [Source 1], [Source 2], etc. matching the chunk numbering in observations.
+"""
+
+
 REACT_SYSTEM = """You are a research agent answering questions about Wyoming Department of Transportation documents.
 
 You operate in a loop of:
@@ -75,7 +102,8 @@ class ReActTrace:
 
 def _system_prompt() -> str:
     tool_list = "\n".join(f"  - {k}: {v}" for k, v in TOOL_DESCRIPTIONS.items())
-    return REACT_SYSTEM.format(tool_list=tool_list)
+    base = REACT_SYSTEM_NEUTRAL if USE_NEUTRAL_REACT else REACT_SYSTEM
+    return base.format(tool_list=tool_list)
 
 
 def _parse_action(text: str):

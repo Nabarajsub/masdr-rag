@@ -77,7 +77,13 @@ def main():
     ap.add_argument("--limit", type=int, default=None)
     ap.add_argument("--llm", default="qwen")
     ap.add_argument("--out", default=None)
+    ap.add_argument("--shared-answer-prompt", action="store_true",
+                    help="Force the shared corpus-neutral answer prompt (see naive_rag).")
     args = ap.parse_args()
+    if args.shared_answer_prompt:
+        from emnlp_evaluation.agents.naive_rag import set_shared_answer_prompt, _ANSWER_PROMPT
+        set_shared_answer_prompt(_ANSWER_PROMPT)
+        print("[prompt-control] shared corpus-neutral answer prompt active")
 
     spec = BENCHMARK[args.benchmark]
     backend = load_colbert(spec["prefix"], scope_field=spec["scope_field"],

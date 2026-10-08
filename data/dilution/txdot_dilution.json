@@ -1,0 +1,70 @@
+{
+  "corpus": "txdot",
+  "n_chunks": 19484,
+  "restrict_to": "",
+  "axes": [
+    {
+      "axis": "document_series",
+      "k": 10,
+      "overall_purity": 0.804,
+      "overall_dilution": 0.196,
+      "spearman_logchunks_delta": -0.5333,
+      "per_category": [
+        {
+          "category": "ANNUAL REPORTS",
+          "chunks": 2143,
+          "knn_purity": 0.8706,
+          "dilution_delta": 0.1294
+        },
+        {
+          "category": "CONSTRUCTION MANUAL",
+          "chunks": 84,
+          "knn_purity": 0.7762,
+          "dilution_delta": 0.2238
+        },
+        {
+          "category": "DESIGN MANUAL",
+          "chunks": 52,
+          "knn_purity": 0.5981,
+          "dilution_delta": 0.4019
+        },
+        {
+          "category": "GENERAL",
+          "chunks": 8999,
+          "knn_purity": 0.8357,
+          "dilution_delta": 0.1643
+        },
+        {
+          "category": "MATERIALS TESTING",
+          "chunks": 406,
+          "knn_purity": 0.8682,
+          "dilution_delta": 0.1318
+        },
+        {
+          "category": "STANDARD PLANS",
+          "chunks": 39,
+          "knn_purity": 0.7051,
+          "dilution_delta": 0.2949
+        },
+        {
+          "category": "STANDARD SPECS",
+          "chunks": 791,
+          "knn_purity": 0.8155,
+          "dilution_delta": 0.1845
+        },
+        {
+          "category": "STIP",
+          "chunks": 1550,
+          "knn_purity": 0.6018,
+          "dilution_delta": 0.3982
+        },
+        {
+          "category": "TRAFFIC & SAFETY",
+          "chunks": 5420,
+          "knn_purity": 0.7795,
+          "dilution_delta": 0.2205
+        }
+      ]
+    }
+  ]
+}

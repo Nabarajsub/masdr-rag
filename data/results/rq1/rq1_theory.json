@@ -1,0 +1,137 @@
+{
+  "n_queries": 32,
+  "n_chunks": 217752,
+  "curve_prediction": [
+    {
+      "size": 16,
+      "r": 0.0,
+      "measured_p10": 0.831,
+      "predicted_p10": 1.0
+    },
+    {
+      "size": 54,
+      "r": 0.0305,
+      "measured_p10": 0.759,
+      "predicted_p10": 0.738
+    },
+    {
+      "size": 100,
+      "r": 0.0739,
+      "measured_p10": 0.694,
+      "predicted_p10": 0.601
+    },
+    {
+      "size": 200,
+      "r": 0.1626,
+      "measured_p10": 0.579,
+      "predicted_p10": 0.482
+    },
+    {
+      "size": 400,
+      "r": 0.3769,
+      "measured_p10": 0.458,
+      "predicted_p10": 0.373
+    },
+    {
+      "size": 700,
+      "r": 0.6118,
+      "measured_p10": 0.353,
+      "predicted_p10": 0.319
+    },
+    {
+      "size": 1083,
+      "r": 1.0,
+      "measured_p10": 0.281,
+      "predicted_p10": 0.281
+    }
+  ],
+  "curve_prediction_summary": {
+    "mean_abs_error": 0.07128571428571429,
+    "pearson_r": 0.9430943245135759
+  },
+  "discrimination": {
+    "auc_median": 0.8773157478564828,
+    "auc_iqr": [
+      0.7899363648333465,
+      0.907172895943715
+    ],
+    "median_nongold_above_gold_best_full": 1.0,
+    "note": "AUC is a property of the two similarity distributions; random subsampling leaves it unchanged in expectation, while the COUNT above the gold scales ~linearly with r."
+  },
+  "extreme_value": {
+    "points": [
+      [
+        1000,
+        0.5814001560211182
+      ],
+      [
+        1630,
+        0.5935606956481934
+      ],
+      [
+        2659,
+        0.6045594811439514
+      ],
+      [
+        4335,
+        0.6157731413841248
+      ],
+      [
+        7070,
+        0.6247360706329346
+      ],
+      [
+        11529,
+        0.6323704719543457
+      ],
+      [
+        18800,
+        0.6412993669509888
+      ],
+      [
+        30656,
+        0.6478333473205566
+      ],
+      [
+        49989,
+        0.6521490812301636
+      ],
+      [
+        81515,
+        0.6572008728981018
+      ],
+      [
+        132923,
+        0.6629956960678101
+      ],
+      [
+        216751,
+        0.6669389009475708
+      ]
+    ],
+    "fit": {
+      "a": 0.3323197462950419,
+      "b": 0.0686123237999924,
+      "r2": 0.9830858993036081
+    },
+    "gold_best_median": 0.6789384186267853
+  },
+  "tail_composition_above_10th_gold": {
+    "edition": 0.33416502188691066,
+    "sibling": 0.1867609514139013,
+    "other": 0.38532402669918797
+  },
+  "auc_gold_vs_population": {
+    "edition": 0.4928301088453288,
+    "sibling": 0.809968531615912,
+    "other": 0.8971107297269357
+  },
+  "geometry": {
+    "mean_pair_cosine": 0.4662889540195465,
+    "sd_pair_cosine": 0.08831839263439178,
+    "query_sim_mean": 0.35913774371147156,
+    "query_sim_sd": 0.06476273387670517,
+    "hubness_skew_N10": 2.8218062230300824,
+    "share_of_NN_slots_taken_by_top1pct_chunks": 0.1487
+  }
+}

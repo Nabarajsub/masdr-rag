@@ -1,0 +1,482 @@
+{
+  "q_050_A": {
+    "query_id": "q_050",
+    "system": "monolithic",
+    "llm_faithfulness": 1,
+    "llm_correctness": 1
+  },
+  "q_050_B": {
+    "query_id": "q_050",
+    "system": "masdr_rag",
+    "llm_faithfulness": 0,
+    "llm_correctness": 1
+  },
+  "q_007_A": {
+    "query_id": "q_007",
+    "system": "monolithic",
+    "llm_faithfulness": 1,
+    "llm_correctness": 1
+  },
+  "q_007_B": {
+    "query_id": "q_007",
+    "system": "masdr_rag",
+    "llm_faithfulness": 0,
+    "llm_correctness": 0
+  },
+  "q_039_A": {
+    "query_id": "q_039",
+    "system": "monolithic",
+    "llm_faithfulness": 1,
+    "llm_correctness": 0
+  },
+  "q_039_B": {
+    "query_id": "q_039",
+    "system": "masdr_rag",
+    "llm_faithfulness": 0,
+    "llm_correctness": 1
+  },
+  "q_063_A": {
+    "query_id": "q_063",
+    "system": "masdr_rag",
+    "llm_faithfulness": 0,
+    "llm_correctness": 0
+  },
+  "q_063_B": {
+    "query_id": "q_063",
+    "system": "monolithic",
+    "llm_faithfulness": 1,
+    "llm_correctness": 1
+  },
+  "q_199_A": {
+    "query_id": "q_199",
+    "system": "masdr_rag",
+    "llm_faithfulness": 0,
+    "llm_correctness": 0
+  },
+  "q_199_B": {
+    "query_id": "q_199",
+    "system": "monolithic",
+    "llm_faithfulness": 0,
+    "llm_correctness": 0
+  },
+  "q_034_A": {
+    "query_id": "q_034",
+    "system": "masdr_rag",
+    "llm_faithfulness": 0,
+    "llm_correctness": 1
+  },
+  "q_034_B": {
+    "query_id": "q_034",
+    "system": "monolithic",
+    "llm_faithfulness": 0,
+    "llm_correctness": 0
+  },
+  "q_022_A": {
+    "query_id": "q_022",
+    "system": "masdr_rag",
+    "llm_faithfulness": 1,
+    "llm_correctness": 0
+  },
+  "q_022_B": {
+    "query_id": "q_022",
+    "system": "monolithic",
+    "llm_faithfulness": 1,
+    "llm_correctness": 1
+  },
+  "q_068_A": {
+    "query_id": "q_068",
+    "system": "monolithic",
+    "llm_faithfulness": 1,
+    "llm_correctness": 0
+  },
+  "q_068_B": {
+    "query_id": "q_068",
+    "system": "masdr_rag",
+    "llm_faithfulness": 0,
+    "llm_correctness": 1
+  },
+  "q_005_A": {
+    "query_id": "q_005",
+    "system": "monolithic",
+    "llm_faithfulness": 1,
+    "llm_correctness": 0
+  },
+  "q_005_B": {
+    "query_id": "q_005",
+    "system": "masdr_rag",
+    "llm_faithfulness": 0,
+    "llm_correctness": 1
+  },
+  "q_073_A": {
+    "query_id": "q_073",
+    "system": "monolithic",
+    "llm_faithfulness": 1,
+    "llm_correctness": 1
+  },
+  "q_073_B": {
+    "query_id": "q_073",
+    "system": "masdr_rag",
+    "llm_faithfulness": 0,
+    "llm_correctness": 0
+  },
+  "q_020_A": {
+    "query_id": "q_020",
+    "system": "monolithic",
+    "llm_faithfulness": 0,
+    "llm_correctness": 0
+  },
+  "q_020_B": {
+    "query_id": "q_020",
+    "system": "masdr_rag",
+    "llm_faithfulness": 0,
+    "llm_correctness": 0
+  },
+  "q_043_A": {
+    "query_id": "q_043",
+    "system": "monolithic",
+    "llm_faithfulness": 1,
+    "llm_correctness": 0
+  },
+  "q_043_B": {
+    "query_id": "q_043",
+    "system": "masdr_rag",
+    "llm_faithfulness": 0,
+    "llm_correctness": 1
+  },
+  "q_028_A": {
+    "query_id": "q_028",
+    "system": "masdr_rag",
+    "llm_faithfulness": 0,
+    "llm_correctness": 0
+  },
+  "q_028_B": {
+    "query_id": "q_028",
+    "system": "monolithic",
+    "llm_faithfulness": 1,
+    "llm_correctness": 1
+  },
+  "q_180_A": {
+    "query_id": "q_180",
+    "system": "masdr_rag",
+    "llm_faithfulness": 0,
+    "llm_correctness": 1
+  },
+  "q_180_B": {
+    "query_id": "q_180",
+    "system": "monolithic",
+    "llm_faithfulness": 1,
+    "llm_correctness": 1
+  },
+  "q_107_A": {
+    "query_id": "q_107",
+    "system": "monolithic",
+    "llm_faithfulness": 0,
+    "llm_correctness": 0
+  },
+  "q_107_B": {
+    "query_id": "q_107",
+    "system": "masdr_rag",
+    "llm_faithfulness": 1,
+    "llm_correctness": 0
+  },
+  "q_025_A": {
+    "query_id": "q_025",
+    "system": "masdr_rag",
+    "llm_faithfulness": 0,
+    "llm_correctness": 0
+  },
+  "q_025_B": {
+    "query_id": "q_025",
+    "system": "monolithic",
+    "llm_faithfulness": 1,
+    "llm_correctness": 1
+  },
+  "q_056_A": {
+    "query_id": "q_056",
+    "system": "monolithic",
+    "llm_faithfulness": 0,
+    "llm_correctness": 0
+  },
+  "q_056_B": {
+    "query_id": "q_056",
+    "system": "masdr_rag",
+    "llm_faithfulness": 0,
+    "llm_correctness": 0
+  },
+  "q_017_A": {
+    "query_id": "q_017",
+    "system": "masdr_rag",
+    "llm_faithfulness": 0,
+    "llm_correctness": 0
+  },
+  "q_017_B": {
+    "query_id": "q_017",
+    "system": "monolithic",
+    "llm_faithfulness": 1,
+    "llm_correctness": 0
+  },
+  "q_126_A": {
+    "query_id": "q_126",
+    "system": "monolithic",
+    "llm_faithfulness": 0,
+    "llm_correctness": 0
+  },
+  "q_126_B": {
+    "query_id": "q_126",
+    "system": "masdr_rag",
+    "llm_faithfulness": 0,
+    "llm_correctness": 0
+  },
+  "q_079_A": {
+    "query_id": "q_079",
+    "system": "monolithic",
+    "llm_faithfulness": 1,
+    "llm_correctness": 1
+  },
+  "q_079_B": {
+    "query_id": "q_079",
+    "system": "masdr_rag",
+    "llm_faithfulness": 0,
+    "llm_correctness": 1
+  },
+  "q_070_A": {
+    "query_id": "q_070",
+    "system": "masdr_rag",
+    "llm_faithfulness": 0,
+    "llm_correctness": 0
+  },
+  "q_070_B": {
+    "query_id": "q_070",
+    "system": "monolithic",
+    "llm_faithfulness": 1,
+    "llm_correctness": 1
+  },
+  "q_156_A": {
+    "query_id": "q_156",
+    "system": "masdr_rag",
+    "llm_faithfulness": 0,
+    "llm_correctness": 0
+  },
+  "q_156_B": {
+    "query_id": "q_156",
+    "system": "monolithic",
+    "llm_faithfulness": 1,
+    "llm_correctness": 0
+  },
+  "q_118_A": {
+    "query_id": "q_118",
+    "system": "monolithic",
+    "llm_faithfulness": 1,
+    "llm_correctness": 0
+  },
+  "q_118_B": {
+    "query_id": "q_118",
+    "system": "masdr_rag",
+    "llm_faithfulness": 0,
+    "llm_correctness": 0
+  },
+  "q_165_A": {
+    "query_id": "q_165",
+    "system": "monolithic",
+    "llm_faithfulness": 0,
+    "llm_correctness": 0
+  },
+  "q_165_B": {
+    "query_id": "q_165",
+    "system": "masdr_rag",
+    "llm_faithfulness": 0,
+    "llm_correctness": 0
+  },
+  "q_060_A": {
+    "query_id": "q_060",
+    "system": "monolithic",
+    "llm_faithfulness": 1,
+    "llm_correctness": 0
+  },
+  "q_060_B": {
+    "query_id": "q_060",
+    "system": "masdr_rag",
+    "llm_faithfulness": 0,
+    "llm_correctness": 0
+  },
+  "q_037_A": {
+    "query_id": "q_037",
+    "system": "monolithic",
+    "llm_faithfulness": 1,
+    "llm_correctness": 1
+  },
+  "q_037_B": {
+    "query_id": "q_037",
+    "system": "masdr_rag",
+    "llm_faithfulness": 0,
+    "llm_correctness": 1
+  },
+  "q_016_A": {
+    "query_id": "q_016",
+    "system": "monolithic",
+    "llm_faithfulness": 1,
+    "llm_correctness": 0
+  },
+  "q_016_B": {
+    "query_id": "q_016",
+    "system": "masdr_rag",
+    "llm_faithfulness": 0,
+    "llm_correctness": 1
+  },
+  "q_086_A": {
+    "query_id": "q_086",
+    "system": "masdr_rag",
+    "llm_faithfulness": 1,
+    "llm_correctness": 0
+  },
+  "q_086_B": {
+    "query_id": "q_086",
+    "system": "monolithic",
+    "llm_faithfulness": 0,
+    "llm_correctness": 0
+  },
+  "q_069_A": {
+    "query_id": "q_069",
+    "system": "masdr_rag",
+    "llm_faithfulness": 0,
+    "llm_correctness": 0
+  },
+  "q_069_B": {
+    "query_id": "q_069",
+    "system": "monolithic",
+    "llm_faithfulness": 1,
+    "llm_correctness": 0
+  },
+  "q_006_A": {
+    "query_id": "q_006",
+    "system": "monolithic",
+    "llm_faithfulness": 1,
+    "llm_correctness": 1
+  },
+  "q_006_B": {
+    "query_id": "q_006",
+    "system": "masdr_rag",
+    "llm_faithfulness": 0,
+    "llm_correctness": 0
+  },
+  "q_035_A": {
+    "query_id": "q_035",
+    "system": "monolithic",
+    "llm_faithfulness": 0,
+    "llm_correctness": 0
+  },
+  "q_035_B": {
+    "query_id": "q_035",
+    "system": "masdr_rag",
+    "llm_faithfulness": 0,
+    "llm_correctness": 1
+  },
+  "q_015_A": {
+    "query_id": "q_015",
+    "system": "masdr_rag",
+    "llm_faithfulness": 1,
+    "llm_correctness": 1
+  },
+  "q_015_B": {
+    "query_id": "q_015",
+    "system": "monolithic",
+    "llm_faithfulness": 1,
+    "llm_correctness": 1
+  },
+  "q_030_A": {
+    "query_id": "q_030",
+    "system": "masdr_rag",
+    "llm_faithfulness": 1,
+    "llm_correctness": 1
+  },
+  "q_030_B": {
+    "query_id": "q_030",
+    "system": "monolithic",
+    "llm_faithfulness": 1,
+    "llm_correctness": 1
+  },
+  "q_029_A": {
+    "query_id": "q_029",
+    "system": "monolithic",
+    "llm_faithfulness": 1,
+    "llm_correctness": 1
+  },
+  "q_029_B": {
+    "query_id": "q_029",
+    "system": "masdr_rag",
+    "llm_faithfulness": 1,
+    "llm_correctness": 1
+  },
+  "q_061_A": {
+    "query_id": "q_061",
+    "system": "monolithic",
+    "llm_faithfulness": 1,
+    "llm_correctness": 0
+  },
+  "q_061_B": {
+    "query_id": "q_061",
+    "system": "masdr_rag",
+    "llm_faithfulness": 0,
+    "llm_correctness": 0
+  },
+  "q_026_A": {
+    "query_id": "q_026",
+    "system": "monolithic",
+    "llm_faithfulness": 1,
+    "llm_correctness": 0
+  },
+  "q_026_B": {
+    "query_id": "q_026",
+    "system": "masdr_rag",
+    "llm_faithfulness": 0,
+    "llm_correctness": 0
+  },
+  "q_133_A": {
+    "query_id": "q_133",
+    "system": "monolithic",
+    "llm_faithfulness": 0,
+    "llm_correctness": 0
+  },
+  "q_133_B": {
+    "query_id": "q_133",
+    "system": "masdr_rag",
+    "llm_faithfulness": 0,
+    "llm_correctness": 1
+  },
+  "q_010_A": {
+    "query_id": "q_010",
+    "system": "monolithic",
+    "llm_faithfulness": 1,
+    "llm_correctness": 1
+  },
+  "q_010_B": {
+    "query_id": "q_010",
+    "system": "masdr_rag",
+    "llm_faithfulness": 0,
+    "llm_correctness": 0
+  },
+  "q_036_A": {
+    "query_id": "q_036",
+    "system": "masdr_rag",
+    "llm_faithfulness": 0,
+    "llm_correctness": 1
+  },
+  "q_036_B": {
+    "query_id": "q_036",
+    "system": "monolithic",
+    "llm_faithfulness": 0,
+    "llm_correctness": 0
+  },
+  "q_137_A": {
+    "query_id": "q_137",
+    "system": "monolithic",
+    "llm_faithfulness": 1,
+    "llm_correctness": 0
+  },
+  "q_137_B": {
+    "query_id": "q_137",
+    "system": "masdr_rag",
+    "llm_faithfulness": 0,
+    "llm_correctness": 1
+  }
+}

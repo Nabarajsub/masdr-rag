@@ -1,0 +1,1348 @@
+{
+  "corpus": "wydot",
+  "n_chunks": 217752,
+  "restrict_to": "",
+  "axes": [
+    {
+      "axis": "section",
+      "k": 10,
+      "overall_purity": 0.7792,
+      "overall_dilution": 0.2208,
+      "spearman_logchunks_delta": -0.6659,
+      "per_category": [
+        {
+          "category": "0 DRAFT FY2023 DRAFT HSP COVER PAGE.PDF",
+          "chunks": 531,
+          "knn_purity": 0.4968,
+          "dilution_delta": 0.5032
+        },
+        {
+          "category": "0.1B_2020 - FRONT INSIDE COVER",
+          "chunks": 210,
+          "knn_purity": 0.0781,
+          "dilution_delta": 0.9219
+        },
+        {
+          "category": "0802173_3GP",
+          "chunks": 16,
+          "knn_purity": 0.6562,
+          "dilution_delta": 0.3438
+        },
+        {
+          "category": "1 FY2021 DRAFT HSP DEMOGRAPHICS",
+          "chunks": 112,
+          "knn_purity": 0.0795,
+          "dilution_delta": 0.9205
+        },
+        {
+          "category": "1 FY2022 HSP DEMOGRAPHICS",
+          "chunks": 193,
+          "knn_purity": 0.1301,
+          "dilution_delta": 0.8699
+        },
+        {
+          "category": "1-7",
+          "chunks": 104,
+          "knn_purity": 0.2058,
+          "dilution_delta": 0.7942
+        },
+        {
+          "category": "1. INTRODUCTION AND SUMMARY OF FINDINGS",
+          "chunks": 2198,
+          "knn_purity": 0.8871,
+          "dilution_delta": 0.1129
+        },
+        {
+          "category": "1. WHO IS THE OWNER OF YOUR AIRPORT?",
+          "chunks": 235,
+          "knn_purity": 0.8187,
+          "dilution_delta": 0.1813
+        },
+        {
+          "category": "1BAM_N121098_1PL1",
+          "chunks": 23,
+          "knn_purity": 0.1217,
+          "dilution_delta": 0.8783
+        },
+        {
+          "category": "1BAM_N202050_1PL1",
+          "chunks": 27,
+          "knn_purity": 0.1667,
+          "dilution_delta": 0.8333
+        },
+        {
+          "category": "2-01 (FEB-2010).PDF",
+          "chunks": 12,
+          "knn_purity": 0.5,
+          "dilution_delta": 0.5
+        },
+        {
+          "category": "20.01 TITLE PAGE",
+          "chunks": 2160,
+          "knn_purity": 0.8329,
+          "dilution_delta": 0.1671
+        },
+        {
+          "category": "200601",
+          "chunks": 3,
+          "knn_purity": 0.1333,
+          "dilution_delta": 0.8667
+        },
+        {
+          "category": "2014 STRATEGIC PLAN - ATTACHMENTS.PDF",
+          "chunks": 234,
+          "knn_purity": 0.5197,
+          "dilution_delta": 0.4803
+        },
+        {
+          "category": "2018 CONSTRUCTION MANUAL REVISION SUMMARY",
+          "chunks": 12,
+          "knn_purity": 0.3,
+          "dilution_delta": 0.7
+        },
+        {
+          "category": "2019 HSCDS FINAL REPORT",
+          "chunks": 86,
+          "knn_purity": 0.5419,
+          "dilution_delta": 0.4581
+        },
+        {
+          "category": "2020_BLM_FHWA_WYDOT_MOU",
+          "chunks": 226,
+          "knn_purity": 0.765,
+          "dilution_delta": 0.235
+        },
+        {
+          "category": "2021",
+          "chunks": 16173,
+          "knn_purity": 0.898,
+          "dilution_delta": 0.102
+        },
+        {
+          "category": "2021 BROS DESIGN GUIDE - FINAL_SEPTEMBER-2021.PDF",
+          "chunks": 22,
+          "knn_purity": 0.3545,
+          "dilution_delta": 0.6455
+        },
+        {
+          "category": "2021 GUIDE FOR INTERSTATE HIGHWAYS - CHANGES ACCEPTED",
+          "chunks": 65,
+          "knn_purity": 0.3846,
+          "dilution_delta": 0.6154
+        },
+        {
+          "category": "2021 GUIDE FOR NON-NHS - CHANGES ACCEPTED",
+          "chunks": 80,
+          "knn_purity": 0.4437,
+          "dilution_delta": 0.5563
+        },
+        {
+          "category": "2021 MOTOCYCLE_FRONT COVER.PDF",
+          "chunks": 205,
+          "knn_purity": 0.1332,
+          "dilution_delta": 0.8668
+        },
+        {
+          "category": "2021_DRIVERLICENSEMANUAL_FRONT COVER.PDF",
+          "chunks": 191,
+          "knn_purity": 0.1183,
+          "dilution_delta": 0.8817
+        },
+        {
+          "category": "2022 1 - FRONT COVER",
+          "chunks": 3102,
+          "knn_purity": 0.5196,
+          "dilution_delta": 0.4804
+        },
+        {
+          "category": "2022 IRP MANUAL.PDF",
+          "chunks": 164,
+          "knn_purity": 0.328,
+          "dilution_delta": 0.672
+        },
+        {
+          "category": "2022 SHSP - VRU ADDENDUM",
+          "chunks": 1001,
+          "knn_purity": 0.1659,
+          "dilution_delta": 0.8341
+        },
+        {
+          "category": "2023 1 - FRONT COVER",
+          "chunks": 1870,
+          "knn_purity": 0.5208,
+          "dilution_delta": 0.4792
+        },
+        {
+          "category": "2023 2 - FRONT INSIDE COVER",
+          "chunks": 13184,
+          "knn_purity": 0.8655,
+          "dilution_delta": 0.1345
+        },
+        {
+          "category": "2024",
+          "chunks": 5241,
+          "knn_purity": 0.8208,
+          "dilution_delta": 0.1792
+        },
+        {
+          "category": "2024 2A - LETTER",
+          "chunks": 2129,
+          "knn_purity": 0.5539,
+          "dilution_delta": 0.4461
+        },
+        {
+          "category": "2025 3 - BODY",
+          "chunks": 548,
+          "knn_purity": 0.7974,
+          "dilution_delta": 0.2026
+        },
+        {
+          "category": "2025 HEAVY HIGHWAY PREVAILING WAGES 1",
+          "chunks": 28,
+          "knn_purity": 0.6071,
+          "dilution_delta": 0.3929
+        },
+        {
+          "category": "2026 CONSTRUCTION MANUAL REVISION SUMMARY",
+          "chunks": 1738,
+          "knn_purity": 0.1382,
+          "dilution_delta": 0.8618
+        },
+        {
+          "category": "210830_WY_FREIGHT_PLAN_FINAL OCTOBER 2022_CLEAN",
+          "chunks": 1047,
+          "knn_purity": 0.5908,
+          "dilution_delta": 0.4092
+        },
+        {
+          "category": "2BAM_1500006_1PL1",
+          "chunks": 917,
+          "knn_purity": 0.9935,
+          "dilution_delta": 0.0065
+        },
+        {
+          "category": "3B. JULY 20, 2023 EXECUTIVE SESSION MINUTES: IT WAS RECOMMENDED BY SECRETARY CASNER, MOVED BY COMMISSIONER WILLOX AND SECONDED BY COMMISSIONER DOLEZAL TO APPROVE THE JULY 20, 2023 EXECUTIVE SESSION MINUTES. THE MOTION CARRIED UNANIMOUSLY.",
+          "chunks": 48,
+          "knn_purity": 0.1188,
+          "dilution_delta": 0.8812
+        },
+        {
+          "category": "4-01 (2013 APR)",
+          "chunks": 61,
+          "knn_purity": 0.6574,
+          "dilution_delta": 0.3426
+        },
+        {
+          "category": "414-1B_01 (OCT_2018)",
+          "chunks": 15,
+          "knn_purity": 0.38,
+          "dilution_delta": 0.62
+        },
+        {
+          "category": "414-2_01 (OCT_2018)",
+          "chunks": 11,
+          "knn_purity": 0.4364,
+          "dilution_delta": 0.5636
+        },
+        {
+          "category": "444",
+          "chunks": 7,
+          "knn_purity": 0.2286,
+          "dilution_delta": 0.7714
+        },
+        {
+          "category": "5300 BISHOP BOULEVARD",
+          "chunks": 6,
+          "knn_purity": 0.1667,
+          "dilution_delta": 0.8333
+        },
+        {
+          "category": "6-29-17 DIRECTOR'S LETTER EFFICIENCY COMMISSION",
+          "chunks": 220,
+          "knn_purity": 0.6327,
+          "dilution_delta": 0.3673
+        },
+        {
+          "category": "603-1B (OCT_2020).PDF",
+          "chunks": 69,
+          "knn_purity": 0.9594,
+          "dilution_delta": 0.0406
+        },
+        {
+          "category": "608-1B_04 (JUL_2018)",
+          "chunks": 47,
+          "knn_purity": 0.7149,
+          "dilution_delta": 0.2851
+        },
+        {
+          "category": "702-1_1",
+          "chunks": 3161,
+          "knn_purity": 0.9999,
+          "dilution_delta": 0.0001
+        },
+        {
+          "category": "ACCIDENT AFFIDAVIT",
+          "chunks": 2,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "ACCIDENT RELEASE",
+          "chunks": 6,
+          "knn_purity": 0.3,
+          "dilution_delta": 0.7
+        },
+        {
+          "category": "ACCORDING TO NHTSA, THE SCHOOL BUS IS THE SAFEST VEHICLE ON THE ROAD. STUDENTS ARE ABOUT 70 TIMES MORE LIKELY TO GET TO SCHOOL SAFELY WHEN TAKING A SCHOOL BUS INSTEAD OF TRAVELING BY CAR. WHEN IT COMES TO SCHOOL BUS SAFETY CHILDREN SHOULD ARRIVE AT THE BUS STOP AT LEAST 5 MINUTES BEFORE THE BUS IS SCHEDULED TO ARRIVE AND PLAY IT SAFE: STAY FIVE STEPS AWAY FROM THE CURB; ALWAYS WAIT UNTIL THE BUS COMES TO A COMPLETE STOP AND THE BUS DRIVER SIGNALS IT\u2019S TIME TO BOARD; FACE FORWARD AFTER FINDING A SEAT ON THE BUS; EXIT THE BUS AFTER IT STOPS AND LOOK LEFT-RIGHT-LEFT FOR CARS BEFORE CROSSING A STREET.",
+          "chunks": 7,
+          "knn_purity": 0.1714,
+          "dilution_delta": 0.8286
+        },
+        {
+          "category": "ACKNOWLEDGMENTS",
+          "chunks": 175,
+          "knn_purity": 0.4423,
+          "dilution_delta": 0.5577
+        },
+        {
+          "category": "ACRONYMS",
+          "chunks": 1020,
+          "knn_purity": 0.7526,
+          "dilution_delta": 0.2474
+        },
+        {
+          "category": "ADA GUIDELINES 2021 REV 5-21",
+          "chunks": 120,
+          "knn_purity": 0.5783,
+          "dilution_delta": 0.4217
+        },
+        {
+          "category": "ADDITIONAL INFORMATION AND TECHNICAL ASSISTANCE",
+          "chunks": 68,
+          "knn_purity": 0.9485,
+          "dilution_delta": 0.0515
+        },
+        {
+          "category": "AFFIDAVIT OF COMPETENCY",
+          "chunks": 3,
+          "knn_purity": 0.0667,
+          "dilution_delta": 0.9333
+        },
+        {
+          "category": "AGENCY/ORGANIZATION APPLICATION FOR DISABLED PARKING IDENTIFICATION PLACARD",
+          "chunks": 6,
+          "knn_purity": 0.2333,
+          "dilution_delta": 0.7667
+        },
+        {
+          "category": "ALL 50 STATES AND WASHINGTON, D.C. HAVE ADOPTED \u201cMOVE OVER\u201d LAWS WITH THE GOAL OF PROTECTING INCIDENT RESPONDERS. IN JULY OF 2018, WYOMING ENACTED THE MOVE OVER LAW TO PROTECT EMERGENCY RESPONDERS AS WELL AS UTILITY, CONSTRUCTION, AND MAINTENANCE WORKERS ALONG WYOMING ROADWAYS. THIS LAW REQUIRES MOTORISTS TO SLOW DOWN AND MOVE OVER (IF POSSIBLE) FOR PARKED EMERGENCY RESPONDERS AND OTHERS WORKING ON THE SIDE OF THE ROAD.",
+          "chunks": 7,
+          "knn_purity": 0.1714,
+          "dilution_delta": 0.8286
+        },
+        {
+          "category": "APP A - PUBLIC ENGAGEMENT",
+          "chunks": 131,
+          "knn_purity": 0.7557,
+          "dilution_delta": 0.2443
+        },
+        {
+          "category": "APPENDIX B PPP FHWA LEGIS_MODEL.PDF",
+          "chunks": 440,
+          "knn_purity": 0.6834,
+          "dilution_delta": 0.3166
+        },
+        {
+          "category": "APPLICATION",
+          "chunks": 7,
+          "knn_purity": 0.1857,
+          "dilution_delta": 0.8143
+        },
+        {
+          "category": "APPLICATION FOR DISABLED PARKING IDENTIFICATION PLACARD",
+          "chunks": 7,
+          "knn_purity": 0.1429,
+          "dilution_delta": 0.8571
+        },
+        {
+          "category": "APX NEXT DATA SHEET",
+          "chunks": 89,
+          "knn_purity": 0.6966,
+          "dilution_delta": 0.3034
+        },
+        {
+          "category": "AP_BAM_I252137_7AP1",
+          "chunks": 4089,
+          "knn_purity": 0.9896,
+          "dilution_delta": 0.0104
+        },
+        {
+          "category": "AVISO AL P\u00daBLICO DEL T\u00cdTULO VI DEL WYDOT",
+          "chunks": 3,
+          "knn_purity": 0.0667,
+          "dilution_delta": 0.9333
+        },
+        {
+          "category": "BAMS_ORIGINAL",
+          "chunks": 11,
+          "knn_purity": 0.0455,
+          "dilution_delta": 0.9545
+        },
+        {
+          "category": "BEHIND-THE-WHEEL DRIVING LOG",
+          "chunks": 4,
+          "knn_purity": 0.125,
+          "dilution_delta": 0.875
+        },
+        {
+          "category": "BIDABSTRACTSUMMARY",
+          "chunks": 13,
+          "knn_purity": 0.4154,
+          "dilution_delta": 0.5846
+        },
+        {
+          "category": "BKR 5000 SPEC SHEET 6-29-20",
+          "chunks": 45,
+          "knn_purity": 0.8489,
+          "dilution_delta": 0.1511
+        },
+        {
+          "category": "BLANK PAGE",
+          "chunks": 1862,
+          "knn_purity": 0.8831,
+          "dilution_delta": 0.1169
+        },
+        {
+          "category": "BRIDGE OVER LARAMIE RIVER.PDF",
+          "chunks": 1803,
+          "knn_purity": 0.9891,
+          "dilution_delta": 0.0109
+        },
+        {
+          "category": "BRIDGE OVER MILL CREEK.PDF",
+          "chunks": 396,
+          "knn_purity": 0.8,
+          "dilution_delta": 0.2
+        },
+        {
+          "category": "BRIDGE OVER NORTH LARAMIE RIVER.PDF",
+          "chunks": 575,
+          "knn_purity": 0.828,
+          "dilution_delta": 0.172
+        },
+        {
+          "category": "C. CONSIDERATION OF THE PROPOSED FY 2027-31 WACIP PLAN (INDEX TAB 14) \u2013 MR. SCHUTZMAN \u2013 VOTE",
+          "chunks": 2,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "CASPER EAST BELT LOOP CORRIDOR STUDY",
+          "chunks": 353,
+          "knn_purity": 0.7705,
+          "dilution_delta": 0.2295
+        },
+        {
+          "category": "CAT-PORTFEATLIST-7490",
+          "chunks": 1533,
+          "knn_purity": 0.9992,
+          "dilution_delta": 0.0008
+        },
+        {
+          "category": "CC-101 CERTIFICATION OF ESTABLISHED PLACE OF BUSINESS OR RESIDENCY 2022-12.PDF",
+          "chunks": 16,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "CC-112 NEW IRP CUSTOMER PACKET 2024-03 (4).PDF",
+          "chunks": 106,
+          "knn_purity": 0.2557,
+          "dilution_delta": 0.7443
+        },
+        {
+          "category": "CC-113 IFTA ACCOUNT CHECK LIST FOR CUSTOMERS AND WEBSITE 2024-03.PDF",
+          "chunks": 39,
+          "knn_purity": 0.1128,
+          "dilution_delta": 0.8872
+        },
+        {
+          "category": "CDLMANUALUPDATE_SEPT2024.PDF",
+          "chunks": 649,
+          "knn_purity": 0.4401,
+          "dilution_delta": 0.5599
+        },
+        {
+          "category": "CHAPTER 1",
+          "chunks": 81,
+          "knn_purity": 0.3951,
+          "dilution_delta": 0.6049
+        },
+        {
+          "category": "CHAPTER 1 INTRODUCTION",
+          "chunks": 166,
+          "knn_purity": 0.7331,
+          "dilution_delta": 0.2669
+        },
+        {
+          "category": "CHAPTER 1 \u2013 INTRODUCTION",
+          "chunks": 304,
+          "knn_purity": 0.8438,
+          "dilution_delta": 0.1562
+        },
+        {
+          "category": "CHAPTER 1 \u2013 PRELIMINARY ENGINEERING",
+          "chunks": 1700,
+          "knn_purity": 0.1412,
+          "dilution_delta": 0.8588
+        },
+        {
+          "category": "CHAPTER 10",
+          "chunks": 8,
+          "knn_purity": 0.2625,
+          "dilution_delta": 0.7375
+        },
+        {
+          "category": "CHAPTER 2",
+          "chunks": 91,
+          "knn_purity": 0.4132,
+          "dilution_delta": 0.5868
+        },
+        {
+          "category": "CHAPTER 3",
+          "chunks": 456,
+          "knn_purity": 0.6518,
+          "dilution_delta": 0.3482
+        },
+        {
+          "category": "CHAPTER 4",
+          "chunks": 321,
+          "knn_purity": 0.5639,
+          "dilution_delta": 0.4361
+        },
+        {
+          "category": "CHAPTER 5",
+          "chunks": 46,
+          "knn_purity": 0.3022,
+          "dilution_delta": 0.6978
+        },
+        {
+          "category": "CHAPTER 6",
+          "chunks": 46,
+          "knn_purity": 0.5891,
+          "dilution_delta": 0.4109
+        },
+        {
+          "category": "CHAPTER 7",
+          "chunks": 16,
+          "knn_purity": 0.6375,
+          "dilution_delta": 0.3625
+        },
+        {
+          "category": "CHAPTER 8",
+          "chunks": 30,
+          "knn_purity": 0.44,
+          "dilution_delta": 0.56
+        },
+        {
+          "category": "CHAPTER 9",
+          "chunks": 41,
+          "knn_purity": 0.8122,
+          "dilution_delta": 0.1878
+        },
+        {
+          "category": "CHAPTER I",
+          "chunks": 398,
+          "knn_purity": 0.8751,
+          "dilution_delta": 0.1249
+        },
+        {
+          "category": "CHAPTER II",
+          "chunks": 70,
+          "knn_purity": 0.5243,
+          "dilution_delta": 0.4757
+        },
+        {
+          "category": "CHAPTERS",
+          "chunks": 4425,
+          "knn_purity": 0.9737,
+          "dilution_delta": 0.0263
+        },
+        {
+          "category": "CITATION",
+          "chunks": 76,
+          "knn_purity": 0.2197,
+          "dilution_delta": 0.7803
+        },
+        {
+          "category": "COLLABORATION FACILITATORS \u2013 MAY 2025",
+          "chunks": 1,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "COMMISSIONS",
+          "chunks": 43,
+          "knn_purity": 0.0953,
+          "dilution_delta": 0.9047
+        },
+        {
+          "category": "COMPILED SUPPORT.PDF",
+          "chunks": 42,
+          "knn_purity": 0.3524,
+          "dilution_delta": 0.6476
+        },
+        {
+          "category": "CONTENTS",
+          "chunks": 201,
+          "knn_purity": 0.806,
+          "dilution_delta": 0.194
+        },
+        {
+          "category": "COUNTY: ALBANY",
+          "chunks": 30,
+          "knn_purity": 0.1633,
+          "dilution_delta": 0.8367
+        },
+        {
+          "category": "COUNTY: CAMPBELL",
+          "chunks": 20,
+          "knn_purity": 0.075,
+          "dilution_delta": 0.925
+        },
+        {
+          "category": "COVER",
+          "chunks": 2536,
+          "knn_purity": 0.9731,
+          "dilution_delta": 0.0269
+        },
+        {
+          "category": "COVER 2021 NHS - REDUCED",
+          "chunks": 70,
+          "knn_purity": 0.4171,
+          "dilution_delta": 0.5829
+        },
+        {
+          "category": "DCE ESCALATION",
+          "chunks": 2,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "DE ESCALATION",
+          "chunks": 2,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "DIRECTIONS",
+          "chunks": 6,
+          "knn_purity": 0.4333,
+          "dilution_delta": 0.5667
+        },
+        {
+          "category": "DOT.GOV",
+          "chunks": 350,
+          "knn_purity": 0.8774,
+          "dilution_delta": 0.1226
+        },
+        {
+          "category": "DOUBLE 10 X 5 PRECAST BOX CULVERT",
+          "chunks": 143,
+          "knn_purity": 0.742,
+          "dilution_delta": 0.258
+        },
+        {
+          "category": "DRAFT 1",
+          "chunks": 16682,
+          "knn_purity": 0.9252,
+          "dilution_delta": 0.0748
+        },
+        {
+          "category": "DRAFT MINUTES",
+          "chunks": 23,
+          "knn_purity": 0.0739,
+          "dilution_delta": 0.9261
+        },
+        {
+          "category": "DRIVER MEDICAL EVALUATION",
+          "chunks": 6,
+          "knn_purity": 0.1167,
+          "dilution_delta": 0.8833
+        },
+        {
+          "category": "E-109 PIT RELEASE STATEMENT INSTRUCTIONS",
+          "chunks": 3,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "E-114 PROJECT ORIGINATION FORM INSTRUCTIONS(NOT EXTENDED FOR ADOBE READER)",
+          "chunks": 6,
+          "knn_purity": 0.2333,
+          "dilution_delta": 0.7667
+        },
+        {
+          "category": "E-117 CONCRETE BATCH TICKET INSTRUCTIONS REV. 7-18.PDF",
+          "chunks": 5,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "E-118 LABOR COMPLIANCE INTERVIEW INSTRUCTIONS REV. 10-13",
+          "chunks": 3,
+          "knn_purity": 0.0667,
+          "dilution_delta": 0.9333
+        },
+        {
+          "category": "E-125R ROYALTY INSTRUCTIONS",
+          "chunks": 3,
+          "knn_purity": 0.1333,
+          "dilution_delta": 0.8667
+        },
+        {
+          "category": "E-139 CERTIFICATION OF SUBCONTRACT PAYMENT INSTRUCTIONS REV. 1-14.PDF",
+          "chunks": 4,
+          "knn_purity": 0.15,
+          "dilution_delta": 0.85
+        },
+        {
+          "category": "E-15 ENVIRONMENTAL IMPACT EVALUATION INSTRUCTIONS REV. 1-15",
+          "chunks": 6,
+          "knn_purity": 0.0833,
+          "dilution_delta": 0.9167
+        },
+        {
+          "category": "E-18 SUPPLIERS QUOTE FOR ADJUSTMENT INSTRUCTIONS REV. 4-15",
+          "chunks": 3,
+          "knn_purity": 0.0667,
+          "dilution_delta": 0.9333
+        },
+        {
+          "category": "E-67A DAILY FORCE ACCOUNT RECORD INSTRUCTIONS REV. 4-15",
+          "chunks": 3,
+          "knn_purity": 0.0667,
+          "dilution_delta": 0.9333
+        },
+        {
+          "category": "E-67_FORCE ACCOUNT RECORD INSTRUCTIONS REV. 10-13",
+          "chunks": 4,
+          "knn_purity": 0.05,
+          "dilution_delta": 0.95
+        },
+        {
+          "category": "E-80 MOBILE MACHINERY CERTIFICATION INSTRUCTIONS REV. 3-14",
+          "chunks": 2,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "E-95A WATER TANK VOLUME VERIFICATION INSTRUCTIONS REV. 10-19.PDF",
+          "chunks": 4,
+          "knn_purity": 0.125,
+          "dilution_delta": 0.875
+        },
+        {
+          "category": "ESS RESPONSESS, 2019 PRELIM - COMPARED WITH 2017, 2015, 2013, 2011.PDF",
+          "chunks": 75,
+          "knn_purity": 0.312,
+          "dilution_delta": 0.688
+        },
+        {
+          "category": "EXACC1",
+          "chunks": 1079,
+          "knn_purity": 0.9866,
+          "dilution_delta": 0.0134
+        },
+        {
+          "category": "EXEC SUMMARY PAGE 8.31.21",
+          "chunks": 9,
+          "knn_purity": 0.2,
+          "dilution_delta": 0.8
+        },
+        {
+          "category": "EXECUTIVE SUMMARY",
+          "chunks": 44,
+          "knn_purity": 0.4,
+          "dilution_delta": 0.6
+        },
+        {
+          "category": "F. UAS PROGRAM UPDATE \u2013 MS. TAYLOR",
+          "chunks": 8,
+          "knn_purity": 0.3,
+          "dilution_delta": 0.7
+        },
+        {
+          "category": "FINAL IMPLEMENTATION REPORT_FINAL MARCH 2018",
+          "chunks": 1445,
+          "knn_purity": 0.9076,
+          "dilution_delta": 0.0924
+        },
+        {
+          "category": "FORM E-15",
+          "chunks": 19,
+          "knn_purity": 0.1526,
+          "dilution_delta": 0.8474
+        },
+        {
+          "category": "FRONT COVER",
+          "chunks": 474,
+          "knn_purity": 0.7624,
+          "dilution_delta": 0.2376
+        },
+        {
+          "category": "FRONT COVER.PDF",
+          "chunks": 1590,
+          "knn_purity": 0.7168,
+          "dilution_delta": 0.2832
+        },
+        {
+          "category": "FUEL TAX SURETY BOND INSTRUCTIONS",
+          "chunks": 4,
+          "knn_purity": 0.075,
+          "dilution_delta": 0.925
+        },
+        {
+          "category": "FY 2025 2ND QUARTER UPDATE",
+          "chunks": 242,
+          "knn_purity": 0.9917,
+          "dilution_delta": 0.0083
+        },
+        {
+          "category": "FY 2025 OCTOBER ADDENDUM",
+          "chunks": 120,
+          "knn_purity": 0.605,
+          "dilution_delta": 0.395
+        },
+        {
+          "category": "FY23 ANNUAL REPORT TO THE STATE BUDGET DEPT",
+          "chunks": 46,
+          "knn_purity": 0.2435,
+          "dilution_delta": 0.7565
+        },
+        {
+          "category": "GENERAL",
+          "chunks": 38392,
+          "knn_purity": 0.7458,
+          "dilution_delta": 0.2542
+        },
+        {
+          "category": "GENERAL INFORMATION",
+          "chunks": 99,
+          "knn_purity": 0.6343,
+          "dilution_delta": 0.3657
+        },
+        {
+          "category": "HOW TO FILE A GRIEVANCE",
+          "chunks": 10,
+          "knn_purity": 0.33,
+          "dilution_delta": 0.67
+        },
+        {
+          "category": "IAS_INTEROP_BROCHURE",
+          "chunks": 60,
+          "knn_purity": 0.9167,
+          "dilution_delta": 0.0833
+        },
+        {
+          "category": "II. NONDISCRIMINATION",
+          "chunks": 83,
+          "knn_purity": 0.2386,
+          "dilution_delta": 0.7614
+        },
+        {
+          "category": "II. NONDISCRIMINATION (23 CFR 230.107(A); 23 CFR PART 230, SUBPART A, APPENDIX A; EO 11246)",
+          "chunks": 102,
+          "knn_purity": 0.2784,
+          "dilution_delta": 0.7216
+        },
+        {
+          "category": "INDEPENDENT ASSURANCE MANUAL",
+          "chunks": 52,
+          "knn_purity": 0.8519,
+          "dilution_delta": 0.1481
+        },
+        {
+          "category": "INTERSTATE CERTIFICATION",
+          "chunks": 21,
+          "knn_purity": 0.1286,
+          "dilution_delta": 0.8714
+        },
+        {
+          "category": "INTRODUCTION",
+          "chunks": 24828,
+          "knn_purity": 0.9886,
+          "dilution_delta": 0.0114
+        },
+        {
+          "category": "JANUARY, 2025 MONTHLY VOLUME REPORT",
+          "chunks": 38,
+          "knn_purity": 0.3158,
+          "dilution_delta": 0.6842
+        },
+        {
+          "category": "LIST OF FIGURES",
+          "chunks": 411,
+          "knn_purity": 0.6187,
+          "dilution_delta": 0.3813
+        },
+        {
+          "category": "LOCAL DISK",
+          "chunks": 20,
+          "knn_purity": 0.93,
+          "dilution_delta": 0.07
+        },
+        {
+          "category": "LOCATE RACE, OWNERSHIP AND AGE OF FIRM TABS",
+          "chunks": 1,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "MATERIALS TESTING MANUAL",
+          "chunks": 4160,
+          "knn_purity": 0.6915,
+          "dilution_delta": 0.3085
+        },
+        {
+          "category": "MATERIALS TESTING MANUAL - APPENDIX: VOLUMETRICS",
+          "chunks": 339,
+          "knn_purity": 0.608,
+          "dilution_delta": 0.392
+        },
+        {
+          "category": "MINUTES - 02.15.17",
+          "chunks": 26,
+          "knn_purity": 0.1269,
+          "dilution_delta": 0.8731
+        },
+        {
+          "category": "MODULAR BLOCK RETAINING WALL.PDF",
+          "chunks": 28,
+          "knn_purity": 0.725,
+          "dilution_delta": 0.275
+        },
+        {
+          "category": "MONTHLY HOURLY VOLUME_00006W1-2025",
+          "chunks": 2461,
+          "knn_purity": 0.2752,
+          "dilution_delta": 0.7248
+        },
+        {
+          "category": "MONTHLY HOURLY VOLUME_00006W2-2025",
+          "chunks": 2378,
+          "knn_purity": 0.2823,
+          "dilution_delta": 0.7177
+        },
+        {
+          "category": "MONTHLY HOURLY VOLUME_00006W3-2025",
+          "chunks": 2711,
+          "knn_purity": 0.2441,
+          "dilution_delta": 0.7559
+        },
+        {
+          "category": "MONTHLY HOURLY VOLUME_0008NB4-2025",
+          "chunks": 2699,
+          "knn_purity": 0.2472,
+          "dilution_delta": 0.7528
+        },
+        {
+          "category": "MONTHLY HOURLY VOLUME_0008NB6-2025",
+          "chunks": 2641,
+          "knn_purity": 0.2554,
+          "dilution_delta": 0.7446
+        },
+        {
+          "category": "MONTHLY HOURLY VOLUME_0008NB7-2025",
+          "chunks": 2629,
+          "knn_purity": 0.2552,
+          "dilution_delta": 0.7448
+        },
+        {
+          "category": "MONTHLY HOURLY VOLUME_0008NB8-2025",
+          "chunks": 2812,
+          "knn_purity": 0.2762,
+          "dilution_delta": 0.7238
+        },
+        {
+          "category": "NAVIGATE",
+          "chunks": 13,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "NMVTIS MANUAL",
+          "chunks": 188,
+          "knn_purity": 0.9309,
+          "dilution_delta": 0.0691
+        },
+        {
+          "category": "NON-RESIDENT PROOF OF FINANCIAL RESPONSIBILITY",
+          "chunks": 2,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "OA RULES AND REGULATIONS.PDF",
+          "chunks": 59,
+          "knn_purity": 0.6475,
+          "dilution_delta": 0.3525
+        },
+        {
+          "category": "OF THE 50 FATAL CRASHES SO FAR THIS YEAR, IT IS UNKNOWN WHETHER 26 OF THOSE DRIVERS HAD NO DISTRACTIONS. THREE DRIVERS WERE DISTRACTED, AND 40 WERE NOT.",
+          "chunks": 71,
+          "knn_purity": 0.4972,
+          "dilution_delta": 0.5028
+        },
+        {
+          "category": "OVERVIEW",
+          "chunks": 136,
+          "knn_purity": 0.1824,
+          "dilution_delta": 0.8176
+        },
+        {
+          "category": "PACKET COVER",
+          "chunks": 217,
+          "knn_purity": 0.4507,
+          "dilution_delta": 0.5493
+        },
+        {
+          "category": "PACKET INDEX",
+          "chunks": 653,
+          "knn_purity": 0.6372,
+          "dilution_delta": 0.3628
+        },
+        {
+          "category": "PAGE 1",
+          "chunks": 423,
+          "knn_purity": 0.5009,
+          "dilution_delta": 0.4991
+        },
+        {
+          "category": "PAGES FROM FFY2025 WYOMING'S ANNUAL GRANT APPLICATION.PDF",
+          "chunks": 81,
+          "knn_purity": 0.121,
+          "dilution_delta": 0.879
+        },
+        {
+          "category": "PAGES FROM FY 2025 DRAFT STIP.PDF",
+          "chunks": 587,
+          "knn_purity": 0.122,
+          "dilution_delta": 0.878
+        },
+        {
+          "category": "PAGES FROM WY_FY24_PROJECT WRITE-UPS.PDF",
+          "chunks": 57,
+          "knn_purity": 0.1246,
+          "dilution_delta": 0.8754
+        },
+        {
+          "category": "PEDESTRIAN / BICYCLE",
+          "chunks": 10,
+          "knn_purity": 0.14,
+          "dilution_delta": 0.86
+        },
+        {
+          "category": "PROGRAM MAINTENANCE",
+          "chunks": 67,
+          "knn_purity": 0.8836,
+          "dilution_delta": 0.1164
+        },
+        {
+          "category": "RATES & CHARGES 2024",
+          "chunks": 322,
+          "knn_purity": 0.8525,
+          "dilution_delta": 0.1475
+        },
+        {
+          "category": "RE ESCALATION",
+          "chunks": 2,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "REINFORCED CONCRETE CANTILEVER RETAINING WALL.PDF",
+          "chunks": 47,
+          "knn_purity": 0.7957,
+          "dilution_delta": 0.2043
+        },
+        {
+          "category": "RIS-TIS SLIDE ONLY WCCA PRESENTATION FALL 2021(7)FINAL.PDF",
+          "chunks": 10,
+          "knn_purity": 0.43,
+          "dilution_delta": 0.57
+        },
+        {
+          "category": "SALVAGE YARD REQUIREMENTS",
+          "chunks": 8,
+          "knn_purity": 0.0875,
+          "dilution_delta": 0.9125
+        },
+        {
+          "category": "SAM FOR BAMS",
+          "chunks": 77,
+          "knn_purity": 0.4701,
+          "dilution_delta": 0.5299
+        },
+        {
+          "category": "SECTION 1",
+          "chunks": 69,
+          "knn_purity": 0.4232,
+          "dilution_delta": 0.5768
+        },
+        {
+          "category": "SECTION 2",
+          "chunks": 47,
+          "knn_purity": 0.6149,
+          "dilution_delta": 0.3851
+        },
+        {
+          "category": "SECTION 4",
+          "chunks": 239,
+          "knn_purity": 0.528,
+          "dilution_delta": 0.472
+        },
+        {
+          "category": "SECTION 4-2 - REV NOV 2019",
+          "chunks": 90,
+          "knn_purity": 0.1333,
+          "dilution_delta": 0.8667
+        },
+        {
+          "category": "SECTION 4.07-ABUTMENTS",
+          "chunks": 10,
+          "knn_purity": 0.18,
+          "dilution_delta": 0.82
+        },
+        {
+          "category": "SECTION 4.10 - STANDARD BRIDGE RAILING SHEETS_W_ALL_SHTS_5-31-24",
+          "chunks": 58,
+          "knn_purity": 0.2517,
+          "dilution_delta": 0.7483
+        },
+        {
+          "category": "SECTION 6",
+          "chunks": 26,
+          "knn_purity": 0.4115,
+          "dilution_delta": 0.5885
+        },
+        {
+          "category": "SECTION 9",
+          "chunks": 3,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SHEET1",
+          "chunks": 8,
+          "knn_purity": 0.5125,
+          "dilution_delta": 0.4875
+        },
+        {
+          "category": "SHEET3",
+          "chunks": 10,
+          "knn_purity": 0.89,
+          "dilution_delta": 0.11
+        },
+        {
+          "category": "SIGPOL1E03_V8",
+          "chunks": 105,
+          "knn_purity": 0.4848,
+          "dilution_delta": 0.5152
+        },
+        {
+          "category": "SINGLE 8 X 8 BOX CULVERT.PDF",
+          "chunks": 87,
+          "knn_purity": 0.7379,
+          "dilution_delta": 0.2621
+        },
+        {
+          "category": "SINGLE 8 X 8 PRECAST BOX CULVERT.PDF",
+          "chunks": 79,
+          "knn_purity": 0.5987,
+          "dilution_delta": 0.4013
+        },
+        {
+          "category": "SLIDE NUMBER 1",
+          "chunks": 4,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "STAGE 2 \u2013 PRELIMINARY SCREENING",
+          "chunks": 5,
+          "knn_purity": 0.04,
+          "dilution_delta": 0.96
+        },
+        {
+          "category": "STAKEHOLDER MEETING",
+          "chunks": 1936,
+          "knn_purity": 0.9825,
+          "dilution_delta": 0.0175
+        },
+        {
+          "category": "STD_LEFT SKEW MASH APPROACH_AP1",
+          "chunks": 79,
+          "knn_purity": 0.7367,
+          "dilution_delta": 0.2633
+        },
+        {
+          "category": "STRATEGIC PLAN COVER PAGE",
+          "chunks": 229,
+          "knn_purity": 0.4515,
+          "dilution_delta": 0.5485
+        },
+        {
+          "category": "STRUCTURE BOOKMARKS",
+          "chunks": 210,
+          "knn_purity": 0.9743,
+          "dilution_delta": 0.0257
+        },
+        {
+          "category": "STSIGPOL1E03_V8",
+          "chunks": 105,
+          "knn_purity": 0.5029,
+          "dilution_delta": 0.4971
+        },
+        {
+          "category": "SUBMITTAL DIRECTIONS",
+          "chunks": 8,
+          "knn_purity": 0.3,
+          "dilution_delta": 0.7
+        },
+        {
+          "category": "TAB 1 - DRAFT AGENDA MARCH 4, 2025",
+          "chunks": 10,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "TABLE AND COUNTY SUM_FINAL_20240807.PDF",
+          "chunks": 13091,
+          "knn_purity": 0.9993,
+          "dilution_delta": 0.0007
+        },
+        {
+          "category": "TABLE OF CONTENTS",
+          "chunks": 209,
+          "knn_purity": 0.6684,
+          "dilution_delta": 0.3316
+        },
+        {
+          "category": "THE ACCIDENT IN THE I-80 TUNNELS BROUGHT IN THE NATIONAL TRANSPORTATION SAFETY BOARD TO INVESTIGATE. WYDOT AND WHP STAFF ARE WORKING TO PROVIDE ALL REQUESTED DOCUMENTS AS WELL AS CAMERA IMAGES AND TIMELINES. LIDAR HAS BEEN USED TO MAP OUT THE TUNNEL D...",
+          "chunks": 48,
+          "knn_purity": 0.1167,
+          "dilution_delta": 0.8833
+        },
+        {
+          "category": "UNDYED DIESEL FUEL ONLY",
+          "chunks": 3,
+          "knn_purity": 0.0667,
+          "dilution_delta": 0.9333
+        },
+        {
+          "category": "UNTITLED",
+          "chunks": 11,
+          "knn_purity": 0.1182,
+          "dilution_delta": 0.8818
+        },
+        {
+          "category": "US 30 WHITNEY ROAD/ DELL RANGE BLVD APRIL 13, 2022",
+          "chunks": 2,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "US 30 WHITNEY ROAD/ DELL RANGE BLVD FEBRUARY 13, 2024",
+          "chunks": 9,
+          "knn_purity": 0.5556,
+          "dilution_delta": 0.4444
+        },
+        {
+          "category": "USE FILE NAME: I804117_13SS1.DGN",
+          "chunks": 38,
+          "knn_purity": 0.1684,
+          "dilution_delta": 0.8316
+        },
+        {
+          "category": "V. APPROVAL OF MINUTES",
+          "chunks": 49,
+          "knn_purity": 0.1551,
+          "dilution_delta": 0.8449
+        },
+        {
+          "category": "VERTICAL ALIGNMENT",
+          "chunks": 49,
+          "knn_purity": 0.698,
+          "dilution_delta": 0.302
+        },
+        {
+          "category": "VI. UPDATES/DISCUSSIONS",
+          "chunks": 37,
+          "knn_purity": 0.1108,
+          "dilution_delta": 0.8892
+        },
+        {
+          "category": "VII. UPDATES/DISCUSSIONS",
+          "chunks": 18,
+          "knn_purity": 0.0667,
+          "dilution_delta": 0.9333
+        },
+        {
+          "category": "WITNESS/COMPLAINANT STATEMENT",
+          "chunks": 8,
+          "knn_purity": 0.2,
+          "dilution_delta": 0.8
+        },
+        {
+          "category": "WORK ZONE SAFETY 32",
+          "chunks": 131,
+          "knn_purity": 0.1809,
+          "dilution_delta": 0.8191
+        },
+        {
+          "category": "WYDOT EMPLOYEE SATISFACTION SURVEY, 2021",
+          "chunks": 7,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "WYOMING ASEP 2020 ROI ANALYSIS REVISED FINAL.PDF",
+          "chunks": 84,
+          "knn_purity": 0.1071,
+          "dilution_delta": 0.8929
+        },
+        {
+          "category": "WYOMING BICYCLE & PEDESTRIAN TRANSPORTATION PLAN",
+          "chunks": 3630,
+          "knn_purity": 1.0,
+          "dilution_delta": 0.0
+        },
+        {
+          "category": "WYOMING DEPARTMENT OF TRANSPORTATION",
+          "chunks": 18,
+          "knn_purity": 0.1556,
+          "dilution_delta": 0.8444
+        },
+        {
+          "category": "WYOMING MOTOR FUEL LICENSE APPLICATION",
+          "chunks": 15,
+          "knn_purity": 0.24,
+          "dilution_delta": 0.76
+        },
+        {
+          "category": "WYOMING TERMINAL OPERATOR LICENSE APPLICATION",
+          "chunks": 9,
+          "knn_purity": 0.0889,
+          "dilution_delta": 0.9111
+        },
+        {
+          "category": "WYSASP TITLE PAGES V1",
+          "chunks": 1886,
+          "knn_purity": 0.8407,
+          "dilution_delta": 0.1593
+        }
+      ]
+    }
+  ]
+}

@@ -183,7 +183,13 @@ def main():
     ap.add_argument("--queries", default=str(QUERIES_PATH))
     ap.add_argument("--limit", type=int, default=None)
     ap.add_argument("--out", default=None)
+    ap.add_argument("--shared-answer-prompt", action="store_true",
+                    help="Force the shared corpus-neutral answer/system prompts (see naive_rag).")
     args = ap.parse_args()
+    if args.shared_answer_prompt:
+        from emnlp_evaluation.agents.naive_rag import set_shared_answer_prompt, _ANSWER_PROMPT
+        set_shared_answer_prompt(_ANSWER_PROMPT)
+        print("[prompt-control] shared corpus-neutral prompts active")
 
     systems = [s.strip() for s in args.systems.split(",")]
     source_filters = _build_catalog()

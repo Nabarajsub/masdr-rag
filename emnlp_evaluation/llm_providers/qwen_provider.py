@@ -9,6 +9,8 @@ Reference: https://qwen.readthedocs.io/en/latest/framework/function_call.html
 """
 from __future__ import annotations
 
+import os
+
 import json
 import re
 import time
@@ -101,6 +103,10 @@ class QwenProvider:
         temperature: float = 0.2,
         stop: Optional[List[str]] = None,
     ) -> GenerationResult:
+        # GEN_TEMPERATURE overrides sampled (temperature > 0) generation only, so a
+        # run can be made greedy without touching the already-greedy router/judge calls.
+        if temperature > 0 and "GEN_TEMPERATURE" in os.environ:
+            temperature = float(os.environ["GEN_TEMPERATURE"])
         return self._generate(
             messages,
             tools=None,

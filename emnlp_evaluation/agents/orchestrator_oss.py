@@ -42,8 +42,12 @@ def run_orchestrator(
     max_hops: int = MAX_TOOL_HOPS,
 ) -> RunTrace:
     tools = build_tool_catalog()
+    from . import tool_catalog as _tc
+    system_prompt = (_tc.ORCHESTRATOR_SYSTEM_NEUTRAL
+                     if getattr(_tc, "USE_NEUTRAL_ORCHESTRATOR", False)
+                     else _tc.ORCHESTRATOR_SYSTEM)
     messages: List[Dict[str, Any]] = [
-        {"role": "system", "content": ORCHESTRATOR_SYSTEM},
+        {"role": "system", "content": system_prompt},
         {"role": "user", "content": query},
     ]
     trace = RunTrace()

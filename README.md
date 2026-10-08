@@ -1,8 +1,8 @@
 # MASDR-RAG — Reproducibility Package
 
 Code, datasets, and evaluation artifacts for the anonymous ARR submission
-*"When More Documents Hurt RAG: Mitigating Vector Search Dilution with
-Domain-Scoped, Model-Agnostic Retrieval"* (Submission 13333).
+*"When More Documents Hurt RAG: Measuring and Reducing Vector Search Dilution
+with Domain-Scoped Retrieval"* (ARR resubmission of Submission 13333).
 
 Every quantitative claim in the paper is traceable to a script in this
 repository, and **every results table can be recomputed on a laptop (no GPU)**
@@ -25,20 +25,36 @@ from the released judged evaluation logs (`data/results/`).
 │   ├── composite_corpus/  EnterpriseComposite-9 assembly
 │   ├── configs/           all configuration via environment variables
 │   └── slurm/             SLURM submission scripts used for the paper
-├── multi_dot/             §9 cross-DOT pipeline: chunk → embed → dilution δ
-├── scrapers/              polite single-threaded DOT website crawler (§9)
+├── multi_dot/             §3.4 seven-DOT pipeline: scrape → chunk → embed → dilution δ,
+│                          plus scope discovery (discover_scopes.py, §7)
+├── scrapers/              polite single-threaded DOT website crawler (§3.4)
 ├── agentic_solution/      shared scope-filter config (import dependency)
 └── data/
     ├── queries/           ★ the datasets ★ — see data/README.md
-    │   ├── wydot_test_suite_200.json   200 expert-validated WYDOT queries
+    │   ├── wydot_test_suite_200.json   200 human-validated WYDOT queries
     │   ├── composite_queries.json      225 Composite-9 queries
+    │   ├── wydotv3_queries.json        WYDOT suite with hand / discovered scope labels
     │   └── {multihop_rag,mmlu_pro,nq,financebench}_queries.json
     ├── judge_chunk_dbs/   chunk-id → text databases for the judge (gz)
     ├── results/           judged per-query evaluation logs (gz) — recompute
     │                      any paper table without running a model
-    ├── dilution/          per-category dilution δ for WYDOT/CDOT/Caltrans
+    ├── dilution/          per-category dilution δ for all seven DOTs
+    ├── human_eval/        blind human faithfulness ratings (§8) + answer key
     └── k_sweep.json       R@k sweep data
 ```
+
+## Where each result in the revised paper comes from
+
+| Paper result | Script | Data |
+|---|---|---|
+| Table 6, shared-prompt cross-corpus results and significance (incl. Soft-Scoped) | `analysis/rq2_scoping_test.py` (run by `make tables`) | `data/results/*promptctl*`, `data/results/rq2/` |
+| Table 2, controlled corpus growth (§3.3) | `analysis/dilution_scaling_curve.py`, `analysis/rq1_dilution_test.py` | `data/results/dilution_scaling_*.json`, `data/results/rq1/` |
+| Table 3, pooled ρ over seven DOTs (§3.3–3.4) | `multi_dot/dilution.py`, `analysis/dilution_analysis.py` | `data/dilution/` |
+| Scope discovery (§7, App. A6.2) | `multi_dot/discover_scopes.py`, `router/train_discovered_router.py`, `analysis/rq3_discovery_test.py` | `data/results/rq3/` |
+| Human faithfulness study (§8) | `analysis/score_human_eval_paradox.py` (run by `make tables`) | `data/human_eval/` |
+| Retrieval budget and confidence fallback (App. A6.1) | `analysis/k_sweep.py`, `analysis/fallback_sweep.py` | `data/k_sweep.json`, `data/results/fallback_sweep.json` |
+| Soft scoping and the centroid router (§4) | `runners/run_wydot_oss.py`, `runners/run_generic_corpus.py` (`--systems soft_scoped`) | — |
+| Cost figure (Figure 2) | `scripts/make_efficiency_figure_v2.py` | `data/results/` |
 
 ## Quickstart — recompute the paper's tables (CPU-only, ~2 minutes)
 

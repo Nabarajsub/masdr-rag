@@ -79,6 +79,16 @@ def _build_catalog() -> Dict[str, List[str]]:
     rb.TOOL_DESCRIPTIONS.clear()
     for t in tools:
         rb.TOOL_DESCRIPTIONS[t.name] = t.description
+    # Router config for this corpus: queries never name a title bucket, so no
+    # regex rules (the regex tier correctly falls back to global); the LLM
+    # router sees the bucket descriptions and can route only when it can infer
+    # the answer article's initial.
+    from emnlp_evaluation.agents import hybrid_routed as hr
+    hr.configure_router(
+        regex_rules=[],
+        domain_desc=("a Wikipedia corpus partitioned into alphabetic "
+                     "article-title buckets (A-G, H-M, N-S, T-Z, other)"),
+    )
     return source_filters
 
 
@@ -135,7 +145,13 @@ def main():
     ap.add_argument("--queries", default=str(QUERIES_PATH))
     ap.add_argument("--limit", type=int, default=None)
     ap.add_argument("--out", default=None)
+    ap.add_argument("--shared-answer-prompt", action="store_true",
+                    help="Force shared corpus-neutral answer/system prompts (see naive_rag).")
     args = ap.parse_args()
+    if args.shared_answer_prompt:
+        from emnlp_evaluation.agents.naive_rag import set_shared_answer_prompt, _ANSWER_PROMPT
+        set_shared_answer_prompt(_ANSWER_PROMPT)
+        print("[prompt-control] shared corpus-neutral prompts active")
 
     systems = [s.strip() for s in args.systems.split(",")]
     source_filters = _build_catalog()

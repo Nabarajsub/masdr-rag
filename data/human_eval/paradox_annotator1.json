@@ -1,0 +1,402 @@
+{
+ "annotator": "A1",
+ "study": "paradox_faithfulness_v1",
+ "n_items": 80,
+ "ratings": {
+  "q_050_A": {
+   "faithful": 1,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_050_B": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_007_A": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_007_B": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_039_A": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_039_B": {
+   "faithful": 0,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_063_A": {
+   "faithful": 0,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_063_B": {
+   "faithful": 1,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_199_A": {
+   "faithful": 0,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_199_B": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_034_A": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_034_B": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_022_A": {
+   "faithful": 1,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_022_B": {
+   "faithful": 1,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_068_A": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_068_B": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_005_A": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_073_A": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_073_B": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_020_A": {
+   "faithful": 1,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_020_B": {
+   "faithful": 1,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_043_A": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_043_B": {
+   "faithful": 0,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_028_A": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_028_B": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_180_A": {
+   "faithful": 0,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_180_B": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_107_A": {
+   "faithful": 1,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_107_B": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_025_A": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_025_B": {
+   "faithful": 1,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_056_A": {
+   "faithful": 1,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_056_B": {
+   "faithful": 1,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_017_A": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_017_B": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_126_A": {
+   "faithful": 1,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_126_B": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_079_A": {
+   "faithful": 0,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_079_B": {
+   "faithful": 0,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_070_A": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_070_B": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_156_A": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_156_B": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_118_A": {
+   "faithful": 0,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_118_B": {
+   "faithful": 0,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_165_A": {
+   "faithful": 1,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_165_B": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_060_A": {
+   "faithful": 0,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_060_B": {
+   "faithful": 0,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_037_A": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_037_B": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_016_A": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_016_B": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_086_A": {
+   "faithful": 0,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_086_B": {
+   "faithful": 0,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_069_A": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_069_B": {
+   "faithful": 1,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_006_A": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_006_B": {
+   "faithful": 1,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_035_A": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_035_B": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_015_A": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_015_B": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_030_A": {
+   "faithful": 0,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_030_B": {
+   "faithful": 0,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_029_A": {
+   "faithful": 1,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_029_B": {
+   "faithful": 1,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_061_A": {
+   "faithful": 0,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_061_B": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_026_A": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_026_B": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_133_A": {
+   "faithful": 0,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_133_B": {
+   "faithful": 0,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_010_A": {
+   "faithful": 1,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_010_B": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_036_A": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_036_B": {
+   "faithful": 0.5,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_137_A": {
+   "faithful": 1,
+   "unsupported": null,
+   "note": ""
+  },
+  "q_137_B": {
+   "faithful": 0,
+   "unsupported": null,
+   "note": ""
+  }
+ }
+}

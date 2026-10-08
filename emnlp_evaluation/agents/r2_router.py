@@ -37,7 +37,8 @@ LABEL_TO_AGENT = {
 class R2Router:
     _instance: Optional["R2Router"] = None
 
-    def __init__(self, artifact_path: str | Path = ARTIFACT_PATH):
+    def __init__(self, artifact_path: str | Path = ARTIFACT_PATH,
+                 label_to_agent: Optional[dict] = None):
         with open(artifact_path, "rb") as f:
             blob = pickle.load(f)
         # Artifact is either {"model": clf, "labels": [...]} or a bare sklearn classifier.
@@ -47,6 +48,8 @@ class R2Router:
         else:
             self.clf = blob
             self.labels = list(self.clf.classes_)
+        # Label -> agent map; defaults to the WYDOT production mapping.
+        self.label_to_agent = label_to_agent or LABEL_TO_AGENT
         # The embedder is heavy — share across calls; we lazy-init.
         self._embedder = None
 
@@ -71,7 +74,7 @@ class R2Router:
         agents: list[str] = []
         for i in order[:topk]:
             label = self.labels[i]
-            agent = LABEL_TO_AGENT.get(label, "general_agent")
+            agent = self.label_to_agent.get(label, "general_agent")
             if agent not in agents:
                 agents.append(agent)
         return agents
@@ -85,4 +88,4 @@ class R2Router:
                          dtype=np.float32).reshape(1, -1)
         proba = self.clf.predict_proba(emb)[0]
         i = int(np.argmax(proba))
-        return LABEL_TO_AGENT.get(self.labels[i], "general_agent"), float(proba[i])
+        return self.label_to_agent.get(self.labels[i], "general_agent"), float(proba[i])

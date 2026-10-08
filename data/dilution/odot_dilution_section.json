@@ -1,0 +1,2890 @@
+{
+  "corpus": "odot",
+  "n_chunks": 48963,
+  "restrict_to": "",
+  "axes": [
+    {
+      "axis": "section",
+      "k": 10,
+      "overall_purity": 0.5654,
+      "overall_dilution": 0.4346,
+      "spearman_logchunks_delta": -0.8161,
+      "per_category": [
+        {
+          "category": "CHAPTER 1",
+          "chunks": 429,
+          "knn_purity": 0.2809,
+          "dilution_delta": 0.7191
+        },
+        {
+          "category": "CHAPTER 10",
+          "chunks": 169,
+          "knn_purity": 0.4899,
+          "dilution_delta": 0.5101
+        },
+        {
+          "category": "CHAPTER 11",
+          "chunks": 41,
+          "knn_purity": 0.3049,
+          "dilution_delta": 0.6951
+        },
+        {
+          "category": "CHAPTER 12",
+          "chunks": 165,
+          "knn_purity": 0.2982,
+          "dilution_delta": 0.7018
+        },
+        {
+          "category": "CHAPTER 13",
+          "chunks": 110,
+          "knn_purity": 0.39,
+          "dilution_delta": 0.61
+        },
+        {
+          "category": "CHAPTER 14",
+          "chunks": 195,
+          "knn_purity": 0.3338,
+          "dilution_delta": 0.6662
+        },
+        {
+          "category": "CHAPTER 15",
+          "chunks": 52,
+          "knn_purity": 0.3712,
+          "dilution_delta": 0.6288
+        },
+        {
+          "category": "CHAPTER 16",
+          "chunks": 60,
+          "knn_purity": 0.5317,
+          "dilution_delta": 0.4683
+        },
+        {
+          "category": "CHAPTER 166",
+          "chunks": 79,
+          "knn_purity": 0.4797,
+          "dilution_delta": 0.5203
+        },
+        {
+          "category": "CHAPTER 17",
+          "chunks": 1,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "CHAPTER 179",
+          "chunks": 4,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "CHAPTER 18",
+          "chunks": 76,
+          "knn_purity": 0.4303,
+          "dilution_delta": 0.5697
+        },
+        {
+          "category": "CHAPTER 183",
+          "chunks": 5,
+          "knn_purity": 0.22,
+          "dilution_delta": 0.78
+        },
+        {
+          "category": "CHAPTER 189",
+          "chunks": 9,
+          "knn_purity": 0.3444,
+          "dilution_delta": 0.6556
+        },
+        {
+          "category": "CHAPTER 19",
+          "chunks": 12,
+          "knn_purity": 0.1167,
+          "dilution_delta": 0.8833
+        },
+        {
+          "category": "CHAPTER 190",
+          "chunks": 6,
+          "knn_purity": 0.3167,
+          "dilution_delta": 0.6833
+        },
+        {
+          "category": "CHAPTER 2",
+          "chunks": 1364,
+          "knn_purity": 0.4158,
+          "dilution_delta": 0.5842
+        },
+        {
+          "category": "CHAPTER 20",
+          "chunks": 4,
+          "knn_purity": 0.05,
+          "dilution_delta": 0.95
+        },
+        {
+          "category": "CHAPTER 21",
+          "chunks": 31,
+          "knn_purity": 0.5516,
+          "dilution_delta": 0.4484
+        },
+        {
+          "category": "CHAPTER 22",
+          "chunks": 21,
+          "knn_purity": 0.1333,
+          "dilution_delta": 0.8667
+        },
+        {
+          "category": "CHAPTER 23",
+          "chunks": 4,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "CHAPTER 243",
+          "chunks": 6,
+          "knn_purity": 0.3667,
+          "dilution_delta": 0.6333
+        },
+        {
+          "category": "CHAPTER 25",
+          "chunks": 4,
+          "knn_purity": 0.05,
+          "dilution_delta": 0.95
+        },
+        {
+          "category": "CHAPTER 269",
+          "chunks": 20,
+          "knn_purity": 0.41,
+          "dilution_delta": 0.59
+        },
+        {
+          "category": "CHAPTER 27",
+          "chunks": 10,
+          "knn_purity": 0.6,
+          "dilution_delta": 0.4
+        },
+        {
+          "category": "CHAPTER 3",
+          "chunks": 1446,
+          "knn_purity": 0.4064,
+          "dilution_delta": 0.5936
+        },
+        {
+          "category": "CHAPTER 31",
+          "chunks": 12,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "CHAPTER 34",
+          "chunks": 7,
+          "knn_purity": 0.0714,
+          "dilution_delta": 0.9286
+        },
+        {
+          "category": "CHAPTER 340",
+          "chunks": 13,
+          "knn_purity": 0.4538,
+          "dilution_delta": 0.5462
+        },
+        {
+          "category": "CHAPTER 35",
+          "chunks": 1,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "CHAPTER 36",
+          "chunks": 2,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "CHAPTER 37",
+          "chunks": 19,
+          "knn_purity": 0.2263,
+          "dilution_delta": 0.7737
+        },
+        {
+          "category": "CHAPTER 4",
+          "chunks": 1540,
+          "knn_purity": 0.4486,
+          "dilution_delta": 0.5514
+        },
+        {
+          "category": "CHAPTER 40",
+          "chunks": 16,
+          "knn_purity": 0.125,
+          "dilution_delta": 0.875
+        },
+        {
+          "category": "CHAPTER 400",
+          "chunks": 6,
+          "knn_purity": 0.4333,
+          "dilution_delta": 0.5667
+        },
+        {
+          "category": "CHAPTER 41",
+          "chunks": 6,
+          "knn_purity": 0.4167,
+          "dilution_delta": 0.5833
+        },
+        {
+          "category": "CHAPTER 415",
+          "chunks": 18,
+          "knn_purity": 0.4278,
+          "dilution_delta": 0.5722
+        },
+        {
+          "category": "CHAPTER 437",
+          "chunks": 108,
+          "knn_purity": 0.6852,
+          "dilution_delta": 0.3148
+        },
+        {
+          "category": "CHAPTER 467",
+          "chunks": 7,
+          "knn_purity": 0.1571,
+          "dilution_delta": 0.8429
+        },
+        {
+          "category": "CHAPTER 468",
+          "chunks": 3,
+          "knn_purity": 0.0667,
+          "dilution_delta": 0.9333
+        },
+        {
+          "category": "CHAPTER 498",
+          "chunks": 4,
+          "knn_purity": 0.275,
+          "dilution_delta": 0.725
+        },
+        {
+          "category": "CHAPTER 5",
+          "chunks": 1276,
+          "knn_purity": 0.4385,
+          "dilution_delta": 0.5615
+        },
+        {
+          "category": "CHAPTER 517",
+          "chunks": 1,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "CHAPTER 53",
+          "chunks": 145,
+          "knn_purity": 0.549,
+          "dilution_delta": 0.451
+        },
+        {
+          "category": "CHAPTER 537",
+          "chunks": 6,
+          "knn_purity": 0.1333,
+          "dilution_delta": 0.8667
+        },
+        {
+          "category": "CHAPTER 6",
+          "chunks": 1030,
+          "knn_purity": 0.3606,
+          "dilution_delta": 0.6394
+        },
+        {
+          "category": "CHAPTER 618",
+          "chunks": 13,
+          "knn_purity": 0.6615,
+          "dilution_delta": 0.3385
+        },
+        {
+          "category": "CHAPTER 7",
+          "chunks": 352,
+          "knn_purity": 0.3676,
+          "dilution_delta": 0.6324
+        },
+        {
+          "category": "CHAPTER 701",
+          "chunks": 17,
+          "knn_purity": 0.3235,
+          "dilution_delta": 0.6765
+        },
+        {
+          "category": "CHAPTER 731",
+          "chunks": 20,
+          "knn_purity": 0.21,
+          "dilution_delta": 0.79
+        },
+        {
+          "category": "CHAPTER 732",
+          "chunks": 109,
+          "knn_purity": 0.4578,
+          "dilution_delta": 0.5422
+        },
+        {
+          "category": "CHAPTER 734",
+          "chunks": 365,
+          "knn_purity": 0.7334,
+          "dilution_delta": 0.2666
+        },
+        {
+          "category": "CHAPTER 735",
+          "chunks": 233,
+          "knn_purity": 0.7172,
+          "dilution_delta": 0.2828
+        },
+        {
+          "category": "CHAPTER 737",
+          "chunks": 3,
+          "knn_purity": 0.2,
+          "dilution_delta": 0.8
+        },
+        {
+          "category": "CHAPTER 740",
+          "chunks": 75,
+          "knn_purity": 0.456,
+          "dilution_delta": 0.544
+        },
+        {
+          "category": "CHAPTER 741",
+          "chunks": 47,
+          "knn_purity": 0.2213,
+          "dilution_delta": 0.7787
+        },
+        {
+          "category": "CHAPTER 742",
+          "chunks": 2,
+          "knn_purity": 0.05,
+          "dilution_delta": 0.95
+        },
+        {
+          "category": "CHAPTER 750",
+          "chunks": 87,
+          "knn_purity": 0.2839,
+          "dilution_delta": 0.7161
+        },
+        {
+          "category": "CHAPTER 781",
+          "chunks": 32,
+          "knn_purity": 0.4531,
+          "dilution_delta": 0.5469
+        },
+        {
+          "category": "CHAPTER 8",
+          "chunks": 378,
+          "knn_purity": 0.3944,
+          "dilution_delta": 0.6056
+        },
+        {
+          "category": "CHAPTER 820",
+          "chunks": 16,
+          "knn_purity": 0.6375,
+          "dilution_delta": 0.3625
+        },
+        {
+          "category": "CHAPTER 822",
+          "chunks": 1,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "CHAPTER 823",
+          "chunks": 40,
+          "knn_purity": 0.6575,
+          "dilution_delta": 0.3425
+        },
+        {
+          "category": "CHAPTER 825",
+          "chunks": 39,
+          "knn_purity": 0.6231,
+          "dilution_delta": 0.3769
+        },
+        {
+          "category": "CHAPTER 826",
+          "chunks": 8,
+          "knn_purity": 0.2,
+          "dilution_delta": 0.8
+        },
+        {
+          "category": "CHAPTER 84",
+          "chunks": 46,
+          "knn_purity": 0.7304,
+          "dilution_delta": 0.2696
+        },
+        {
+          "category": "CHAPTER 9",
+          "chunks": 111,
+          "knn_purity": 0.3351,
+          "dilution_delta": 0.6649
+        },
+        {
+          "category": "DIVISION 035",
+          "chunks": 13,
+          "knn_purity": 0.3538,
+          "dilution_delta": 0.6462
+        },
+        {
+          "category": "DIVISION 044",
+          "chunks": 3,
+          "knn_purity": 0.2,
+          "dilution_delta": 0.8
+        },
+        {
+          "category": "DIVISION 06",
+          "chunks": 56,
+          "knn_purity": 0.5964,
+          "dilution_delta": 0.4036
+        },
+        {
+          "category": "DIVISION 07",
+          "chunks": 1,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "DIVISION 101",
+          "chunks": 1,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "DIVISION 103",
+          "chunks": 7,
+          "knn_purity": 0.0857,
+          "dilution_delta": 0.9143
+        },
+        {
+          "category": "DIVISION 105",
+          "chunks": 1,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "DIVISION 107",
+          "chunks": 3,
+          "knn_purity": 0.0333,
+          "dilution_delta": 0.9667
+        },
+        {
+          "category": "DIVISION 112",
+          "chunks": 3,
+          "knn_purity": 0.1333,
+          "dilution_delta": 0.8667
+        },
+        {
+          "category": "DIVISION 12",
+          "chunks": 21,
+          "knn_purity": 0.381,
+          "dilution_delta": 0.619
+        },
+        {
+          "category": "DIVISION 15",
+          "chunks": 2,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "DIVISION 150",
+          "chunks": 16,
+          "knn_purity": 0.5063,
+          "dilution_delta": 0.4937
+        },
+        {
+          "category": "DIVISION 18",
+          "chunks": 3,
+          "knn_purity": 0.1333,
+          "dilution_delta": 0.8667
+        },
+        {
+          "category": "DIVISION 1987",
+          "chunks": 132,
+          "knn_purity": 0.7205,
+          "dilution_delta": 0.2795
+        },
+        {
+          "category": "DIVISION 2018",
+          "chunks": 12,
+          "knn_purity": 0.15,
+          "dilution_delta": 0.85
+        },
+        {
+          "category": "DIVISION 22",
+          "chunks": 3,
+          "knn_purity": 0.0667,
+          "dilution_delta": 0.9333
+        },
+        {
+          "category": "DIVISION 25",
+          "chunks": 16,
+          "knn_purity": 0.1875,
+          "dilution_delta": 0.8125
+        },
+        {
+          "category": "DIVISION 3",
+          "chunks": 2,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "DIVISION 40",
+          "chunks": 8,
+          "knn_purity": 0.2125,
+          "dilution_delta": 0.7875
+        },
+        {
+          "category": "DIVISION 42",
+          "chunks": 32,
+          "knn_purity": 0.4656,
+          "dilution_delta": 0.5344
+        },
+        {
+          "category": "DIVISION 44",
+          "chunks": 16,
+          "knn_purity": 0.4125,
+          "dilution_delta": 0.5875
+        },
+        {
+          "category": "DIVISION 500",
+          "chunks": 4,
+          "knn_purity": 0.2,
+          "dilution_delta": 0.8
+        },
+        {
+          "category": "DIVISION 503",
+          "chunks": 39,
+          "knn_purity": 0.159,
+          "dilution_delta": 0.841
+        },
+        {
+          "category": "DIVISION 51",
+          "chunks": 77,
+          "knn_purity": 0.3818,
+          "dilution_delta": 0.6182
+        },
+        {
+          "category": "DIVISION 530",
+          "chunks": 1,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "DIVISION 55",
+          "chunks": 2,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "DIVISION 62",
+          "chunks": 32,
+          "knn_purity": 0.525,
+          "dilution_delta": 0.475
+        },
+        {
+          "category": "DIVISION 741",
+          "chunks": 130,
+          "knn_purity": 0.5454,
+          "dilution_delta": 0.4546
+        },
+        {
+          "category": "DIVISION 97",
+          "chunks": 26,
+          "knn_purity": 0.3038,
+          "dilution_delta": 0.6962
+        },
+        {
+          "category": "DIVISION 98",
+          "chunks": 7,
+          "knn_purity": 0.1143,
+          "dilution_delta": 0.8857
+        },
+        {
+          "category": "GENERAL",
+          "chunks": 7083,
+          "knn_purity": 0.7671,
+          "dilution_delta": 0.2329
+        },
+        {
+          "category": "SECTION 0",
+          "chunks": 2119,
+          "knn_purity": 0.8124,
+          "dilution_delta": 0.1876
+        },
+        {
+          "category": "SECTION 0005",
+          "chunks": 1,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 0010",
+          "chunks": 6,
+          "knn_purity": 0.2667,
+          "dilution_delta": 0.7333
+        },
+        {
+          "category": "SECTION 00110",
+          "chunks": 44,
+          "knn_purity": 0.2295,
+          "dilution_delta": 0.7705
+        },
+        {
+          "category": "SECTION 00120",
+          "chunks": 55,
+          "knn_purity": 0.5855,
+          "dilution_delta": 0.4145
+        },
+        {
+          "category": "SECTION 00130",
+          "chunks": 3,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "SECTION 00140",
+          "chunks": 14,
+          "knn_purity": 0.1357,
+          "dilution_delta": 0.8643
+        },
+        {
+          "category": "SECTION 0015",
+          "chunks": 1,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 00150",
+          "chunks": 61,
+          "knn_purity": 0.3213,
+          "dilution_delta": 0.6787
+        },
+        {
+          "category": "SECTION 0016",
+          "chunks": 2,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "SECTION 00160",
+          "chunks": 18,
+          "knn_purity": 0.2389,
+          "dilution_delta": 0.7611
+        },
+        {
+          "category": "SECTION 00165",
+          "chunks": 258,
+          "knn_purity": 0.4314,
+          "dilution_delta": 0.5686
+        },
+        {
+          "category": "SECTION 00170",
+          "chunks": 113,
+          "knn_purity": 0.5814,
+          "dilution_delta": 0.4186
+        },
+        {
+          "category": "SECTION 00180",
+          "chunks": 37,
+          "knn_purity": 0.2405,
+          "dilution_delta": 0.7595
+        },
+        {
+          "category": "SECTION 00190",
+          "chunks": 39,
+          "knn_purity": 0.2538,
+          "dilution_delta": 0.7462
+        },
+        {
+          "category": "SECTION 00195",
+          "chunks": 23,
+          "knn_purity": 0.4609,
+          "dilution_delta": 0.5391
+        },
+        {
+          "category": "SECTION 00196",
+          "chunks": 6,
+          "knn_purity": 0.1167,
+          "dilution_delta": 0.8833
+        },
+        {
+          "category": "SECTION 00197",
+          "chunks": 71,
+          "knn_purity": 0.4352,
+          "dilution_delta": 0.5648
+        },
+        {
+          "category": "SECTION 00199",
+          "chunks": 108,
+          "knn_purity": 0.4824,
+          "dilution_delta": 0.5176
+        },
+        {
+          "category": "SECTION 0020",
+          "chunks": 3,
+          "knn_purity": 0.1667,
+          "dilution_delta": 0.8333
+        },
+        {
+          "category": "SECTION 00210",
+          "chunks": 5,
+          "knn_purity": 0.14,
+          "dilution_delta": 0.86
+        },
+        {
+          "category": "SECTION 00220",
+          "chunks": 20,
+          "knn_purity": 0.09,
+          "dilution_delta": 0.91
+        },
+        {
+          "category": "SECTION 00221",
+          "chunks": 36,
+          "knn_purity": 0.2222,
+          "dilution_delta": 0.7778
+        },
+        {
+          "category": "SECTION 00222",
+          "chunks": 23,
+          "knn_purity": 0.1739,
+          "dilution_delta": 0.8261
+        },
+        {
+          "category": "SECTION 00223",
+          "chunks": 50,
+          "knn_purity": 0.532,
+          "dilution_delta": 0.468
+        },
+        {
+          "category": "SECTION 00224",
+          "chunks": 3,
+          "knn_purity": 0.1333,
+          "dilution_delta": 0.8667
+        },
+        {
+          "category": "SECTION 00225",
+          "chunks": 6,
+          "knn_purity": 0.2333,
+          "dilution_delta": 0.7667
+        },
+        {
+          "category": "SECTION 00226",
+          "chunks": 4,
+          "knn_purity": 0.2,
+          "dilution_delta": 0.8
+        },
+        {
+          "category": "SECTION 00227",
+          "chunks": 6,
+          "knn_purity": 0.35,
+          "dilution_delta": 0.65
+        },
+        {
+          "category": "SECTION 00228",
+          "chunks": 21,
+          "knn_purity": 0.3095,
+          "dilution_delta": 0.6905
+        },
+        {
+          "category": "SECTION 00235",
+          "chunks": 8,
+          "knn_purity": 0.2125,
+          "dilution_delta": 0.7875
+        },
+        {
+          "category": "SECTION 00240",
+          "chunks": 9,
+          "knn_purity": 0.1444,
+          "dilution_delta": 0.8556
+        },
+        {
+          "category": "SECTION 0025",
+          "chunks": 11,
+          "knn_purity": 0.2182,
+          "dilution_delta": 0.7818
+        },
+        {
+          "category": "SECTION 00253",
+          "chunks": 25,
+          "knn_purity": 0.208,
+          "dilution_delta": 0.792
+        },
+        {
+          "category": "SECTION 00270",
+          "chunks": 2,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "SECTION 00280",
+          "chunks": 28,
+          "knn_purity": 0.375,
+          "dilution_delta": 0.625
+        },
+        {
+          "category": "SECTION 00290",
+          "chunks": 108,
+          "knn_purity": 0.6,
+          "dilution_delta": 0.4
+        },
+        {
+          "category": "SECTION 00305",
+          "chunks": 6,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "SECTION 00310",
+          "chunks": 19,
+          "knn_purity": 0.1263,
+          "dilution_delta": 0.8737
+        },
+        {
+          "category": "SECTION 00320",
+          "chunks": 14,
+          "knn_purity": 0.3286,
+          "dilution_delta": 0.6714
+        },
+        {
+          "category": "SECTION 00330",
+          "chunks": 50,
+          "knn_purity": 0.238,
+          "dilution_delta": 0.762
+        },
+        {
+          "category": "SECTION 00331",
+          "chunks": 6,
+          "knn_purity": 0.2,
+          "dilution_delta": 0.8
+        },
+        {
+          "category": "SECTION 00335",
+          "chunks": 27,
+          "knn_purity": 0.6444,
+          "dilution_delta": 0.3556
+        },
+        {
+          "category": "SECTION 00340",
+          "chunks": 42,
+          "knn_purity": 0.2381,
+          "dilution_delta": 0.7619
+        },
+        {
+          "category": "SECTION 0035",
+          "chunks": 4,
+          "knn_purity": 0.3,
+          "dilution_delta": 0.7
+        },
+        {
+          "category": "SECTION 00350",
+          "chunks": 33,
+          "knn_purity": 0.3061,
+          "dilution_delta": 0.6939
+        },
+        {
+          "category": "SECTION 00370",
+          "chunks": 8,
+          "knn_purity": 0.1125,
+          "dilution_delta": 0.8875
+        },
+        {
+          "category": "SECTION 00390",
+          "chunks": 5,
+          "knn_purity": 0.12,
+          "dilution_delta": 0.88
+        },
+        {
+          "category": "SECTION 00396",
+          "chunks": 27,
+          "knn_purity": 0.6074,
+          "dilution_delta": 0.3926
+        },
+        {
+          "category": "SECTION 00398",
+          "chunks": 20,
+          "knn_purity": 0.41,
+          "dilution_delta": 0.59
+        },
+        {
+          "category": "SECTION 0040",
+          "chunks": 3,
+          "knn_purity": 0.0667,
+          "dilution_delta": 0.9333
+        },
+        {
+          "category": "SECTION 00405",
+          "chunks": 108,
+          "knn_purity": 0.363,
+          "dilution_delta": 0.637
+        },
+        {
+          "category": "SECTION 00406",
+          "chunks": 10,
+          "knn_purity": 0.2,
+          "dilution_delta": 0.8
+        },
+        {
+          "category": "SECTION 00411",
+          "chunks": 4,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "SECTION 00412",
+          "chunks": 6,
+          "knn_purity": 0.0833,
+          "dilution_delta": 0.9167
+        },
+        {
+          "category": "SECTION 00413",
+          "chunks": 4,
+          "knn_purity": 0.05,
+          "dilution_delta": 0.95
+        },
+        {
+          "category": "SECTION 00414",
+          "chunks": 10,
+          "knn_purity": 0.18,
+          "dilution_delta": 0.82
+        },
+        {
+          "category": "SECTION 00415",
+          "chunks": 56,
+          "knn_purity": 0.4875,
+          "dilution_delta": 0.5125
+        },
+        {
+          "category": "SECTION 00430",
+          "chunks": 22,
+          "knn_purity": 0.1455,
+          "dilution_delta": 0.8545
+        },
+        {
+          "category": "SECTION 00440",
+          "chunks": 99,
+          "knn_purity": 0.2051,
+          "dilution_delta": 0.7949
+        },
+        {
+          "category": "SECTION 00442",
+          "chunks": 5,
+          "knn_purity": 0.08,
+          "dilution_delta": 0.92
+        },
+        {
+          "category": "SECTION 00445",
+          "chunks": 69,
+          "knn_purity": 0.3116,
+          "dilution_delta": 0.6884
+        },
+        {
+          "category": "SECTION 00446",
+          "chunks": 7,
+          "knn_purity": 0.2,
+          "dilution_delta": 0.8
+        },
+        {
+          "category": "SECTION 0045",
+          "chunks": 15,
+          "knn_purity": 0.3133,
+          "dilution_delta": 0.6867
+        },
+        {
+          "category": "SECTION 00450",
+          "chunks": 4,
+          "knn_purity": 0.075,
+          "dilution_delta": 0.925
+        },
+        {
+          "category": "SECTION 00460",
+          "chunks": 4,
+          "knn_purity": 0.175,
+          "dilution_delta": 0.825
+        },
+        {
+          "category": "SECTION 00470",
+          "chunks": 26,
+          "knn_purity": 0.3231,
+          "dilution_delta": 0.6769
+        },
+        {
+          "category": "SECTION 00480",
+          "chunks": 3,
+          "knn_purity": 0.1667,
+          "dilution_delta": 0.8333
+        },
+        {
+          "category": "SECTION 00490",
+          "chunks": 5,
+          "knn_purity": 0.12,
+          "dilution_delta": 0.88
+        },
+        {
+          "category": "SECTION 00495",
+          "chunks": 13,
+          "knn_purity": 0.1308,
+          "dilution_delta": 0.8692
+        },
+        {
+          "category": "SECTION 00501",
+          "chunks": 3,
+          "knn_purity": 0.0667,
+          "dilution_delta": 0.9333
+        },
+        {
+          "category": "SECTION 00503",
+          "chunks": 21,
+          "knn_purity": 0.2857,
+          "dilution_delta": 0.7143
+        },
+        {
+          "category": "SECTION 00504",
+          "chunks": 67,
+          "knn_purity": 0.2985,
+          "dilution_delta": 0.7015
+        },
+        {
+          "category": "SECTION 00505",
+          "chunks": 4,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "SECTION 00510",
+          "chunks": 103,
+          "knn_purity": 0.3709,
+          "dilution_delta": 0.6291
+        },
+        {
+          "category": "SECTION 00512",
+          "chunks": 4,
+          "knn_purity": 0.05,
+          "dilution_delta": 0.95
+        },
+        {
+          "category": "SECTION 00520",
+          "chunks": 34,
+          "knn_purity": 0.4441,
+          "dilution_delta": 0.5559
+        },
+        {
+          "category": "SECTION 00530",
+          "chunks": 50,
+          "knn_purity": 0.19,
+          "dilution_delta": 0.81
+        },
+        {
+          "category": "SECTION 00535",
+          "chunks": 3,
+          "knn_purity": 0.0333,
+          "dilution_delta": 0.9667
+        },
+        {
+          "category": "SECTION 00536",
+          "chunks": 3,
+          "knn_purity": 0.2,
+          "dilution_delta": 0.8
+        },
+        {
+          "category": "SECTION 00538",
+          "chunks": 3,
+          "knn_purity": 0.1333,
+          "dilution_delta": 0.8667
+        },
+        {
+          "category": "SECTION 00540",
+          "chunks": 24,
+          "knn_purity": 0.1542,
+          "dilution_delta": 0.8458
+        },
+        {
+          "category": "SECTION 00545",
+          "chunks": 3,
+          "knn_purity": 0.0667,
+          "dilution_delta": 0.9333
+        },
+        {
+          "category": "SECTION 0055",
+          "chunks": 26,
+          "knn_purity": 0.3385,
+          "dilution_delta": 0.6615
+        },
+        {
+          "category": "SECTION 00550",
+          "chunks": 10,
+          "knn_purity": 0.22,
+          "dilution_delta": 0.78
+        },
+        {
+          "category": "SECTION 00555",
+          "chunks": 5,
+          "knn_purity": 0.12,
+          "dilution_delta": 0.88
+        },
+        {
+          "category": "SECTION 00556",
+          "chunks": 20,
+          "knn_purity": 0.39,
+          "dilution_delta": 0.61
+        },
+        {
+          "category": "SECTION 00557",
+          "chunks": 5,
+          "knn_purity": 0.14,
+          "dilution_delta": 0.86
+        },
+        {
+          "category": "SECTION 00559",
+          "chunks": 5,
+          "knn_purity": 0.14,
+          "dilution_delta": 0.86
+        },
+        {
+          "category": "SECTION 00560",
+          "chunks": 55,
+          "knn_purity": 0.2291,
+          "dilution_delta": 0.7709
+        },
+        {
+          "category": "SECTION 00566",
+          "chunks": 16,
+          "knn_purity": 0.425,
+          "dilution_delta": 0.575
+        },
+        {
+          "category": "SECTION 00570",
+          "chunks": 6,
+          "knn_purity": 0.1667,
+          "dilution_delta": 0.8333
+        },
+        {
+          "category": "SECTION 00581",
+          "chunks": 2,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "SECTION 00582",
+          "chunks": 16,
+          "knn_purity": 0.1688,
+          "dilution_delta": 0.8312
+        },
+        {
+          "category": "SECTION 00583",
+          "chunks": 20,
+          "knn_purity": 0.3,
+          "dilution_delta": 0.7
+        },
+        {
+          "category": "SECTION 00584",
+          "chunks": 13,
+          "knn_purity": 0.4462,
+          "dilution_delta": 0.5538
+        },
+        {
+          "category": "SECTION 00585",
+          "chunks": 23,
+          "knn_purity": 0.2087,
+          "dilution_delta": 0.7913
+        },
+        {
+          "category": "SECTION 00587",
+          "chunks": 3,
+          "knn_purity": 0.1333,
+          "dilution_delta": 0.8667
+        },
+        {
+          "category": "SECTION 00590",
+          "chunks": 4,
+          "knn_purity": 0.05,
+          "dilution_delta": 0.95
+        },
+        {
+          "category": "SECTION 00592",
+          "chunks": 6,
+          "knn_purity": 0.25,
+          "dilution_delta": 0.75
+        },
+        {
+          "category": "SECTION 00593",
+          "chunks": 32,
+          "knn_purity": 0.1969,
+          "dilution_delta": 0.8031
+        },
+        {
+          "category": "SECTION 00594",
+          "chunks": 87,
+          "knn_purity": 0.3241,
+          "dilution_delta": 0.6759
+        },
+        {
+          "category": "SECTION 00595",
+          "chunks": 8,
+          "knn_purity": 0.1125,
+          "dilution_delta": 0.8875
+        },
+        {
+          "category": "SECTION 00596",
+          "chunks": 39,
+          "knn_purity": 0.6744,
+          "dilution_delta": 0.3256
+        },
+        {
+          "category": "SECTION 00597",
+          "chunks": 4,
+          "knn_purity": 0.175,
+          "dilution_delta": 0.825
+        },
+        {
+          "category": "SECTION 00599",
+          "chunks": 2,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "SECTION 0060",
+          "chunks": 16,
+          "knn_purity": 0.325,
+          "dilution_delta": 0.675
+        },
+        {
+          "category": "SECTION 00610",
+          "chunks": 56,
+          "knn_purity": 0.2643,
+          "dilution_delta": 0.7357
+        },
+        {
+          "category": "SECTION 00620",
+          "chunks": 15,
+          "knn_purity": 0.2467,
+          "dilution_delta": 0.7533
+        },
+        {
+          "category": "SECTION 00622",
+          "chunks": 14,
+          "knn_purity": 0.3071,
+          "dilution_delta": 0.6929
+        },
+        {
+          "category": "SECTION 00640",
+          "chunks": 4,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "SECTION 00641",
+          "chunks": 14,
+          "knn_purity": 0.1143,
+          "dilution_delta": 0.8857
+        },
+        {
+          "category": "SECTION 00680",
+          "chunks": 4,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "SECTION 00705",
+          "chunks": 9,
+          "knn_purity": 0.0889,
+          "dilution_delta": 0.9111
+        },
+        {
+          "category": "SECTION 00706",
+          "chunks": 14,
+          "knn_purity": 0.15,
+          "dilution_delta": 0.85
+        },
+        {
+          "category": "SECTION 00710",
+          "chunks": 10,
+          "knn_purity": 0.04,
+          "dilution_delta": 0.96
+        },
+        {
+          "category": "SECTION 00711",
+          "chunks": 7,
+          "knn_purity": 0.1429,
+          "dilution_delta": 0.8571
+        },
+        {
+          "category": "SECTION 00715",
+          "chunks": 10,
+          "knn_purity": 0.16,
+          "dilution_delta": 0.84
+        },
+        {
+          "category": "SECTION 00730",
+          "chunks": 59,
+          "knn_purity": 0.3339,
+          "dilution_delta": 0.6661
+        },
+        {
+          "category": "SECTION 00735",
+          "chunks": 10,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "SECTION 00738",
+          "chunks": 2,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "SECTION 0074",
+          "chunks": 19,
+          "knn_purity": 0.2,
+          "dilution_delta": 0.8
+        },
+        {
+          "category": "SECTION 00740",
+          "chunks": 9,
+          "knn_purity": 0.0667,
+          "dilution_delta": 0.9333
+        },
+        {
+          "category": "SECTION 00743",
+          "chunks": 16,
+          "knn_purity": 0.125,
+          "dilution_delta": 0.875
+        },
+        {
+          "category": "SECTION 00744",
+          "chunks": 27,
+          "knn_purity": 0.1296,
+          "dilution_delta": 0.8704
+        },
+        {
+          "category": "SECTION 00745",
+          "chunks": 42,
+          "knn_purity": 0.2476,
+          "dilution_delta": 0.7524
+        },
+        {
+          "category": "SECTION 00746",
+          "chunks": 7,
+          "knn_purity": 0.1714,
+          "dilution_delta": 0.8286
+        },
+        {
+          "category": "SECTION 00748",
+          "chunks": 21,
+          "knn_purity": 0.2952,
+          "dilution_delta": 0.7048
+        },
+        {
+          "category": "SECTION 00749",
+          "chunks": 4,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "SECTION 00755",
+          "chunks": 22,
+          "knn_purity": 0.2227,
+          "dilution_delta": 0.7773
+        },
+        {
+          "category": "SECTION 00756",
+          "chunks": 8,
+          "knn_purity": 0.275,
+          "dilution_delta": 0.725
+        },
+        {
+          "category": "SECTION 00759",
+          "chunks": 20,
+          "knn_purity": 0.13,
+          "dilution_delta": 0.87
+        },
+        {
+          "category": "SECTION 00810",
+          "chunks": 7,
+          "knn_purity": 0.1714,
+          "dilution_delta": 0.8286
+        },
+        {
+          "category": "SECTION 00811",
+          "chunks": 6,
+          "knn_purity": 0.25,
+          "dilution_delta": 0.75
+        },
+        {
+          "category": "SECTION 00812",
+          "chunks": 7,
+          "knn_purity": 0.1714,
+          "dilution_delta": 0.8286
+        },
+        {
+          "category": "SECTION 00815",
+          "chunks": 6,
+          "knn_purity": 0.1333,
+          "dilution_delta": 0.8667
+        },
+        {
+          "category": "SECTION 00820",
+          "chunks": 30,
+          "knn_purity": 0.2,
+          "dilution_delta": 0.8
+        },
+        {
+          "category": "SECTION 00822",
+          "chunks": 139,
+          "knn_purity": 0.7396,
+          "dilution_delta": 0.2604
+        },
+        {
+          "category": "SECTION 00830",
+          "chunks": 2,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "SECTION 00840",
+          "chunks": 37,
+          "knn_purity": 0.3135,
+          "dilution_delta": 0.6865
+        },
+        {
+          "category": "SECTION 00842",
+          "chunks": 3,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "SECTION 00850",
+          "chunks": 27,
+          "knn_purity": 0.2,
+          "dilution_delta": 0.8
+        },
+        {
+          "category": "SECTION 00855",
+          "chunks": 31,
+          "knn_purity": 0.4581,
+          "dilution_delta": 0.5419
+        },
+        {
+          "category": "SECTION 00856",
+          "chunks": 8,
+          "knn_purity": 0.125,
+          "dilution_delta": 0.875
+        },
+        {
+          "category": "SECTION 00857",
+          "chunks": 5,
+          "knn_purity": 0.2,
+          "dilution_delta": 0.8
+        },
+        {
+          "category": "SECTION 00860",
+          "chunks": 6,
+          "knn_purity": 0.0667,
+          "dilution_delta": 0.9333
+        },
+        {
+          "category": "SECTION 00865",
+          "chunks": 34,
+          "knn_purity": 0.3,
+          "dilution_delta": 0.7
+        },
+        {
+          "category": "SECTION 00866",
+          "chunks": 10,
+          "knn_purity": 0.07,
+          "dilution_delta": 0.93
+        },
+        {
+          "category": "SECTION 00867",
+          "chunks": 21,
+          "knn_purity": 0.2429,
+          "dilution_delta": 0.7571
+        },
+        {
+          "category": "SECTION 00868",
+          "chunks": 8,
+          "knn_purity": 0.0625,
+          "dilution_delta": 0.9375
+        },
+        {
+          "category": "SECTION 00905",
+          "chunks": 4,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "SECTION 00910",
+          "chunks": 4,
+          "knn_purity": 0.15,
+          "dilution_delta": 0.85
+        },
+        {
+          "category": "SECTION 00920",
+          "chunks": 13,
+          "knn_purity": 0.6615,
+          "dilution_delta": 0.3385
+        },
+        {
+          "category": "SECTION 00921",
+          "chunks": 4,
+          "knn_purity": 0.225,
+          "dilution_delta": 0.775
+        },
+        {
+          "category": "SECTION 00930",
+          "chunks": 58,
+          "knn_purity": 0.4741,
+          "dilution_delta": 0.5259
+        },
+        {
+          "category": "SECTION 00940",
+          "chunks": 38,
+          "knn_purity": 0.2421,
+          "dilution_delta": 0.7579
+        },
+        {
+          "category": "SECTION 00941",
+          "chunks": 6,
+          "knn_purity": 0.1667,
+          "dilution_delta": 0.8333
+        },
+        {
+          "category": "SECTION 00950",
+          "chunks": 5,
+          "knn_purity": 0.24,
+          "dilution_delta": 0.76
+        },
+        {
+          "category": "SECTION 00960",
+          "chunks": 10,
+          "knn_purity": 0.14,
+          "dilution_delta": 0.86
+        },
+        {
+          "category": "SECTION 00962",
+          "chunks": 7,
+          "knn_purity": 0.1429,
+          "dilution_delta": 0.8571
+        },
+        {
+          "category": "SECTION 00963",
+          "chunks": 8,
+          "knn_purity": 0.2125,
+          "dilution_delta": 0.7875
+        },
+        {
+          "category": "SECTION 00970",
+          "chunks": 20,
+          "knn_purity": 0.34,
+          "dilution_delta": 0.66
+        },
+        {
+          "category": "SECTION 00990",
+          "chunks": 20,
+          "knn_purity": 0.225,
+          "dilution_delta": 0.775
+        },
+        {
+          "category": "SECTION 010",
+          "chunks": 1,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 01011",
+          "chunks": 321,
+          "knn_purity": 0.8265,
+          "dilution_delta": 0.1735
+        },
+        {
+          "category": "SECTION 01030",
+          "chunks": 45,
+          "knn_purity": 0.2622,
+          "dilution_delta": 0.7378
+        },
+        {
+          "category": "SECTION 01040",
+          "chunks": 12,
+          "knn_purity": 0.3333,
+          "dilution_delta": 0.6667
+        },
+        {
+          "category": "SECTION 01050",
+          "chunks": 35,
+          "knn_purity": 0.78,
+          "dilution_delta": 0.22
+        },
+        {
+          "category": "SECTION 01069",
+          "chunks": 6,
+          "knn_purity": 0.0833,
+          "dilution_delta": 0.9167
+        },
+        {
+          "category": "SECTION 01070",
+          "chunks": 7,
+          "knn_purity": 0.2286,
+          "dilution_delta": 0.7714
+        },
+        {
+          "category": "SECTION 01090",
+          "chunks": 2,
+          "knn_purity": 0.05,
+          "dilution_delta": 0.95
+        },
+        {
+          "category": "SECTION 01120",
+          "chunks": 42,
+          "knn_purity": 0.2905,
+          "dilution_delta": 0.7095
+        },
+        {
+          "category": "SECTION 01140",
+          "chunks": 19,
+          "knn_purity": 0.1211,
+          "dilution_delta": 0.8789
+        },
+        {
+          "category": "SECTION 01150",
+          "chunks": 4,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "SECTION 01160",
+          "chunks": 5,
+          "knn_purity": 0.26,
+          "dilution_delta": 0.74
+        },
+        {
+          "category": "SECTION 01170",
+          "chunks": 5,
+          "knn_purity": 0.18,
+          "dilution_delta": 0.82
+        },
+        {
+          "category": "SECTION 01215",
+          "chunks": 1,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 01235",
+          "chunks": 19,
+          "knn_purity": 0.3105,
+          "dilution_delta": 0.6895
+        },
+        {
+          "category": "SECTION 01240",
+          "chunks": 17,
+          "knn_purity": 0.2647,
+          "dilution_delta": 0.7353
+        },
+        {
+          "category": "SECTION 01245",
+          "chunks": 15,
+          "knn_purity": 0.3333,
+          "dilution_delta": 0.6667
+        },
+        {
+          "category": "SECTION 01255",
+          "chunks": 12,
+          "knn_purity": 0.2,
+          "dilution_delta": 0.8
+        },
+        {
+          "category": "SECTION 01260",
+          "chunks": 13,
+          "knn_purity": 0.2154,
+          "dilution_delta": 0.7846
+        },
+        {
+          "category": "SECTION 02001",
+          "chunks": 117,
+          "knn_purity": 0.4282,
+          "dilution_delta": 0.5718
+        },
+        {
+          "category": "SECTION 02010",
+          "chunks": 19,
+          "knn_purity": 0.3368,
+          "dilution_delta": 0.6632
+        },
+        {
+          "category": "SECTION 02015",
+          "chunks": 37,
+          "knn_purity": 0.2946,
+          "dilution_delta": 0.7054
+        },
+        {
+          "category": "SECTION 02020",
+          "chunks": 11,
+          "knn_purity": 0.1364,
+          "dilution_delta": 0.8636
+        },
+        {
+          "category": "SECTION 02030",
+          "chunks": 2,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "SECTION 02035",
+          "chunks": 2,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 02040",
+          "chunks": 2,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "SECTION 02045",
+          "chunks": 4,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "SECTION 02050",
+          "chunks": 3,
+          "knn_purity": 0.1333,
+          "dilution_delta": 0.8667
+        },
+        {
+          "category": "SECTION 02055",
+          "chunks": 1,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 02060",
+          "chunks": 2,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 02070",
+          "chunks": 1,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 02080",
+          "chunks": 140,
+          "knn_purity": 0.3671,
+          "dilution_delta": 0.6329
+        },
+        {
+          "category": "SECTION 02090",
+          "chunks": 10,
+          "knn_purity": 0.11,
+          "dilution_delta": 0.89
+        },
+        {
+          "category": "SECTION 02110",
+          "chunks": 2,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "SECTION 02120",
+          "chunks": 2,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "SECTION 02130",
+          "chunks": 1,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 02140",
+          "chunks": 2,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "SECTION 02150",
+          "chunks": 6,
+          "knn_purity": 0.2667,
+          "dilution_delta": 0.7333
+        },
+        {
+          "category": "SECTION 02190",
+          "chunks": 4,
+          "knn_purity": 0.05,
+          "dilution_delta": 0.95
+        },
+        {
+          "category": "SECTION 02210",
+          "chunks": 3,
+          "knn_purity": 0.1333,
+          "dilution_delta": 0.8667
+        },
+        {
+          "category": "SECTION 02320",
+          "chunks": 46,
+          "knn_purity": 0.5522,
+          "dilution_delta": 0.4478
+        },
+        {
+          "category": "SECTION 02340",
+          "chunks": 9,
+          "knn_purity": 0.3,
+          "dilution_delta": 0.7
+        },
+        {
+          "category": "SECTION 02350",
+          "chunks": 3,
+          "knn_purity": 0.0333,
+          "dilution_delta": 0.9667
+        },
+        {
+          "category": "SECTION 02410",
+          "chunks": 7,
+          "knn_purity": 0.2571,
+          "dilution_delta": 0.7429
+        },
+        {
+          "category": "SECTION 02415",
+          "chunks": 9,
+          "knn_purity": 0.3667,
+          "dilution_delta": 0.6333
+        },
+        {
+          "category": "SECTION 02420",
+          "chunks": 15,
+          "knn_purity": 0.4667,
+          "dilution_delta": 0.5333
+        },
+        {
+          "category": "SECTION 02430",
+          "chunks": 4,
+          "knn_purity": 0.3,
+          "dilution_delta": 0.7
+        },
+        {
+          "category": "SECTION 02440",
+          "chunks": 145,
+          "knn_purity": 0.6331,
+          "dilution_delta": 0.3669
+        },
+        {
+          "category": "SECTION 02450",
+          "chunks": 3,
+          "knn_purity": 0.1333,
+          "dilution_delta": 0.8667
+        },
+        {
+          "category": "SECTION 02470",
+          "chunks": 7,
+          "knn_purity": 0.2429,
+          "dilution_delta": 0.7571
+        },
+        {
+          "category": "SECTION 02475",
+          "chunks": 5,
+          "knn_purity": 0.22,
+          "dilution_delta": 0.78
+        },
+        {
+          "category": "SECTION 02480",
+          "chunks": 10,
+          "knn_purity": 0.38,
+          "dilution_delta": 0.62
+        },
+        {
+          "category": "SECTION 02485",
+          "chunks": 5,
+          "knn_purity": 0.24,
+          "dilution_delta": 0.76
+        },
+        {
+          "category": "SECTION 02490",
+          "chunks": 9,
+          "knn_purity": 0.3778,
+          "dilution_delta": 0.6222
+        },
+        {
+          "category": "SECTION 02510",
+          "chunks": 46,
+          "knn_purity": 0.2565,
+          "dilution_delta": 0.7435
+        },
+        {
+          "category": "SECTION 02513",
+          "chunks": 5,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "SECTION 02515",
+          "chunks": 5,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "SECTION 02520",
+          "chunks": 10,
+          "knn_purity": 0.16,
+          "dilution_delta": 0.84
+        },
+        {
+          "category": "SECTION 02530",
+          "chunks": 16,
+          "knn_purity": 0.15,
+          "dilution_delta": 0.85
+        },
+        {
+          "category": "SECTION 02540",
+          "chunks": 4,
+          "knn_purity": 0.2,
+          "dilution_delta": 0.8
+        },
+        {
+          "category": "SECTION 02560",
+          "chunks": 18,
+          "knn_purity": 0.2444,
+          "dilution_delta": 0.7556
+        },
+        {
+          "category": "SECTION 02570",
+          "chunks": 53,
+          "knn_purity": 0.3943,
+          "dilution_delta": 0.6057
+        },
+        {
+          "category": "SECTION 02571",
+          "chunks": 153,
+          "knn_purity": 0.5418,
+          "dilution_delta": 0.4582
+        },
+        {
+          "category": "SECTION 02610",
+          "chunks": 16,
+          "knn_purity": 0.4125,
+          "dilution_delta": 0.5875
+        },
+        {
+          "category": "SECTION 02630",
+          "chunks": 11,
+          "knn_purity": 0.1182,
+          "dilution_delta": 0.8818
+        },
+        {
+          "category": "SECTION 02640",
+          "chunks": 4,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "SECTION 02690",
+          "chunks": 1,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 02810",
+          "chunks": 4,
+          "knn_purity": 0.2,
+          "dilution_delta": 0.8
+        },
+        {
+          "category": "SECTION 02820",
+          "chunks": 14,
+          "knn_purity": 0.1571,
+          "dilution_delta": 0.8429
+        },
+        {
+          "category": "SECTION 02830",
+          "chunks": 3,
+          "knn_purity": 0.1333,
+          "dilution_delta": 0.8667
+        },
+        {
+          "category": "SECTION 02831",
+          "chunks": 4,
+          "knn_purity": 0.15,
+          "dilution_delta": 0.85
+        },
+        {
+          "category": "SECTION 02910",
+          "chunks": 38,
+          "knn_purity": 0.4,
+          "dilution_delta": 0.6
+        },
+        {
+          "category": "SECTION 02926",
+          "chunks": 29,
+          "knn_purity": 0.5966,
+          "dilution_delta": 0.4034
+        },
+        {
+          "category": "SECTION 030",
+          "chunks": 2,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 03010",
+          "chunks": 7,
+          "knn_purity": 0.1857,
+          "dilution_delta": 0.8143
+        },
+        {
+          "category": "SECTION 03020",
+          "chunks": 434,
+          "knn_purity": 0.7968,
+          "dilution_delta": 0.2032
+        },
+        {
+          "category": "SECTION 035",
+          "chunks": 6,
+          "knn_purity": 0.1333,
+          "dilution_delta": 0.8667
+        },
+        {
+          "category": "SECTION 065",
+          "chunks": 14,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "SECTION 0810",
+          "chunks": 20,
+          "knn_purity": 0.245,
+          "dilution_delta": 0.755
+        },
+        {
+          "category": "SECTION 1",
+          "chunks": 3346,
+          "knn_purity": 0.6723,
+          "dilution_delta": 0.3277
+        },
+        {
+          "category": "SECTION 10",
+          "chunks": 239,
+          "knn_purity": 0.3293,
+          "dilution_delta": 0.6707
+        },
+        {
+          "category": "SECTION 100",
+          "chunks": 4,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "SECTION 1001",
+          "chunks": 3,
+          "knn_purity": 0.0333,
+          "dilution_delta": 0.9667
+        },
+        {
+          "category": "SECTION 1003",
+          "chunks": 35,
+          "knn_purity": 0.3571,
+          "dilution_delta": 0.6429
+        },
+        {
+          "category": "SECTION 1004",
+          "chunks": 32,
+          "knn_purity": 0.3812,
+          "dilution_delta": 0.6188
+        },
+        {
+          "category": "SECTION 1005",
+          "chunks": 22,
+          "knn_purity": 0.2318,
+          "dilution_delta": 0.7682
+        },
+        {
+          "category": "SECTION 1006",
+          "chunks": 7,
+          "knn_purity": 0.3143,
+          "dilution_delta": 0.6857
+        },
+        {
+          "category": "SECTION 1007",
+          "chunks": 2,
+          "knn_purity": 0.05,
+          "dilution_delta": 0.95
+        },
+        {
+          "category": "SECTION 101",
+          "chunks": 6,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "SECTION 102",
+          "chunks": 14,
+          "knn_purity": 0.1286,
+          "dilution_delta": 0.8714
+        },
+        {
+          "category": "SECTION 103",
+          "chunks": 4,
+          "knn_purity": 0.025,
+          "dilution_delta": 0.975
+        },
+        {
+          "category": "SECTION 104",
+          "chunks": 2,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 106",
+          "chunks": 81,
+          "knn_purity": 0.4938,
+          "dilution_delta": 0.5062
+        },
+        {
+          "category": "SECTION 11",
+          "chunks": 222,
+          "knn_purity": 0.2959,
+          "dilution_delta": 0.7041
+        },
+        {
+          "category": "SECTION 11105",
+          "chunks": 1,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 11405",
+          "chunks": 29,
+          "knn_purity": 0.3759,
+          "dilution_delta": 0.6241
+        },
+        {
+          "category": "SECTION 12",
+          "chunks": 98,
+          "knn_purity": 0.3531,
+          "dilution_delta": 0.6469
+        },
+        {
+          "category": "SECTION 122",
+          "chunks": 11,
+          "knn_purity": 0.1455,
+          "dilution_delta": 0.8545
+        },
+        {
+          "category": "SECTION 129",
+          "chunks": 49,
+          "knn_purity": 0.3082,
+          "dilution_delta": 0.6918
+        },
+        {
+          "category": "SECTION 13",
+          "chunks": 458,
+          "knn_purity": 0.4598,
+          "dilution_delta": 0.5402
+        },
+        {
+          "category": "SECTION 130",
+          "chunks": 6,
+          "knn_purity": 0.0667,
+          "dilution_delta": 0.9333
+        },
+        {
+          "category": "SECTION 1303",
+          "chunks": 4,
+          "knn_purity": 0.05,
+          "dilution_delta": 0.95
+        },
+        {
+          "category": "SECTION 131",
+          "chunks": 5,
+          "knn_purity": 0.2,
+          "dilution_delta": 0.8
+        },
+        {
+          "category": "SECTION 135",
+          "chunks": 2,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 14",
+          "chunks": 19,
+          "knn_purity": 0.1105,
+          "dilution_delta": 0.8895
+        },
+        {
+          "category": "SECTION 1408",
+          "chunks": 7,
+          "knn_purity": 0.2143,
+          "dilution_delta": 0.7857
+        },
+        {
+          "category": "SECTION 141",
+          "chunks": 11,
+          "knn_purity": 0.1727,
+          "dilution_delta": 0.8273
+        },
+        {
+          "category": "SECTION 148",
+          "chunks": 10,
+          "knn_purity": 0.09,
+          "dilution_delta": 0.91
+        },
+        {
+          "category": "SECTION 15",
+          "chunks": 224,
+          "knn_purity": 0.3397,
+          "dilution_delta": 0.6603
+        },
+        {
+          "category": "SECTION 16",
+          "chunks": 17,
+          "knn_purity": 0.2,
+          "dilution_delta": 0.8
+        },
+        {
+          "category": "SECTION 160",
+          "chunks": 3,
+          "knn_purity": 0.0333,
+          "dilution_delta": 0.9667
+        },
+        {
+          "category": "SECTION 164",
+          "chunks": 1,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 167",
+          "chunks": 1,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 17",
+          "chunks": 4,
+          "knn_purity": 0.05,
+          "dilution_delta": 0.95
+        },
+        {
+          "category": "SECTION 18",
+          "chunks": 53,
+          "knn_purity": 0.2943,
+          "dilution_delta": 0.7057
+        },
+        {
+          "category": "SECTION 1805",
+          "chunks": 4,
+          "knn_purity": 0.2,
+          "dilution_delta": 0.8
+        },
+        {
+          "category": "SECTION 19",
+          "chunks": 139,
+          "knn_purity": 0.5424,
+          "dilution_delta": 0.4576
+        },
+        {
+          "category": "SECTION 1981",
+          "chunks": 2,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 2",
+          "chunks": 1912,
+          "knn_purity": 0.5041,
+          "dilution_delta": 0.4959
+        },
+        {
+          "category": "SECTION 20",
+          "chunks": 28,
+          "knn_purity": 0.1607,
+          "dilution_delta": 0.8393
+        },
+        {
+          "category": "SECTION 200",
+          "chunks": 244,
+          "knn_purity": 0.4143,
+          "dilution_delta": 0.5857
+        },
+        {
+          "category": "SECTION 201",
+          "chunks": 6,
+          "knn_purity": 0.0833,
+          "dilution_delta": 0.9167
+        },
+        {
+          "category": "SECTION 202",
+          "chunks": 2,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 203",
+          "chunks": 9,
+          "knn_purity": 0.2111,
+          "dilution_delta": 0.7889
+        },
+        {
+          "category": "SECTION 204",
+          "chunks": 12,
+          "knn_purity": 0.2833,
+          "dilution_delta": 0.7167
+        },
+        {
+          "category": "SECTION 205",
+          "chunks": 16,
+          "knn_purity": 0.4187,
+          "dilution_delta": 0.5813
+        },
+        {
+          "category": "SECTION 206",
+          "chunks": 8,
+          "knn_purity": 0.125,
+          "dilution_delta": 0.875
+        },
+        {
+          "category": "SECTION 207",
+          "chunks": 9,
+          "knn_purity": 0.0556,
+          "dilution_delta": 0.9444
+        },
+        {
+          "category": "SECTION 208",
+          "chunks": 2,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "SECTION 209",
+          "chunks": 164,
+          "knn_purity": 0.2348,
+          "dilution_delta": 0.7652
+        },
+        {
+          "category": "SECTION 21",
+          "chunks": 36,
+          "knn_purity": 0.2667,
+          "dilution_delta": 0.7333
+        },
+        {
+          "category": "SECTION 213",
+          "chunks": 1292,
+          "knn_purity": 0.8767,
+          "dilution_delta": 0.1233
+        },
+        {
+          "category": "SECTION 22",
+          "chunks": 3,
+          "knn_purity": 0.0333,
+          "dilution_delta": 0.9667
+        },
+        {
+          "category": "SECTION 23",
+          "chunks": 16,
+          "knn_purity": 0.2125,
+          "dilution_delta": 0.7875
+        },
+        {
+          "category": "SECTION 2305",
+          "chunks": 1,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 24",
+          "chunks": 28,
+          "knn_purity": 0.2786,
+          "dilution_delta": 0.7214
+        },
+        {
+          "category": "SECTION 24102",
+          "chunks": 58,
+          "knn_purity": 0.2138,
+          "dilution_delta": 0.7862
+        },
+        {
+          "category": "SECTION 25",
+          "chunks": 18,
+          "knn_purity": 0.1667,
+          "dilution_delta": 0.8333
+        },
+        {
+          "category": "SECTION 265",
+          "chunks": 17,
+          "knn_purity": 0.5294,
+          "dilution_delta": 0.4706
+        },
+        {
+          "category": "SECTION 3",
+          "chunks": 1605,
+          "knn_purity": 0.4143,
+          "dilution_delta": 0.5857
+        },
+        {
+          "category": "SECTION 30",
+          "chunks": 15,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "SECTION 301",
+          "chunks": 11,
+          "knn_purity": 0.2182,
+          "dilution_delta": 0.7818
+        },
+        {
+          "category": "SECTION 302",
+          "chunks": 2,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "SECTION 303",
+          "chunks": 14,
+          "knn_purity": 0.3143,
+          "dilution_delta": 0.6857
+        },
+        {
+          "category": "SECTION 31102",
+          "chunks": 3,
+          "knn_purity": 0.0667,
+          "dilution_delta": 0.9333
+        },
+        {
+          "category": "SECTION 37",
+          "chunks": 136,
+          "knn_purity": 0.8559,
+          "dilution_delta": 0.1441
+        },
+        {
+          "category": "SECTION 4",
+          "chunks": 1510,
+          "knn_purity": 0.5415,
+          "dilution_delta": 0.4585
+        },
+        {
+          "category": "SECTION 400",
+          "chunks": 3,
+          "knn_purity": 0.2,
+          "dilution_delta": 0.8
+        },
+        {
+          "category": "SECTION 401",
+          "chunks": 67,
+          "knn_purity": 0.494,
+          "dilution_delta": 0.506
+        },
+        {
+          "category": "SECTION 402",
+          "chunks": 68,
+          "knn_purity": 0.2,
+          "dilution_delta": 0.8
+        },
+        {
+          "category": "SECTION 403",
+          "chunks": 1,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 404",
+          "chunks": 267,
+          "knn_purity": 0.6067,
+          "dilution_delta": 0.3933
+        },
+        {
+          "category": "SECTION 4040",
+          "chunks": 43,
+          "knn_purity": 0.207,
+          "dilution_delta": 0.793
+        },
+        {
+          "category": "SECTION 41",
+          "chunks": 14,
+          "knn_purity": 0.6,
+          "dilution_delta": 0.4
+        },
+        {
+          "category": "SECTION 411",
+          "chunks": 21,
+          "knn_purity": 0.2619,
+          "dilution_delta": 0.7381
+        },
+        {
+          "category": "SECTION 426",
+          "chunks": 61,
+          "knn_purity": 0.3246,
+          "dilution_delta": 0.6754
+        },
+        {
+          "category": "SECTION 446",
+          "chunks": 1048,
+          "knn_purity": 0.8031,
+          "dilution_delta": 0.1969
+        },
+        {
+          "category": "SECTION 45",
+          "chunks": 73,
+          "knn_purity": 0.4493,
+          "dilution_delta": 0.5507
+        },
+        {
+          "category": "SECTION 5",
+          "chunks": 721,
+          "knn_purity": 0.3775,
+          "dilution_delta": 0.6225
+        },
+        {
+          "category": "SECTION 50",
+          "chunks": 75,
+          "knn_purity": 0.4587,
+          "dilution_delta": 0.5413
+        },
+        {
+          "category": "SECTION 500",
+          "chunks": 11,
+          "knn_purity": 0.2273,
+          "dilution_delta": 0.7727
+        },
+        {
+          "category": "SECTION 501",
+          "chunks": 60,
+          "knn_purity": 0.28,
+          "dilution_delta": 0.72
+        },
+        {
+          "category": "SECTION 502",
+          "chunks": 1,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 503",
+          "chunks": 6,
+          "knn_purity": 0.3667,
+          "dilution_delta": 0.6333
+        },
+        {
+          "category": "SECTION 504",
+          "chunks": 178,
+          "knn_purity": 0.4539,
+          "dilution_delta": 0.5461
+        },
+        {
+          "category": "SECTION 505",
+          "chunks": 11,
+          "knn_purity": 0.0909,
+          "dilution_delta": 0.9091
+        },
+        {
+          "category": "SECTION 506",
+          "chunks": 6,
+          "knn_purity": 0.1167,
+          "dilution_delta": 0.8833
+        },
+        {
+          "category": "SECTION 507",
+          "chunks": 2,
+          "knn_purity": 0.05,
+          "dilution_delta": 0.95
+        },
+        {
+          "category": "SECTION 508",
+          "chunks": 30,
+          "knn_purity": 0.18,
+          "dilution_delta": 0.82
+        },
+        {
+          "category": "SECTION 509",
+          "chunks": 2,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 510",
+          "chunks": 4,
+          "knn_purity": 0.025,
+          "dilution_delta": 0.975
+        },
+        {
+          "category": "SECTION 511",
+          "chunks": 2,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 512",
+          "chunks": 6,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "SECTION 513",
+          "chunks": 3,
+          "knn_purity": 0.0333,
+          "dilution_delta": 0.9667
+        },
+        {
+          "category": "SECTION 514",
+          "chunks": 2,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 515",
+          "chunks": 2,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 516",
+          "chunks": 2,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 517",
+          "chunks": 2,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 518",
+          "chunks": 2,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 519",
+          "chunks": 4,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 520",
+          "chunks": 2,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 5307",
+          "chunks": 392,
+          "knn_purity": 0.4301,
+          "dilution_delta": 0.5699
+        },
+        {
+          "category": "SECTION 5309",
+          "chunks": 1,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 5310",
+          "chunks": 60,
+          "knn_purity": 0.2317,
+          "dilution_delta": 0.7683
+        },
+        {
+          "category": "SECTION 5311",
+          "chunks": 126,
+          "knn_purity": 0.3183,
+          "dilution_delta": 0.6817
+        },
+        {
+          "category": "SECTION 5314",
+          "chunks": 43,
+          "knn_purity": 0.114,
+          "dilution_delta": 0.886
+        },
+        {
+          "category": "SECTION 5337",
+          "chunks": 1,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 555",
+          "chunks": 986,
+          "knn_purity": 0.433,
+          "dilution_delta": 0.567
+        },
+        {
+          "category": "SECTION 6",
+          "chunks": 613,
+          "knn_purity": 0.3845,
+          "dilution_delta": 0.6155
+        },
+        {
+          "category": "SECTION 601",
+          "chunks": 5,
+          "knn_purity": 0.06,
+          "dilution_delta": 0.94
+        },
+        {
+          "category": "SECTION 602",
+          "chunks": 17,
+          "knn_purity": 0.3176,
+          "dilution_delta": 0.6824
+        },
+        {
+          "category": "SECTION 603",
+          "chunks": 5,
+          "knn_purity": 0.2,
+          "dilution_delta": 0.8
+        },
+        {
+          "category": "SECTION 604",
+          "chunks": 2,
+          "knn_purity": 0.05,
+          "dilution_delta": 0.95
+        },
+        {
+          "category": "SECTION 605",
+          "chunks": 1,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 610",
+          "chunks": 1,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 635",
+          "chunks": 9,
+          "knn_purity": 0.2667,
+          "dilution_delta": 0.7333
+        },
+        {
+          "category": "SECTION 660",
+          "chunks": 100,
+          "knn_purity": 0.466,
+          "dilution_delta": 0.534
+        },
+        {
+          "category": "SECTION 7",
+          "chunks": 557,
+          "knn_purity": 0.4321,
+          "dilution_delta": 0.5679
+        },
+        {
+          "category": "SECTION 701",
+          "chunks": 28,
+          "knn_purity": 0.2,
+          "dilution_delta": 0.8
+        },
+        {
+          "category": "SECTION 702",
+          "chunks": 5,
+          "knn_purity": 0.14,
+          "dilution_delta": 0.86
+        },
+        {
+          "category": "SECTION 703",
+          "chunks": 72,
+          "knn_purity": 0.6028,
+          "dilution_delta": 0.3972
+        },
+        {
+          "category": "SECTION 704",
+          "chunks": 23,
+          "knn_purity": 0.3522,
+          "dilution_delta": 0.6478
+        },
+        {
+          "category": "SECTION 708",
+          "chunks": 17,
+          "knn_purity": 0.2118,
+          "dilution_delta": 0.7882
+        },
+        {
+          "category": "SECTION 71",
+          "chunks": 3114,
+          "knn_purity": 0.9807,
+          "dilution_delta": 0.0193
+        },
+        {
+          "category": "SECTION 741",
+          "chunks": 69,
+          "knn_purity": 0.3667,
+          "dilution_delta": 0.6333
+        },
+        {
+          "category": "SECTION 75",
+          "chunks": 103,
+          "knn_purity": 0.5505,
+          "dilution_delta": 0.4495
+        },
+        {
+          "category": "SECTION 78",
+          "chunks": 245,
+          "knn_purity": 0.5433,
+          "dilution_delta": 0.4567
+        },
+        {
+          "category": "SECTION 8",
+          "chunks": 494,
+          "knn_purity": 0.3951,
+          "dilution_delta": 0.6049
+        },
+        {
+          "category": "SECTION 800",
+          "chunks": 183,
+          "knn_purity": 0.6732,
+          "dilution_delta": 0.3268
+        },
+        {
+          "category": "SECTION 801",
+          "chunks": 86,
+          "knn_purity": 0.5221,
+          "dilution_delta": 0.4779
+        },
+        {
+          "category": "SECTION 802",
+          "chunks": 7,
+          "knn_purity": 0.2714,
+          "dilution_delta": 0.7286
+        },
+        {
+          "category": "SECTION 815",
+          "chunks": 1,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        },
+        {
+          "category": "SECTION 9",
+          "chunks": 160,
+          "knn_purity": 0.3225,
+          "dilution_delta": 0.6775
+        },
+        {
+          "category": "SECTION 910",
+          "chunks": 3,
+          "knn_purity": 0.1667,
+          "dilution_delta": 0.8333
+        },
+        {
+          "category": "SECTION 920",
+          "chunks": 3,
+          "knn_purity": 0.1333,
+          "dilution_delta": 0.8667
+        },
+        {
+          "category": "SECTION 930",
+          "chunks": 4,
+          "knn_purity": 0.125,
+          "dilution_delta": 0.875
+        },
+        {
+          "category": "SECTION 940",
+          "chunks": 4,
+          "knn_purity": 0.1,
+          "dilution_delta": 0.9
+        },
+        {
+          "category": "SECTION 941",
+          "chunks": 1,
+          "knn_purity": 0.0,
+          "dilution_delta": 1.0
+        }
+      ]
+    }
+  ]
+}

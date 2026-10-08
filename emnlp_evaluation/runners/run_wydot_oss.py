@@ -40,7 +40,7 @@ from emnlp_evaluation.agents.tools_oss import SearchBackend
 from emnlp_evaluation.composite_corpus.rerank_backend import RerankBackend
 from emnlp_evaluation.agents.orchestrator_oss import run_orchestrator
 from emnlp_evaluation.agents.orchestrator_singlecall import run_singlecall_orchestrator
-from emnlp_evaluation.agents.hybrid_routed import run_hybrid_routed, run_regex_scoped, run_r2_routed
+from emnlp_evaluation.agents.hybrid_routed import run_hybrid_routed, run_regex_scoped, run_r2_routed, run_soft_scoped, CentroidRouter
 from emnlp_evaluation.agents.naive_rag import run_naive_rag
 from emnlp_evaluation.agents.react_baseline import run_react
 from emnlp_evaluation.agents.ma_rag import run_ma_rag
@@ -51,6 +51,7 @@ SUITE_PATH = _REPO / "evaluation" / "test_suite_200.json"
 
 
 SYSTEMS = {
+    "soft_scoped":   "Soft-scoped (centroid router, top-2 scopes + global, RRF; one call)",
     "monolithic":    "Monolithic / Naive RAG",
     "regex_scoped":  "Regex + scoped retrieval",
     "hybrid_routed": "Hybrid-Routed (regex → LLM → scoped)",
@@ -68,7 +69,17 @@ def _resolve_index(embedder_name: str) -> str:
     return cfg.NEO4J_BGE_M3_INDEX if embedder_name == "bge_m3" else cfg.NEO4J_GEMINI_INDEX
 
 
+# Centroid router for soft_scoped; built in main() from per-agent centroids
+# (router/artifacts/wydot_<embedder>_agent_centroids.npz).
+_SOFT_ROUTER = None
+
+
 def _run_one(system: str, query: str, llm, backend) -> dict:
+    if system == "soft_scoped":
+        t = run_soft_scoped(query, llm=llm, backend=backend, centroid_router=_SOFT_ROUTER, m=2)
+        return _trace_dict(t, system,
+                           routed_agents=t.routed_agent.split(",") if t.routed_agent else [],
+                           route_decision=t.route_decision)
     if system in ("monolithic", "naive"):
         t = run_naive_rag(query, llm=llm, backend=backend)
         return _trace_dict(t, system, routed_agents=["__global__"])
@@ -177,6 +188,13 @@ def main():
     )
     if args.rerank:
         backend = RerankBackend(backend)
+    if "soft_scoped" in systems:
+        import numpy as np
+        global _SOFT_ROUTER
+        cpath = Path(__file__).resolve().parents[1] / "router" / "artifacts" / f"wydot_{args.embedder}_agent_centroids.npz"
+        cz = np.load(cpath)
+        _SOFT_ROUTER = CentroidRouter({k: cz[k] for k in cz.files})
+        print(f"[runner] soft_scoped centroids: {cpath.name} scopes={_SOFT_ROUTER.scopes}", flush=True)
 
     suite = _load_suite()
     if args.query_ids:

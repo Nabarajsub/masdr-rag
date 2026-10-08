@@ -1,0 +1,35 @@
+{
+  "hand_series": {
+    "acc_mean": 0.7870967741935484,
+    "acc_std": 0.06642342026443224,
+    "f1_mean": 0.769358320364013,
+    "f1_std": 0.07349678148191141,
+    "n": 155,
+    "classes": [
+      "Annual Reports",
+      "Bridge Program",
+      "Construction Manual",
+      "Design Manual",
+      "General",
+      "Materials Testing",
+      "STIP",
+      "Standard Specs",
+      "Traffic & Safety"
+    ]
+  },
+  "disc_k11": {
+    "acc_mean": 0.7483870967741936,
+    "acc_std": 0.07184212081070998,
+    "f1_mean": 0.7353059713586615,
+    "f1_std": 0.0716204556351668,
+    "n": 155,
+    "classes": [
+      "scope_0",
+      "scope_1",
+      "scope_10",
+      "scope_4",
+      "scope_6",
+      "scope_7"
+    ]
+  }
+}
